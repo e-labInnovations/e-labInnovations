@@ -58,7 +58,7 @@
 <img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
 <br />
 
-## 🔔 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐮𝐬
+## 🔔 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-labinnovations&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=e-labinnovations&show_icons=true&theme=dracula)
