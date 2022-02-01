@@ -34,13 +34,12 @@
 <br />
 
 ## :book: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-- 🎓 Electronics engineering student
+- 🎓 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://github.com/e-labInnovations/logo/raw/main/e-lab%20logo%20svg-01.svg" height="30em" align="center" alt="e-lab innovations" title="e-lab innovations"/>](https://elabins.com)
 <br />
 
 ## 🔧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 <!-- ![Arduino](https://img.shields.io/badge/IDE-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=blue) -->
-
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -58,9 +57,16 @@
 <img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
 <br />
 
+## :writing_hand: 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br />
+
 ## 🔔 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-labinnovations&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-labinnovations&layout=compact&theme=vision-friendly-dark)
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=e-labinnovations&show_icons=true&theme=dracula)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-labInnovations&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 <br />
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=e-labInnovations&color=2088FF)
