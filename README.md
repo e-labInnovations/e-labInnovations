@@ -7,7 +7,7 @@
 </p>
   <p align="center">
     <a href="https://elabins.com">
-      <img alt="Facebook" title="e-lab innovations" height="32" width="32" src="https://raw.githubusercontent.com/e-labInnovations/logo/main/logo.svg">
+      <img alt="e-lab innovations" title="e-lab innovations" height="32" width="32" src="https://raw.githubusercontent.com/e-labInnovations/logo/main/logo.svg">
     </a>
     <a href="https://t.me/elab_innovations">
       <img alt="Facebook" title="Telegram" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png">
