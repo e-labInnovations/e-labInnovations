@@ -1,7 +1,7 @@
 <img src="https://github.com/e-labInnovations/e-labInnovations/blob/master/banner.png" alt="e-lab innovations Banner">
 
 <p align="center">
- <img width="100px" src="https://github.com/e-labInnovations/e-labInnovations/blob/master/profile_circle.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/e-labInnovations/e-labInnovations/blob/master/profile_circle.png" align="center" alt="e-lab innovations" />
  <h2 align="center">Mohammed Ashad MM</h2>
  <p align="center">An Electronics Student With A Keyboard</p>
 </p>
