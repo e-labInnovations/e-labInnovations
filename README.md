@@ -40,27 +40,80 @@
 <br />
 
 ## :hammer_and_wrench: 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
-<img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />
-<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-<img align="left" alt="PWA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="Bulma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-<img align="left" alt="Putty" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
-<img align="left" alt="Socket.io" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+<p align="left">
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img alt="Arduino" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+ </a>
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img alt="Visual Studio Code" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ </a>
+ <a href="" target="_blank" rel="noreferrer">
+  <img alt="HTML5" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ </a>
+ <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+  <img alt="CSS3" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ </a>
+ <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+  <img alt="JavaScript" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ </a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <img alt="Node.js" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ </a>
+ <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+  <img alt="NPM" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+ </a>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img alt="React" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ </a>
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img alt="Express" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ </a>
+ <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+  <img alt="WordPress" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+ </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img alt="Git" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ </a>
+ <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img alt="GitHub" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ </a>
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img alt="Firebase" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+ </a>
+ <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+  <img alt="Jekyll" width="40px" height="40" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" />
+ </a>
+ <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+  <img alt="JSON" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
+ </a>
+ <a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer">
+  <img alt="PWA" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
+ </a>
+ <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img alt="Bootstrap" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+ </a>
+ <a href="" target="_blank" rel="noreferrer">
+  <img alt="Bulma" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+ </a>
+ <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
+  <img alt="Materialize" width="40px" height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
+ </a>
+ <a href="https://heroku.com/" target="_blank" rel="noreferrer">
+  <img alt="Heroku" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+ </a>
+ <a href="https://www.putty.org/" target="_blank" rel="noreferrer">
+  <img alt="Putty" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+ </a>
+ <a href="https://socket.io/" target="_blank" rel="noreferrer">
+  <img alt="Socket.io" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+ </a>
+ <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
+  <img alt="Pug" width="40px" height="40" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
+ </a>
+ <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img alt="Postman" width="40px" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+ </a>
+</p>
 <br />
 <br />
 
