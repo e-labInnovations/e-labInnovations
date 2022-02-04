@@ -53,7 +53,7 @@
 
 <img align="left" alt="Coding" width="200" src="/stack.gif">
 
-## :hammer_and_wrench: 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
+## :hammer_and_wrench: 𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬
 <p align="left">
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img alt="Arduino" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
@@ -151,10 +151,12 @@
 <br />
 
 ## 🔔 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
+![Github stats](https://github-readme-stats.vercel.app/api?username=e-labinnovations&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-labinnovations&layout=compact&theme=vision-friendly-dark)
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=e-labinnovations&show_icons=true&theme=dracula)
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-labInnovations&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+
 <br />
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=e-labInnovations&color=2088FF)
