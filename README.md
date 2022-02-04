@@ -12,10 +12,13 @@
 </p>
 <br />
 
+<img align="right" alt="Coding" width="200" src="/coding.gif">
+
 ## :book: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 - 🎓 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://github.com/e-labInnovations/logo/raw/main/e-lab%20logo%20svg-01.svg" height="30em" align="center" alt="e-lab innovations" title="e-lab innovations"/>](https://elabins.com)
 - :robot: 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 [𝚝𝚔𝚖𝚌𝚎 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚋𝚘𝚝](https://github.com/Karthik-Sunil-K/tkmcebot)
+
 <br />
 
 ## :hugs: 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞
@@ -45,6 +48,10 @@
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elabinnovations" height="30" width="40" />
 </a>
 </p>
+
+<br />
+
+<img align="left" alt="Coding" width="200" src="/stack.gif">
 
 ## :hammer_and_wrench: 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 <p align="left">
@@ -122,12 +129,15 @@
  </a>
 </p>
 
+<br />
+
 ## :writing_hand: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
 - [Deploying Node-RED into Heroku](https://elabins.com/2021/10/31/deploying-node-red-into-heroku/)
 - [Nokia 1208 Colour Display With Arduino](https://elabins.com/2020/08/22/nokia-1208-colour-display-with-arduino/)
 - [How to Make L293D Motor Driver Module](https://elabins.com/2020/02/22/how-to-make-l293d-motor-driver-module/)
 <!-- BLOG-POST-LIST:END -->
+
 <br />
 
 ## :tv: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐕𝐢𝐝𝐞𝐨𝐬
