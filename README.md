@@ -119,6 +119,9 @@
  <a href="https://heroku.com/" target="_blank" rel="noreferrer">
   <img alt="Heroku" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
  </a>
+ <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+  <img alt="Netlify" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/netlify/staticgen/master/src/images/netlify-logo.svg" />
+ </a>
  <a href="https://www.putty.org/" target="_blank" rel="noreferrer">
   <img alt="Putty" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
  </a>
