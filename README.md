@@ -143,10 +143,10 @@
 
 ## :writing_hand: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
+- [Bluetooth Servo](https://elabins.com/code_snippets/bluetooth-servo/)
+- [Download File From URL](https://elabins.com/code_snippets/download-file-from-url/)
 - [ESP12 Based Home Automation](https://elabins.com/2022/02/05/esp12-based-home-automation/)
 - [Deploying Node-RED into Heroku](https://elabins.com/2021/10/31/deploying-node-red-into-heroku/)
-- [Nokia 1208 Colour Display With Arduino](https://elabins.com/2020/08/22/nokia-1208-colour-display-with-arduino/)
-- [How to Make L293D Motor Driver Module](https://elabins.com/2020/02/22/how-to-make-l293d-motor-driver-module/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
