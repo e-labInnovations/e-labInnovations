@@ -143,10 +143,10 @@
 
 ## :writing_hand: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
+- [Upload File To Google Drive](https://elabins.com/code_snippets/upload-file-to-google-drive/)
+- [Get taxonomies terms links](https://elabins.com/code_snippets/get-taxonomies-terms-links/)
 - [Bluetooth Servo](https://elabins.com/code_snippets/bluetooth-servo/)
 - [Download File From URL](https://elabins.com/code_snippets/download-file-from-url/)
-- [ESP12 Based Home Automation](https://elabins.com/2022/02/05/esp12-based-home-automation/)
-- [Deploying Node-RED into Heroku](https://elabins.com/2021/10/31/deploying-node-red-into-heroku/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
