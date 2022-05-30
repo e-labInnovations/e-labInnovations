@@ -164,6 +164,8 @@
 ## 🔔 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 ![Github stats](https://github-readme-stats.vercel.app/api?username=e-labinnovations&show_icons=true&theme=dracula)
 
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=e-labinnovations&theme=react-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-labinnovations&layout=compact&theme=vision-friendly-dark)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-labInnovations&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
