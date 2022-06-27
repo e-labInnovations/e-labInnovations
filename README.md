@@ -163,7 +163,11 @@
 
 ## 💡 𝐒𝐭𝐚𝐜𝐤𝐨𝐯𝐞𝐫𝐟𝐥𝐨𝐰 𝐒𝐭𝐚𝐭𝐮𝐬
 <!-- https://github.com/omidnikrah/github-readme-stackoverflow -->
-[![e-lab innovations StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11409930&theme=dark)](https://stackoverflow.com/users/11409930/)
+<p align="center">
+ <a href="https://stackoverflow.com/users/11409930/">
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=11409930&theme=dark" alt="e-lab innovations StackOverflow" />
+ </a>
+</p>
 
 ## 🔔 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
 <p align="center">
