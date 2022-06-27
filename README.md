@@ -17,7 +17,7 @@
 ## :book: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 - 🎓 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
 - 💼 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 [<img src="https://github.com/e-labInnovations/logo/raw/main/e-lab%20logo%20svg-01.svg" height="30em" align="center" alt="e-lab innovations" title="e-lab innovations"/>](https://elabins.com)
-- :robot: 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 [𝚝𝚔𝚖𝚌𝚎 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚋𝚘𝚝](https://github.com/Karthik-Sunil-K/tkmcebot)
+- 👨‍💻 Currently learning React Native parallel with WordPress
 - 🤝 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 𝚜𝚌𝚜𝚜
 
 <br />
