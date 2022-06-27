@@ -161,14 +161,22 @@
 <!-- YOUTUBE:END -->
 <br />
 
-## 🔔 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-![Github stats](https://github-readme-stats.vercel.app/api?username=e-labinnovations&show_icons=true&theme=dracula)
+## 💡 𝐒𝐭𝐚𝐜𝐤𝐨𝐯𝐞𝐫𝐟𝐥𝐨𝐰 𝐒𝐭𝐚𝐭𝐮𝐬
+<!-- https://github.com/omidnikrah/github-readme-stackoverflow -->
+[![e-lab innovations StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11409930&theme=dark)](https://stackoverflow.com/users/11409930/)
 
-![My github activity graph](https://activity-graph.herokuapp.com/graph?username=e-labinnovations&theme=react-dark)
+## 🔔 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
+<p align="center">
+ <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=e-labInnovations&hide_border=true&theme=nightowl" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-labinnovations&layout=compact&theme=vision-friendly-dark)
+<p align="center">
+ <img height="137px" src="https://github-readme-stats.vercel.app/api?username=e-labInnovations&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-labinnovations&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e-labInnovations&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=e-labinnovations&theme=rogue&hide_border=true&radius=5&hide_title=true&bg_color=011627" alt="My GitHub activity graph" />
+</p>
 
 <br />
 
