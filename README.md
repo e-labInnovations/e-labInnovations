@@ -15,10 +15,10 @@
 <img align="right" alt="Coding" width="200" src="/coding.gif">
 
 ## :book: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-- 🎓 𝙴𝚕𝚎𝚌𝚝𝚛𝚘𝚗𝚒𝚌𝚜 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
-- 💼 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 [<img src="https://github.com/e-labInnovations/logo/raw/main/e-lab%20logo%20svg-01.svg" height="30em" align="center" alt="e-lab innovations" title="e-lab innovations"/>](https://elabins.com)
-- 👨‍💻 Currently learning React Native parallel with WordPress
-- 🤝 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 𝚜𝚌𝚜𝚜
+- 🎓 𝘌𝘭𝘦𝘤𝘵𝘳𝘰𝘯𝘪𝘤𝘴 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘴𝘵𝘶𝘥𝘦𝘯𝘵
+- 💼 𝘚𝘩𝘢𝘳𝘪𝘯𝘨 𝘮𝘺 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 [<img src="https://github.com/e-labInnovations/logo/raw/main/e-lab%20logo%20svg-01.svg" height="30em" align="center" alt="e-lab innovations" title="e-lab innovations"/>](https://elabins.com)
+- 👨‍💻 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘙𝘦𝘢𝘤𝘵 𝘕𝘢𝘵𝘪𝘷𝘦 𝘱𝘢𝘳𝘢𝘭𝘭𝘦𝘭 𝘸𝘪𝘵𝘩 𝘞𝘰𝘳𝘥𝘗𝘳𝘦𝘴𝘴
+- 🤝 𝘐'𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘩𝘦𝘭𝘱 𝘸𝘪𝘵𝘩 𝘴𝘤𝘴𝘴
 
 <br />
 
