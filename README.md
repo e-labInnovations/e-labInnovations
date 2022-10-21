@@ -143,10 +143,10 @@
 
 ## :writing_hand: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
-- [Upload File To Google Drive](https://elabins.com/code_snippets/upload-file-to-google-drive/)
-- [Get taxonomies terms links](https://elabins.com/code_snippets/get-taxonomies-terms-links/)
-- [Bluetooth Servo](https://elabins.com/code_snippets/bluetooth-servo/)
-- [Download File From URL](https://elabins.com/code_snippets/download-file-from-url/)
+- [How To Propose Your Crush Using an Oscilloscope](https://elabins.com/2022/10/17/how-to-propose-your-crush-using-an-oscilloscope/)
+- [OPEN-SMART ILI9327 3.2 Inch TFT LCD Shield With Arduino UNO](https://elabins.com/2022/09/25/open-smart-ili9327-3-2-inch-tft-lcd-shield-with-arduino-uno/)
+- [ESP32-Cam Live Stream Using WebSocket](https://elabins.com/2022/05/05/esp32-cam-live-stream-using-websocket/)
+- [Timer Interrupt](https://elabins.com/code_snippets/timer-interrupt/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
