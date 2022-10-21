@@ -153,11 +153,11 @@
 
 ## :tv: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐕𝐢𝐝𝐞𝐨𝐬
 <!-- YOUTUBE:START -->
+- [How To Propose Your Crush Using an Oscilloscope](https://www.youtube.com/watch?v=yxLTEKh1H5Q)
 - [ESP32 with VGA Monitor](https://www.youtube.com/watch?v=Q5fFVmcdZ_Q)
 - [Nokia 1208 colour LCD with Arduino UNO using ST7628 LCD Library | e-lab innovations |](https://www.youtube.com/watch?v=NtRfAeXa4wY)
 - [LCD ക്ക് ഇനി വിട | OLED with Arduino in Malayalam](https://www.youtube.com/watch?v=ajRK-5aSF1Q)
 - [e-lab innovations intro 2019](https://www.youtube.com/watch?v=mUh22X9rH4Y)
-- [Login page with username &amp; password | Malayalam| Sketchware Part 9](https://www.youtube.com/watch?v=Ew9hOBDGd1U)
 <!-- YOUTUBE:END -->
 <br />
 
