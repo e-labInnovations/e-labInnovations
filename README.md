@@ -137,6 +137,9 @@
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img alt="Postman" align="center" width="40px" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
  </a>
+ <a href="https://nodered.org/" target="_blank" rel="noreferrer">
+  <img alt="Node-RED" align="center" width="40px" height="40" src="https://nodered.org/about/resources/media/node-red-hexagon.svg" />
+ </a>
 </p>
 
 <br />
