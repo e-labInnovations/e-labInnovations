@@ -182,7 +182,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=e-labinnovations&theme=rogue&hide_border=true&radius=5&hide_title=true&bg_color=011627" alt="My GitHub activity graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=e-labinnovations&theme=rogue&hide_border=true&radius=5&hide_title=true&bg_color=011627" alt="My GitHub activity graph" />
 </p>
 
 <br />
