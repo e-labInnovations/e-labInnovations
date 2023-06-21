@@ -56,47 +56,50 @@
 
 ## :hammer_and_wrench: 𝐒𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬
 <p align="left">
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img alt="Arduino" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=c" />
+ </a>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img alt="Arduino" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img alt="Arduino" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=arduino" />
  </a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img alt="Visual Studio Code" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Visual Studio Code" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=vscode" />
  </a>
  <a href="" target="_blank" rel="noreferrer">
-  <img alt="HTML5" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="HTML5" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=html" />
  </a>
  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-  <img alt="CSS3" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="CSS3" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=css" />
  </a>
  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-  <img alt="JavaScript" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="JavaScript" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=js" />
  </a>
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img alt="Node.js" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Node.js" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=nodejs" />
  </a>
  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
   <img alt="NPM" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
  </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img alt="React" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="React" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=react" />
  </a>
  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
   <img alt="Ionic" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
  </a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img alt="Express" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="Express" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=express" />
  </a>
  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-  <img alt="WordPress" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img alt="WordPress" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=wordpress" />
  </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img alt="Git" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Git" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=git" />
  </a>
  <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img alt="GitHub" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="GitHub" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=github" />
  </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img alt="Firebase" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img alt="Firebase" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=firebase" />
  </a>
  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
   <img alt="Jekyll" align="center" width="40px" height="40" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" />
@@ -104,11 +107,14 @@
  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
   <img alt="JSON" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
  </a>
+ <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+  <img alt="Postman" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=md" />
+ </a>
  <a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer">
   <img alt="PWA" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
  </a>
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img alt="Bootstrap" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img alt="Bootstrap" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=bootstrap" />
  </a>
  <a href="" target="_blank" rel="noreferrer">
   <img alt="Bulma" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
@@ -117,10 +123,10 @@
   <img alt="Materialize" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
  </a>
  <a href="https://heroku.com/" target="_blank" rel="noreferrer">
-  <img alt="Heroku" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+  <img alt="Heroku" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=heroku" />
  </a>
  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-  <img alt="Netlify" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/netlify/staticgen/master/src/images/netlify-logo.svg" />
+  <img alt="Netlify" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=netlify" />
  </a>
  <a href="https://www.putty.org/" target="_blank" rel="noreferrer">
   <img alt="Putty" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
@@ -129,13 +135,16 @@
   <img alt="Socket.io" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
  </a>
  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
-  <img alt="Pug" align="center" width="40px" height="40" src="https://cdn.worldvectorlogo.com/logos/pug.svg" />
+  <img alt="Pug" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=pug" />
  </a>
  <a href="https://www.google.com/script/start/" target="_blank" rel="noreferrer">
   <img alt="Google Apps Script" align="center" width="40px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" />
  </a>
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img alt="Postman" align="center" width="40px" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img alt="Postman" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=postman" />
+ </a>
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+  <img alt="Postman" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=ai" />
  </a>
  <a href="https://nodered.org/" target="_blank" rel="noreferrer">
   <img alt="Node-RED" align="center" width="40px" height="40" src="https://nodered.org/about/resources/media/node-red-hexagon.svg" />
