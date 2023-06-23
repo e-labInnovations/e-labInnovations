@@ -129,7 +129,7 @@
   <img alt="Netlify" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=netlify" />
  </a>
  <a href="https://www.putty.org/" target="_blank" rel="noreferrer">
-  <img alt="Putty" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+  <img alt="Putty" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Putty-Dark.svg" />
  </a>
  <a href="https://socket.io/" target="_blank" rel="noreferrer">
   <img alt="Socket.io" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/SocketIO-Dark.svg" />
