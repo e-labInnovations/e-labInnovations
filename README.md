@@ -84,7 +84,7 @@
   <img alt="React" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=react" />
  </a>
  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
-  <img alt="Ionic" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img alt="Ionic" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Ionic-Dark.svg" />
  </a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img alt="Express" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=express" />
