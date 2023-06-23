@@ -102,7 +102,7 @@
   <img alt="Firebase" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=firebase" />
  </a>
  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-  <img alt="Jekyll" align="center" width="40px" height="40" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" />
+  <img alt="Jekyll" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Jekyll-Dark.svg" />
  </a>
  <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
   <img alt="JSON" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
@@ -147,7 +147,7 @@
   <img alt="Postman" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=ai" />
  </a>
  <a href="https://nodered.org/" target="_blank" rel="noreferrer">
-  <img alt="Node-RED" align="center" width="40px" height="40" src="https://nodered.org/about/resources/media/node-red-hexagon.svg" />
+  <img alt="Node-RED" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/NodeRED.svg" />
  </a>
 </p>
 
