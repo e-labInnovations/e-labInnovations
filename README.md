@@ -78,7 +78,7 @@
   <img alt="Node.js" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=nodejs" />
  </a>
  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-  <img alt="NPM" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img alt="NPM" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/75fca9268d3f686637469ec810d20ebca5925db9/icons/Npm.svg" />
  </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img alt="React" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=react" />
@@ -111,16 +111,16 @@
   <img alt="Postman" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=md" />
  </a>
  <a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer">
-  <img alt="PWA" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png" />
+  <img alt="PWA" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/PWA-Dark.svg" />
  </a>
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img alt="Bootstrap" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=bootstrap" />
  </a>
  <a href="" target="_blank" rel="noreferrer">
-  <img alt="Bulma" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+  <img alt="Bulma" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/e780ea3a7980289805e8afe2d027b124d96d48bd/icons/Bulma-Dark.svg" />
  </a>
  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-  <img alt="Materialize" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
+  <img alt="Materialize" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/e780ea3a7980289805e8afe2d027b124d96d48bd/icons/Materialize-Dark.svg" />
  </a>
  <a href="https://heroku.com/" target="_blank" rel="noreferrer">
   <img alt="Heroku" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=heroku" />
@@ -132,13 +132,13 @@
   <img alt="Putty" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
  </a>
  <a href="https://socket.io/" target="_blank" rel="noreferrer">
-  <img alt="Socket.io" align="center" width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+  <img alt="Socket.io" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/SocketIO-Dark.svg" />
  </a>
  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
   <img alt="Pug" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=pug" />
  </a>
  <a href="https://www.google.com/script/start/" target="_blank" rel="noreferrer">
-  <img alt="Google Apps Script" align="center" width="40px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg" />
+  <img alt="Google Apps Script" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/GoogleAppsScript-Dark.svg" />
  </a>
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img alt="Postman" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=postman" />
