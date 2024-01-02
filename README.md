@@ -113,6 +113,9 @@
  <a href="https://web.dev/progressive-web-apps/" target="_blank" rel="noreferrer">
   <img alt="PWA" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/PWA-Dark.svg" />
  </a>
+ <a href="https://tailwindcss.com/docs/responsive-design" target="_blank" rel="noreferrer">
+  <img alt="Tailwind" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=tailwind" />
+ </a>
  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img alt="Bootstrap" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=bootstrap" />
  </a>
