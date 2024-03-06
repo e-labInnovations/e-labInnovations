@@ -158,10 +158,10 @@
 
 ## :writing_hand: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
+- [Non-Blocking Delays](https://elabins.com/code_snippets/non-blocking-delays/)
 - [How To Propose Your Crush Using an Oscilloscope](https://elabins.com/2022/10/17/how-to-propose-your-crush-using-an-oscilloscope/)
 - [OPEN-SMART ILI9327 3.2 Inch TFT LCD Shield With Arduino UNO](https://elabins.com/2022/09/25/open-smart-ili9327-3-2-inch-tft-lcd-shield-with-arduino-uno/)
 - [ESP32-Cam Live Stream Using WebSocket](https://elabins.com/2022/05/05/esp32-cam-live-stream-using-websocket/)
-- [ESP12 Based Home Automation](https://elabins.com/2022/02/05/esp12-based-home-automation/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
