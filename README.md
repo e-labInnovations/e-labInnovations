@@ -74,6 +74,9 @@
  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
   <img alt="JavaScript" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=js" />
  </a>
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img alt="PHP" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=php" />
+ </a>
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img alt="Node.js" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=nodejs" />
  </a>
@@ -83,11 +86,17 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img alt="React" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=react" />
  </a>
+ <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+  <img alt="Vite" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=vite" />
+ </a>
  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
   <img alt="Ionic" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Ionic-Dark.svg" />
  </a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img alt="Express" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=express" />
+ </a>
+ <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img alt="Nest.js" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=nestjs" />
  </a>
  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
   <img alt="WordPress" align="center" width="40px" height="40" src="https://skillicons.dev/icons?i=wordpress" />
@@ -151,6 +160,9 @@
  </a>
  <a href="https://nodered.org/" target="_blank" rel="noreferrer">
   <img alt="Node-RED" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/NodeRED.svg" />
+ </a>
+ <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img alt="Playwright" align="center" width="40px" height="40" src="https://raw.githubusercontent.com/osohyun0224/skill-icons/refs/heads/main/icons/PlayWright-Dark.svg" />
  </a>
 </p>
 
