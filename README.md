@@ -198,7 +198,7 @@
 
 ## 🔔 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
 <p align="center">
- <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=e-labInnovations&hide_border=true&theme=nightowl" />
+ <img height="137px" src="https://streak-stats.demolab.com?user=e-labinnovation&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
