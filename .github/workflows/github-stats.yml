@@ -10,25 +10,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: "20"
+          node-version: "18"
 
       - name: Install dependencies
-        run: npm install axios
+        run: npm install @octokit/rest dotenv
 
-      - name: Generate GitHub Stats
+      - name: Generate GitHub Profile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node .github/scripts/generateStats.js
+        run: node .github/scripts/github-profile-generator.js e-labInnovations
 
-      - name: Commit and push changes
+      - name: Rename output file
+        run: mv e-labInnovations-profile.json github-stats.json
+
+      - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
