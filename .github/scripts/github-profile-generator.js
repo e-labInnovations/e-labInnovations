@@ -1,7 +1,9 @@
 // github-profile-generator.js
-const { Octokit } = require("@octokit/rest");
-const fs = require("fs");
-require("dotenv").config();
+import { Octokit } from "@octokit/rest";
+import dotenv from "dotenv";
+import fs from "fs";
+
+dotenv.config();
 
 // Configuration
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || ""; // Set your GitHub token as an environment variable

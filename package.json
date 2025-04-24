@@ -1,7 +1,12 @@
 {
+  "name": "github-stats",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node .github/scripts/github-profile-generator.js e-labInnovations"
+  },
   "dependencies": {
-    "@octokit/rest": "^21.1.1",
-    "axios": "^1.8.4",
-    "dotenv": "^16.5.0"
+    "@octokit/rest": "^20.0.2",
+    "dotenv": "^16.4.5"
   }
 }
