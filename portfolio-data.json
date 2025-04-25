@@ -2,7 +2,11 @@
   "profile": {
     "name": "Mohammed Ashad MM",
     "title": "An Electronics Engineer With A Keyboard",
-    "about": "Hey there 👋 I'm Ashad — an engineer with a passion for building the future one line of code and circuit at a time. I specialize in electronics, embedded systems, and full-stack development, currently working as a MTS 2 at <a href=\"https://www.thoughtspot.com/\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">ThoughtSpot</a>. I've built everything from smart IoT devices to full-stack projects, and I'm on a mission to blend the physical and digital worlds creatively and efficiently.\n\nI'm also the mind behind <a href=\"https://elabins.com\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">e-lab innovations</a>, a platform where innovation meets practical electronics. Whether it's a smart egg incubator or a Telegram-controlled ESP32 project, I love making tech that just works — and works well.",
+    "profile_image": "https://elabins.com/wp-content/uploads/2025/04/cropped.png",
+    "about": [
+      "Hey there 👋 I'm Ashad — an engineer with a passion for building the future one line of code and circuit at a time. I specialize in electronics, embedded systems, and full-stack development, currently working as a MTS 2 at <a href=\"https://www.thoughtspot.com/\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">ThoughtSpot</a>. I've built everything from smart IoT devices to full-stack projects, and I'm on a mission to blend the physical and digital worlds creatively and efficiently.",
+      "I'm also the mind behind <a href=\"https://elabins.com\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">e-lab innovations</a>, a platform where innovation meets practical electronics. Whether it's a smart egg incubator or a Telegram-controlled ESP32 project, I love making tech that just works — and works well."
+    ],
     "facts": [
       {
         "icon": "fa-graduation-cap",
@@ -173,7 +177,13 @@
       "links": {
         "github": "https://github.com/e-labInnovations/ESP12-Home-Automation"
       },
-      "media": {},
+      "media": {
+        "screenshots": [
+          "https://elabins.com/wp-content/uploads/2022/02/PCB_06-scaled.jpeg",
+          "https://elabins.com/wp-content/uploads/2022/02/PCB_05-scaled.jpeg"
+        ],
+        "videos": ["https://youtu.be/MXmbIR_0Whk?si=egxDjpSiYAzqXu6S"]
+      },
       "collaborators": [],
       "startDate": "2020-07-01",
       "endDate": "2020-07-01",
@@ -367,17 +377,19 @@
       "college": "TKM College of Engineering, Kollam",
       "degree": "Bachelor of Technology",
       "fieldOfStudy": "Electronics Engineering",
+      "university": "APJ Abdul Kalam Technological University",
       "startDate": "2021-12-01",
       "endDate": "2024-06-01",
-      "logo": "https://elabins.com/wp-content/uploads/education/tkmce-logo.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/87/Thangal_Kunju_Musaliar_College_of_Engineering_logo.png"
     },
     {
       "college": "AKNM GPTC Thirurangadi, Chelari",
       "degree": "Diploma of Education",
       "fieldOfStudy": "Electronics Engineering",
+      "university": "State Board of Technical Education, Kerala",
       "startDate": "2018-08-01",
       "endDate": "2021-09-01",
-      "logo": "https://elabins.com/wp-content/uploads/education/aknm-logo.png"
+      "logo": "https://gptcthirurangadi.in/sites/default/files/logo_2.png"
     }
   ],
   "experience": [
@@ -387,7 +399,7 @@
       "company": {
         "name": "ThoughtSpot",
         "link": "https://www.thoughtspot.com/",
-        "logo": "https://elabins.com/wp-content/uploads/experience/thoughtspot-logo.png"
+        "logo": "https://cdn.prod.website-files.com/634a245ea4220255c5cb9dcc/634d67d12c10615d10192988_ThoughtSpot.png"
       },
       "startDate": "2024-08-01",
       "endDate": null,
@@ -401,7 +413,7 @@
       "company": {
         "name": "ThoughtSpot",
         "link": "https://www.thoughtspot.com/",
-        "logo": "https://elabins.com/wp-content/uploads/experience/thoughtspot-logo.png"
+        "logo": "https://cdn.prod.website-files.com/634a245ea4220255c5cb9dcc/634d67d12c10615d10192988_ThoughtSpot.png"
       },
       "startDate": "2024-01-01",
       "endDate": "2024-07-01",
@@ -410,18 +422,18 @@
       "description": ""
     },
     {
-      "title": "Founder",
-      "employmentType": "Full-time",
+      "title": "Embedded Systems Developer",
+      "employmentType": "Freelance",
       "company": {
         "name": "e-lab innovations",
         "link": "https://elabins.com/",
-        "logo": "https://elabins.com/wp-content/uploads/2025/04/cropped.png"
+        "logo": "https://elabins.com/wp-content/uploads/2021/12/logo-120x120-compressed.png"
       },
-      "startDate": "2019-06-01",
-      "endDate": null,
+      "startDate": "2018-01-01",
+      "endDate": "2024-01-01",
       "location": "Remote",
       "locationType": "remote",
-      "description": "Founded and lead e-lab innovations, focusing on IoT solutions and educational content. Developed various projects including smart egg incubators and home automation systems."
+      "description": ""
     }
   ],
   "honorsAndAwards": [
@@ -431,7 +443,13 @@
       "issueDate": "2022-06-01",
       "description": "Won 2nd place in Latency Hackathon. Latency aims at providing a platform for technical enthusiastic students to hone their problem-solving abilities. The event tries to underline and emphasize the importance of cultivating skills that would help students come up with creative solutions to tackle real-world problems.",
       "link": "https://tinkerhub.org/latency",
-      "image": "https://elabins.com/wp-content/uploads/awards/latency-hackathon.jpg"
+      "image": "https://latency2.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fd77a3d55f4094c5b8dd8062129f5262b%2Fassets%2Fcover%2F288.png&w=1440&q=100"
+    },
+    {
+      "title": "Championing Innovation: Winning Team of YIP 2020",
+      "issuer": "KDISC",
+      "issueDate": "2021-12-01",
+      "description": "Celebrating Collective Innovation 🏆🌱: Delighted to share that our team's idea 'PID BASED AUTOMATIC EGG INCUBATOR' (Idea ID: 164) triumphed in the micro theme Incubator at the State Level Evaluation of the Young Innovators Programme (YIP) 2020. Our collaborative effort under Agriculture & Allied Sectors received recognition. A proud moment of teamwork and innovation! 🚀🌾"
     }
   ],
   "socialLinks": [

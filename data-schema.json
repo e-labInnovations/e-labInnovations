@@ -5,7 +5,7 @@
   "properties": {
     "profile": {
       "type": "object",
-      "required": ["name", "title", "about", "facts"],
+      "required": ["name", "title", "about", "facts", "profile_image"],
       "properties": {
         "name": {
           "type": "string",
@@ -16,8 +16,16 @@
           "description": "Professional title or tagline"
         },
         "about": {
+          "type": "array",
+          "description": "Detailed description about the person, rendered as HTML inside p tag",
+          "items": {
+            "type": "string",
+            "description": "HTML paragraph content for the about section"
+          }
+        },
+        "profile_image": {
           "type": "string",
-          "description": "Detailed description about the person"
+          "description": "Profile image URL"
         },
         "facts": {
           "type": "array",
@@ -89,7 +97,8 @@
           "fieldOfStudy": { "type": "string" },
           "startDate": { "type": "string", "format": "date" },
           "endDate": { "type": ["string", "null"], "format": "date" },
-          "logo": { "type": "string" }
+          "logo": { "type": "string" },
+          "university": { "type": "string" }
         },
         "required": ["college", "degree", "fieldOfStudy", "startDate"]
       }
