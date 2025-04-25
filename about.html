@@ -1,0 +1,1619 @@
+<!--- Schema Data --->
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mohammed Ashad MM",
+    "image": "https://elabins.com/wp-content/uploads/2025/04/cropped.png",
+    "jobTitle": "Electronics Engineer",
+    "url": "https://elabins.com/about-me/",
+    "sameAs": [
+      "https://github.com/e-labinnovations",
+      "https://www.facebook.com/mohammedashadmm/",
+      "https://www.instagram.com/elab_innovations",
+      "https://twitter.com/elabinnovations",
+      "https://t.me/elab_innovations",
+      "https://www.linkedin.com/in/mohammed-ashad",
+      "https://www.youtube.com/c/elabinnovations"
+    ]
+  }
+</script>
+
+<!-- CSS & Font Dependencies -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+/>
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"
+/>
+
+<style>
+  /* ===== Base Styles ===== */
+  /* Main container and global text styles */
+  .ashad-profile {
+    font-family: "Poppins", sans-serif !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+    color: #333 !important;
+  }
+
+  /* ===== Hero Section ===== */
+  /* Main hero section with gradient background and profile image */
+  .hero-section {
+    position: relative !important;
+    background: linear-gradient(135deg, #011627 0%, #1a3754 100%) !important;
+    color: white !important;
+    border-radius: 15px !important;
+    overflow: hidden !important;
+    padding: 60px 30px !important;
+    margin-bottom: 50px !important;
+  }
+
+  .hero-section p {
+    color: white !important;
+  }
+
+  .hero-bg {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") !important;
+    z-index: 0 !important;
+  }
+
+  .hero-content {
+    position: relative !important;
+    z-index: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+
+  .profile-image {
+    width: 160px !important;
+    height: 160px !important;
+    border-radius: 50% !important;
+    border: 4px solid rgba(255, 255, 255, 0.2) !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2) !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+    padding: 0 !important;
+  }
+
+  .profile-image:hover {
+    transform: scale(1.05) !important;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3) !important;
+  }
+
+  .name-title {
+    margin-top: 25px !important;
+  }
+
+  .name-title h1 {
+    font-size: 2.5rem !important;
+    font-weight: 700 !important;
+    margin: 0 !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1) !important;
+  }
+
+  .name-title p {
+    font-size: 1.2rem !important;
+    opacity: 0.9 !important;
+    margin-top: 5px !important;
+  }
+
+  /* ===== About Section ===== */
+  /* Two-column layout with about text and quick facts */
+  .about-section {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 30px !important;
+    margin-bottom: 50px !important;
+  }
+
+  .about-text {
+    flex: 1 !important;
+    min-width: 300px !important;
+  }
+
+  .about-text h2 {
+    font-size: 1.8rem !important;
+    margin-bottom: 20px !important;
+    position: relative !important;
+    display: inline-block !important;
+  }
+
+  .about-text h2::after {
+    content: "" !important;
+    position: absolute !important;
+    left: 0 !important;
+    bottom: -5px !important;
+    width: 50px !important;
+    height: 3px !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+  }
+
+  .about-text p {
+    line-height: 1.8 !important;
+    margin-bottom: 15px !important;
+  }
+
+  .about-card {
+    flex: 1 !important;
+    min-width: 300px !important;
+    background: white !important;
+    border-radius: 15px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
+    padding: 25px !important;
+    transition: transform 0.3s ease !important;
+  }
+
+  .about-card:hover {
+    transform: translateY(-10px) !important;
+  }
+
+  .about-card ul {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .about-card li {
+    display: flex !important;
+    align-items: center !important;
+    margin-bottom: 15px !important;
+  }
+
+  .about-card i {
+    width: 30px !important;
+    color: #185a9d !important;
+  }
+
+  /* ===== Skills Section ===== */
+  /* Grid layout for tech stack and tools */
+  .skills-section {
+    margin-bottom: 50px !important;
+  }
+
+  .skills-section h2 {
+    font-size: 1.8rem !important;
+    margin-bottom: 30px !important;
+    position: relative !important;
+    display: inline-block !important;
+  }
+
+  .skills-section h2::after {
+    content: "" !important;
+    position: absolute !important;
+    left: 0 !important;
+    bottom: -5px !important;
+    width: 50px !important;
+    height: 3px !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+  }
+
+  .skills-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)) !important;
+    gap: 20px !important;
+  }
+
+  .skill-item {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+
+  .skill-icon {
+    width: 50px !important;
+    height: 50px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-bottom: 8px !important;
+    transition: transform 0.3s ease !important;
+  }
+
+  .skill-icon img {
+    width: 100% !important;
+    object-fit: contain !important;
+  }
+
+  .skill-icon:hover {
+    transform: translateY(-5px) !important;
+  }
+
+  .skill-name {
+    font-size: 0.8rem !important;
+    color: #555 !important;
+  }
+
+  /* ===== Contact Section ===== */
+  /* Social media links and contact information */
+  .contact-section {
+    background: linear-gradient(135deg, #011627 0%, #1a3754 100%) !important;
+    padding: 50px 30px !important;
+    border-radius: 15px !important;
+    color: white !important;
+    text-align: center !important;
+    position: relative !important;
+    overflow: hidden !important;
+  }
+
+  .contact-bg {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") !important;
+    z-index: 0 !important;
+  }
+
+  .contact-content {
+    position: relative !important;
+    z-index: 1 !important;
+  }
+
+  .contact-content p {
+    color: white !important;
+  }
+
+  .contact-section h2 {
+    font-size: 1.8rem !important;
+    margin-bottom: 30px !important;
+  }
+
+  .social-links {
+    display: flex !important;
+    justify-content: center !important;
+    flex-wrap: wrap !important;
+    gap: 15px !important;
+    margin-top: 20px !important;
+  }
+
+  .social-link {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+    background: rgba(255, 255, 255, 0.1) !important;
+    color: white !important;
+    transition: all 0.3s ease !important;
+    text-decoration: none !important;
+  }
+
+  .social-link:hover {
+    transform: translateY(-5px) !important;
+    background: white !important;
+    color: #185a9d !important;
+  }
+
+  /* ===== Stats Section ===== */
+  /* GitHub statistics and metrics display */
+  .stats-section {
+    margin-bottom: 50px !important;
+  }
+
+  .stats-container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 20px !important;
+    justify-content: space-between !important;
+  }
+
+  .stat-card {
+    flex: 1 !important;
+    min-width: 200px !important;
+    background: white !important;
+    border-radius: 15px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
+    padding: 25px !important;
+    text-align: center !important;
+    transition: transform 0.3s ease !important;
+    position: relative !important;
+    overflow: hidden !important;
+  }
+
+  .stat-card::before {
+    content: "" !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 4px !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+  }
+
+  .stat-icon {
+    font-size: 2rem !important;
+    color: #185a9d !important;
+    margin-bottom: 15px !important;
+    transition: transform 0.3s ease !important;
+  }
+
+  .stat-card:hover .stat-icon {
+    transform: scale(1.2) !important;
+  }
+
+  .stat-number {
+    font-size: 2.5rem !important;
+    font-weight: 700 !important;
+    margin-bottom: 10px !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    transition: transform 0.3s ease !important;
+  }
+
+  .stat-card:hover .stat-number {
+    transform: scale(1.1) !important;
+  }
+
+  .stat-label {
+    color: #555 !important;
+    font-size: 1rem !important;
+    transition: color 0.3s ease !important;
+  }
+
+  .stat-card:hover .stat-label {
+    color: #185a9d !important;
+  }
+
+  .typing-effect {
+    border-right: 3px solid #43cea2 !important;
+    padding-right: 5px !important;
+    animation: blink 1s step-end infinite !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+  }
+
+  @keyframes blink {
+    0%,
+    100% {
+      border-color: transparent !important;
+    }
+    50% {
+      border-color: #43cea2 !important;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero-section {
+      padding: 30px 15px !important;
+    }
+
+    .name-title {
+      margin-top: 15px !important;
+      padding: 0 10px !important;
+    }
+
+    .name-title h1 {
+      font-size: 1.5rem !important;
+      line-height: 1.2 !important;
+      margin-bottom: 5px !important;
+    }
+
+    .name-title p {
+      font-size: 0.9rem !important;
+      line-height: 1.3 !important;
+    }
+
+    .profile-image {
+      width: 120px !important;
+      height: 120px !important;
+    }
+
+    .about-section,
+    .stats-container {
+      flex-direction: column !important;
+    }
+
+    .skills-grid {
+      grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)) !important;
+    }
+
+    .stat-item {
+      flex-direction: row !important;
+      gap: 6px !important;
+      padding: 4px 8px !important;
+    }
+
+    .stat-item i {
+      margin-bottom: 0 !important;
+    }
+
+    .stat-item span {
+      font-size: 0.75rem !important;
+    }
+
+    .repo-item {
+      padding: 12px !important;
+    }
+
+    .repo-name {
+      font-size: 1rem !important;
+    }
+
+    .repo-description {
+      font-size: 0.85rem !important;
+    }
+
+    .repo-stats {
+      gap: 10px !important;
+    }
+
+    .repo-stat {
+      font-size: 0.8rem !important;
+      padding: 3px 6px !important;
+    }
+  }
+
+  /* ===== GitHub Details Section ===== */
+  /* Detailed GitHub information including charts and repositories */
+  .github-details-section {
+    margin-bottom: 50px !important;
+  }
+
+  .details-card {
+    background: white !important;
+    border-radius: 15px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
+    padding: 25px !important;
+    margin-bottom: 30px !important;
+    transition: transform 0.3s ease !important;
+  }
+
+  .details-card:hover {
+    transform: translateY(-5px) !important;
+  }
+
+  .details-card h3 {
+    font-size: 1.5rem !important;
+    margin-bottom: 20px !important;
+    color: #185a9d !important;
+    position: relative !important;
+    display: inline-block !important;
+  }
+
+  .details-card h3::after {
+    content: "" !important;
+    position: absolute !important;
+    left: 0 !important;
+    bottom: -5px !important;
+    width: 50px !important;
+    height: 3px !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+  }
+
+  .languages-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)) !important;
+    gap: 20px !important;
+  }
+
+  .language-item {
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 12px !important;
+    background: #f8f9fa !important;
+    border-radius: 8px !important;
+    transition: all 0.3s ease !important;
+    text-align: left !important;
+    position: relative !important;
+  }
+
+  .language-item:hover {
+    transform: translateY(-3px) !important;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1) !important;
+  }
+
+  .language-header {
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    margin-bottom: 12px !important;
+  }
+
+  .language-icon {
+    width: 24px !important;
+    height: 24px !important;
+    object-fit: contain !important;
+  }
+
+  .language-name {
+    font-weight: 600 !important;
+    color: #333 !important;
+    font-size: 1rem !important;
+  }
+
+  .language-stats {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 8px !important;
+  }
+
+  .stat-item {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 6px !important;
+    background: rgba(24, 90, 157, 0.05) !important;
+    border-radius: 6px !important;
+    transition: all 0.3s ease !important;
+    position: relative !important;
+  }
+
+  .stat-item:hover {
+    background: rgba(24, 90, 157, 0.1) !important;
+  }
+
+  .stat-item i {
+    color: #185a9d !important;
+    font-size: 0.9rem !important;
+    margin-bottom: 4px !important;
+  }
+
+  .stat-item span {
+    font-size: 0.8rem !important;
+    color: #666 !important;
+    font-weight: 600 !important;
+  }
+
+  .stat-item::after {
+    content: attr(data-tooltip) !important;
+    position: absolute !important;
+    bottom: 100% !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    padding: 4px 8px !important;
+    background: rgba(0, 0, 0, 0.8) !important;
+    color: white !important;
+    font-size: 0.75rem !important;
+    border-radius: 4px !important;
+    white-space: nowrap !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transition: all 0.3s ease !important;
+    pointer-events: none !important;
+  }
+
+  .stat-item:hover::after {
+    opacity: 1 !important;
+    visibility: visible !important;
+    bottom: calc(100% + 5px) !important;
+  }
+
+  .stat-item::before {
+    content: "" !important;
+    position: absolute !important;
+    bottom: 100% !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    border: 5px solid transparent !important;
+    border-top-color: rgba(0, 0, 0, 0.8) !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    transition: all 0.3s ease !important;
+    pointer-events: none !important;
+  }
+
+  .stat-item:hover::before {
+    opacity: 1 !important;
+    visibility: visible !important;
+    bottom: calc(100% + 5px) !important;
+  }
+
+  .github-details-section h2,
+  .stats-section h2 {
+    font-size: 1.8rem !important;
+    margin-bottom: 30px !important;
+    position: relative !important;
+    display: inline-block !important;
+  }
+
+  .github-details-section h2::after,
+  .stats-section h2::after {
+    content: "" !important;
+    position: absolute !important;
+    left: 0 !important;
+    bottom: -5px !important;
+    width: 50px !important;
+    height: 3px !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+  }
+
+  .commit-graph {
+    width: 100% !important;
+    height: 300px !important;
+    margin-top: 20px !important;
+    position: relative !important;
+  }
+
+  .commit-bar {
+    height: 20px !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+    margin-bottom: 5px !important;
+    border-radius: 4px !important;
+    transition: width 0.5s ease !important;
+  }
+
+  .commit-label {
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-bottom: 5px !important;
+    font-size: 0.9rem !important;
+  }
+
+  .language-chart {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)) !important;
+    gap: 20px !important;
+    margin-top: 20px !important;
+  }
+
+  .language-bar {
+    height: 10px !important;
+    background: #f0f0f0 !important;
+    border-radius: 5px !important;
+    overflow: hidden !important;
+  }
+
+  .language-bar-fill {
+    height: 100% !important;
+    background: linear-gradient(90deg, #43cea2, #185a9d) !important;
+    border-radius: 5px !important;
+    transition: width 0.5s ease !important;
+  }
+
+  .language-info {
+    display: flex !important;
+    justify-content: space-between !important;
+    margin-bottom: 5px !important;
+    font-size: 0.9rem !important;
+  }
+
+  .repos-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) !important;
+    gap: 20px !important;
+    margin-top: 20px !important;
+  }
+
+  .repo-card {
+    background: #f8f9fa !important;
+    border-radius: 8px !important;
+    padding: 15px !important;
+    transition: transform 0.3s ease !important;
+  }
+
+  .repo-card:hover {
+    transform: translateY(-5px) !important;
+  }
+
+  .repo-header {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    margin-bottom: 10px !important;
+  }
+
+  .repo-name {
+    font-weight: 600 !important;
+    color: #185a9d !important;
+  }
+
+  .repo-stats {
+    display: flex !important;
+    gap: 10px !important;
+  }
+
+  .repo-stat {
+    display: flex !important;
+    align-items: center !important;
+    gap: 5px !important;
+    color: #666 !important;
+  }
+
+  .repo-description {
+    color: #666 !important;
+    font-size: 0.9rem !important;
+  }
+
+  .chart-container {
+    position: relative !important;
+    height: 300px !important;
+    margin-top: 20px !important;
+  }
+
+  .languages-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)) !important;
+    gap: 20px !important;
+    margin-top: 20px !important;
+  }
+
+  .language-item {
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 15px !important;
+    background: #f8f9fa !important;
+    border-radius: 8px !important;
+    transition: transform 0.3s ease !important;
+    text-align: center !important;
+  }
+
+  .language-item:hover {
+    transform: translateY(-3px) !important;
+  }
+
+  .language-icon {
+    width: 40px !important;
+    height: 40px !important;
+    margin-bottom: 10px !important;
+  }
+
+  .language-name {
+    font-weight: 600 !important;
+    color: #333 !important;
+    margin-bottom: 5px !important;
+  }
+
+  .language-count {
+    color: #185a9d !important;
+    font-weight: 600 !important;
+    font-size: 0.9rem !important;
+  }
+
+  .repos-list {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 15px !important;
+    margin-top: 20px !important;
+  }
+
+  .repo-item {
+    display: flex !important;
+    align-items: center !important;
+    padding: 15px !important;
+    background: #f8f9fa !important;
+    border-radius: 8px !important;
+    transition: all 0.3s ease !important;
+  }
+
+  .repo-item:hover {
+    transform: translateX(5px) !important;
+  }
+
+  .repo-name {
+    font-weight: 600 !important;
+    color: #333 !important;
+  }
+
+  .repo-stars {
+    margin-left: auto !important;
+    color: #185a9d !important;
+    font-weight: 600 !important;
+  }
+
+  .repo-description {
+    font-size: 0.9rem !important;
+    color: #666 !important;
+    margin-top: 5px !important;
+  }
+
+  .loading {
+    text-align: center !important;
+    color: #666 !important;
+    font-style: italic !important;
+  }
+</style>
+
+<div class="ashad-profile">
+  <!-- Hero Section -->
+  <div class="hero-section" data-aos="fade-up">
+    <div class="hero-bg"></div>
+    <div class="hero-content">
+      <img
+        class="profile-image"
+        src="https://elabins.com/wp-content/uploads/2025/04/cropped.png"
+        alt="Mohammed Ashad MM"
+        data-aos="zoom-in"
+      />
+      <div class="name-title">
+        <h1 data-aos="fade-up" data-aos-delay="300">Mohammed Ashad MM</h1>
+        <p class="typing-effect" data-aos="fade-up" data-aos-delay="500">
+          An Electronics Engineer With A Keyboard
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- About Section -->
+  <div class="about-section">
+    <div class="about-text" data-aos="fade-right" data-aos-delay="100">
+      <h2>About Me</h2>
+      <p>
+        Hey there 👋 I'm Ashad — an engineer with a passion for building the
+        future one line of code and circuit at a time. I specialize in
+        electronics, embedded systems, and full-stack development, currently
+        working as a MTS 2 at
+        <a
+          href="https://www.thoughtspot.com/"
+          target="_blank"
+          style="color: #185a9d; text-decoration: none; font-weight: 600"
+          >ThoughtSpot</a
+        >. I've built everything from smart IoT devices to full-stack projects,
+        and I'm on a mission to blend the physical and digital worlds creatively
+        and efficiently.
+      </p>
+      <p>
+        I'm also the mind behind
+        <a
+          href="https://elabins.com"
+          target="_blank"
+          style="color: #185a9d; text-decoration: none; font-weight: 600"
+          >e-lab innovations</a
+        >, a platform where innovation meets practical electronics. Whether it's
+        a smart egg incubator or a Telegram-controlled ESP32 project, I love
+        making tech that just works — and works well.
+      </p>
+    </div>
+    <div class="about-card" data-aos="fade-left" data-aos-delay="300">
+      <h2>Quick Facts</h2>
+      <ul>
+        <li><i class="fas fa-graduation-cap"></i> Electronics Engineer</li>
+        <li>
+          <i class="fas fa-laptop-code"></i> MTS 2 at&nbsp;
+          <a
+            href="https://www.thoughtspot.com/"
+            target="_blank"
+            style="color: #185a9d; text-decoration: none; font-weight: 600"
+            >ThoughtSpot</a
+          >
+        </li>
+        <li><i class="fas fa-microchip"></i> Embedded Systems Developer</li>
+        <li><i class="fas fa-wifi"></i> IoT Enthusiast</li>
+        <li><i class="fas fa-code"></i> Full-Stack Developer</li>
+        <li><i class="fas fa-tools"></i> Automation Specialist</li>
+        <li>
+          <i class="fas fa-lightbulb"></i> Founder of&nbsp;
+          <a
+            href="https://elabins.com"
+            target="_blank"
+            style="color: #185a9d; text-decoration: none; font-weight: 600"
+            >e-lab innovations</a
+          >
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Skills Section -->
+  <div class="skills-section" data-aos="fade-up">
+    <h2>Tech Stack & Tools</h2>
+    <div class="skills-grid">
+      <!-- Programming Languages -->
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="100">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=c" alt="C" />
+        </div>
+        <span class="skill-name">C</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="120">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+        </div>
+        <span class="skill-name">JavaScript</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="140">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+        </div>
+        <span class="skill-name">PHP</span>
+      </div>
+
+      <!-- Frameworks & Libraries -->
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="160">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=react" alt="React" />
+        </div>
+        <span class="skill-name">React</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="180">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+        </div>
+        <span class="skill-name">Node.js</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="200">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+        </div>
+        <span class="skill-name">Express</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="220">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
+        </div>
+        <span class="skill-name">NestJS</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="240">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Ionic-Dark.svg"
+            alt="Ionic"
+          />
+        </div>
+        <span class="skill-name">Ionic</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="260">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+        </div>
+        <span class="skill-name">Vite</span>
+      </div>
+
+      <!-- Hardware & Electronics -->
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="280">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+        </div>
+        <span class="skill-name">Arduino</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="300">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/NodeRED.svg"
+            alt="Node-RED"
+          />
+        </div>
+        <span class="skill-name">Node-RED</span>
+      </div>
+
+      <!-- Web Development -->
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="320">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+        </div>
+        <span class="skill-name">HTML</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="340">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+        </div>
+        <span class="skill-name">CSS</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="360">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+        </div>
+        <span class="skill-name">Tailwind</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="380">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+        </div>
+        <span class="skill-name">Bootstrap</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="400">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/tandpfun/skill-icons/e780ea3a7980289805e8afe2d027b124d96d48bd/icons/Bulma-Dark.svg"
+            alt="Bulma"
+          />
+        </div>
+        <span class="skill-name">Bulma</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="420">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/tandpfun/skill-icons/e780ea3a7980289805e8afe2d027b124d96d48bd/icons/Materialize-Dark.svg"
+            alt="Materialize"
+          />
+        </div>
+        <span class="skill-name">Materialize</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="440">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+        </div>
+        <span class="skill-name">WordPress</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="460">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/PWA-Dark.svg"
+            alt="PWA"
+          />
+        </div>
+        <span class="skill-name">PWA</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="480">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Jekyll-Dark.svg"
+            alt="Jekyll"
+          />
+        </div>
+        <span class="skill-name">Jekyll</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="500">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=pug" alt="Pug" />
+        </div>
+        <span class="skill-name">Pug</span>
+      </div>
+
+      <!-- Tools & DevOps -->
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="520">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+        </div>
+        <span class="skill-name">Git</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="540">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+        </div>
+        <span class="skill-name">GitHub</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="560">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+        </div>
+        <span class="skill-name">VSCode</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="580">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/tandpfun/skill-icons/75fca9268d3f686637469ec810d20ebca5925db9/icons/Npm.svg"
+            alt="NPM"
+          />
+        </div>
+        <span class="skill-name">NPM</span>
+      </div>
+
+      <!-- Cloud & Services -->
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="600">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+        </div>
+        <span class="skill-name">Firebase</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="620">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" />
+        </div>
+        <span class="skill-name">Heroku</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="640">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+        </div>
+        <span class="skill-name">Netlify</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="660">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/GoogleAppsScript-Dark.svg"
+            alt="GApps Script"
+          />
+        </div>
+        <span class="skill-name">GApps Script</span>
+      </div>
+
+      <!-- Design & Others -->
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="680">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" />
+        </div>
+        <span class="skill-name">Illustrator</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="700">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=md" alt="Markdown" />
+        </div>
+        <span class="skill-name">Markdown</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="720">
+        <div class="skill-icon">
+          <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+        </div>
+        <span class="skill-name">Postman</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="740">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/SocketIO-Dark.svg"
+            alt="Socket.io"
+          />
+        </div>
+        <span class="skill-name">Socket.io</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="760">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Putty-Dark.svg"
+            alt="Putty"
+          />
+        </div>
+        <span class="skill-name">Putty</span>
+      </div>
+      <div class="skill-item" data-aos="zoom-in" data-aos-delay="780">
+        <div class="skill-icon">
+          <img
+            src="https://raw.githubusercontent.com/osohyun0224/skill-icons/refs/heads/main/icons/PlayWright-Dark.svg"
+            alt="Playwright"
+          />
+        </div>
+        <span class="skill-name">Playwright</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- GitHub Details Section -->
+  <div class="stats-section" data-aos="fade-up">
+    <h2>GitHub Details</h2>
+    <div class="stats-container">
+      <div class="stat-card" data-aos="flip-left" data-aos-delay="100">
+        <div class="stat-icon">
+          <i class="fas fa-code-branch"></i>
+        </div>
+        <div class="stat-number" id="repoCount">Loading...</div>
+        <div class="stat-label">Public Repositories</div>
+      </div>
+      <div class="stat-card" data-aos="flip-left" data-aos-delay="200">
+        <div class="stat-icon">
+          <i class="fas fa-users"></i>
+        </div>
+        <div class="stat-number" id="followerCount">Loading...</div>
+        <div class="stat-label">GitHub Followers</div>
+      </div>
+      <div class="stat-card" data-aos="flip-left" data-aos-delay="300">
+        <div class="stat-icon">
+          <i class="fas fa-star"></i>
+        </div>
+        <div class="stat-number" id="starCount">Loading...</div>
+        <div class="stat-label">Total Stars</div>
+      </div>
+    </div>
+    <div class="stats-container" style="margin-top: 20px">
+      <div class="stat-card" data-aos="flip-left" data-aos-delay="400">
+        <div class="stat-icon">
+          <i class="fas fa-code"></i>
+        </div>
+        <div class="stat-number" id="commitCount">Loading...</div>
+        <div class="stat-label">Total Commits</div>
+      </div>
+      <div class="stat-card" data-aos="flip-left" data-aos-delay="500">
+        <div class="stat-icon">
+          <i class="fas fa-code"></i>
+        </div>
+        <div class="stat-number" id="languageCount">Loading...</div>
+        <div class="stat-label">Languages Used</div>
+      </div>
+      <div class="stat-card" data-aos="flip-left" data-aos-delay="600">
+        <div class="stat-icon">
+          <i class="fas fa-gift"></i>
+        </div>
+        <div class="stat-number" id="gistCount">Loading...</div>
+        <div class="stat-label">Public Gists</div>
+      </div>
+    </div>
+
+    <!-- Commit Activity Graph -->
+    <div class="details-card" data-aos="fade-up" style="margin-top: 30px">
+      <h3>Commit Activity</h3>
+      <div class="chart-container">
+        <canvas id="commitChart"></canvas>
+      </div>
+    </div>
+
+    <!-- Language Distribution -->
+    <div class="details-card" data-aos="fade-up" style="margin-top: 30px">
+      <h3>Language Distribution</h3>
+      <div class="chart-container">
+        <canvas id="languageChart"></canvas>
+      </div>
+    </div>
+
+    <!-- Top Programming Languages -->
+    <div class="details-card" data-aos="fade-up" style="margin-top: 30px">
+      <h3>Top Programming Languages</h3>
+      <div class="languages-grid" id="topLanguages">
+        <div class="loading">Loading languages...</div>
+      </div>
+    </div>
+
+    <!-- Most Starred Repositories -->
+    <div class="details-card" data-aos="fade-up" style="margin-top: 30px">
+      <h3>Top Repositories by Commits</h3>
+      <div class="repos-list" id="starredRepos">
+        <div class="loading">Loading repositories...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contact Section -->
+  <div class="contact-section" data-aos="fade-up">
+    <div class="contact-bg"></div>
+    <div class="contact-content">
+      <h2>Let's Connect</h2>
+      <p>Feel free to reach out for collaborations or just a friendly chat</p>
+      <div class="social-links">
+        <a
+          href="https://github.com/e-labinnovations"
+          target="_blank"
+          class="social-link"
+          data-aos="zoom-in"
+          data-aos-delay="100"
+        >
+          <i class="fab fa-github"></i>
+        </a>
+        <a
+          href="https://www.facebook.com/mohammedashadmm/"
+          target="_blank"
+          class="social-link"
+          data-aos="zoom-in"
+          data-aos-delay="150"
+        >
+          <i class="fab fa-facebook-f"></i>
+        </a>
+        <a
+          href="https://www.instagram.com/elab_innovations"
+          target="_blank"
+          class="social-link"
+          data-aos="zoom-in"
+          data-aos-delay="200"
+        >
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a
+          href="https://twitter.com/elabinnovations"
+          target="_blank"
+          class="social-link"
+          data-aos="zoom-in"
+          data-aos-delay="250"
+        >
+          <i class="fab fa-twitter"></i>
+        </a>
+        <a
+          href="https://t.me/elab_innovations"
+          target="_blank"
+          class="social-link"
+          data-aos="zoom-in"
+          data-aos-delay="300"
+        >
+          <i class="fab fa-telegram-plane"></i>
+        </a>
+        <a
+          href="https://www.linkedin.com/in/mohammed-ashad"
+          target="_blank"
+          class="social-link"
+          data-aos="zoom-in"
+          data-aos-delay="350"
+        >
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+        <a
+          href="https://www.youtube.com/c/elabinnovations"
+          target="_blank"
+          class="social-link"
+          data-aos="zoom-in"
+          data-aos-delay="400"
+        >
+          <i class="fab fa-youtube"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- AOS Animation Script -->
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 800,
+    easing: "ease-in-out",
+    once: true,
+  });
+</script>
+
+<!-- Add Chart.js CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- GitHub Stats Script -->
+<script>
+  async function fetchGitHubData() {
+    try {
+      const response = await fetch(
+        "https://raw.githubusercontent.com/e-labInnovations/e-labInnovations/refs/heads/master/github-stats.json"
+      );
+      const data = await response.json();
+
+      // Update basic stats
+      document.getElementById("repoCount").textContent = data.user.publicRepos;
+      document.getElementById("followerCount").textContent =
+        data.user.followers;
+      document.getElementById("starCount").textContent = Object.values(
+        data.repoStarCount
+      ).reduce((sum, count) => sum + count, 0);
+      document.getElementById("commitCount").textContent = Object.values(
+        data.quarterCommitCount
+      ).reduce((sum, count) => sum + count, 0);
+      document.getElementById("languageCount").textContent = Object.keys(
+        data.langRepoCount
+      ).length;
+      document.getElementById("gistCount").textContent = data.user.publicGists;
+
+      // Create commit activity chart
+      const quarters = Object.entries(data.quarterCommitCount)
+        .sort((a, b) => a[0].localeCompare(b[0]))
+        .slice(-12);
+
+      new Chart(document.getElementById("commitChart"), {
+        type: "line",
+        data: {
+          labels: quarters.map(([quarter]) => quarter),
+          datasets: [
+            {
+              label: "Commits",
+              data: quarters.map(([_, count]) => count),
+              backgroundColor: "rgba(67, 206, 162, 0.1)",
+              borderColor: "rgba(67, 206, 162, 1)",
+              borderWidth: 2,
+              tension: 0.4,
+              pointBackgroundColor: "rgba(67, 206, 162, 1)",
+              pointBorderColor: "#fff",
+              pointBorderWidth: 2,
+              pointRadius: 4,
+              pointHoverRadius: 6,
+              fill: true,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          chartArea: {
+            backgroundColor: "rgba(255, 255, 255, 0.1)",
+          },
+          scales: {
+            y: {
+              beginAtZero: true,
+              grid: {
+                color: "rgba(0, 0, 0, 0.05)",
+                drawBorder: false,
+              },
+              ticks: {
+                color: "#666",
+                stepSize: 1,
+              },
+            },
+            x: {
+              grid: {
+                display: false,
+              },
+              ticks: {
+                color: "#666",
+              },
+            },
+          },
+          plugins: {
+            legend: {
+              display: false,
+            },
+            tooltip: {
+              backgroundColor: "rgba(255, 255, 255, 0.95)",
+              titleColor: "#185a9d",
+              bodyColor: "#666",
+              borderColor: "rgba(0, 0, 0, 0.1)",
+              borderWidth: 1,
+              padding: 10,
+              displayColors: false,
+              callbacks: {
+                title: (items) => `Quarter: ${items[0].label}`,
+                label: (item) => `Commits: ${item.raw}`,
+              },
+            },
+          },
+          animation: {
+            duration: 1000,
+            easing: "easeInOutQuart",
+          },
+        },
+      });
+
+      // Create language distribution chart
+      const languageData = Object.entries(data.langCommitCount).sort(
+        (a, b) => b[1] - a[1]
+      );
+
+      new Chart(document.getElementById("languageChart"), {
+        type: "doughnut",
+        data: {
+          labels: languageData.map(([lang]) => lang),
+          datasets: [
+            {
+              data: languageData.map(([_, count]) => count),
+              backgroundColor: [
+                "rgba(67, 206, 162, 0.8)",
+                "rgba(24, 90, 157, 0.8)",
+                "rgba(255, 99, 132, 0.8)",
+                "rgba(54, 162, 235, 0.8)",
+                "rgba(255, 206, 86, 0.8)",
+                "rgba(75, 192, 192, 0.8)",
+                "rgba(153, 102, 255, 0.8)",
+                "rgba(255, 159, 64, 0.8)",
+              ],
+              borderColor: "rgba(255, 255, 255, 0.1)",
+              borderWidth: 2,
+              hoverOffset: 10,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          cutout: "60%",
+          plugins: {
+            legend: {
+              position: "right",
+              labels: {
+                color: "#666",
+                padding: 20,
+                font: {
+                  size: 12,
+                },
+                usePointStyle: true,
+                pointStyle: "circle",
+              },
+            },
+            tooltip: {
+              backgroundColor: "rgba(255, 255, 255, 0.95)",
+              titleColor: "#185a9d",
+              bodyColor: "#666",
+              borderColor: "rgba(0, 0, 0, 0.1)",
+              borderWidth: 1,
+              padding: 10,
+              callbacks: {
+                label: (context) => {
+                  const label = context.label || "";
+                  const value = context.raw || 0;
+                  const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                  const percentage = ((value / total) * 100).toFixed(1);
+                  return `${label}: ${value} commits (${percentage}%)`;
+                },
+              },
+            },
+          },
+          animation: {
+            duration: 1000,
+            easing: "easeInOutQuart",
+          },
+        },
+      });
+
+      // Update top languages
+      const languagesContainer = document.getElementById("topLanguages");
+      languagesContainer.innerHTML = "";
+
+      const topLanguages = Object.entries(data.langRepoCount)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 6);
+
+      topLanguages.forEach(([lang, repoCount]) => {
+        const commitCount = data.langCommitCount[lang] || 0;
+        const starCount = data.langStarCount[lang] || 0;
+        const languageItem = document.createElement("div");
+        languageItem.className = "language-item";
+        languageItem.innerHTML = `
+          <div class="language-header">
+            <img src="https://skillicons.dev/icons?i=${lang
+              .toLowerCase()
+              .replace("c++", "cpp")
+              .replace(
+                "unknown",
+                "github"
+              )}" alt="${lang}" class="language-icon">
+            <span class="language-name">${lang}</span>
+          </div>
+          <div class="language-stats">
+            <div class="stat-item" data-tooltip="${repoCount} Repositories">
+              <i class="fas fa-code-branch"></i>
+              <span>${repoCount}</span>
+            </div>
+            <div class="stat-item" data-tooltip="${commitCount} Commits">
+              <i class="fas fa-code"></i>
+              <span>${commitCount}</span>
+            </div>
+            <div class="stat-item" data-tooltip="${starCount} Stars">
+              <i class="fas fa-star"></i>
+              <span>${starCount}</span>
+            </div>
+          </div>
+        `;
+        languagesContainer.appendChild(languageItem);
+      });
+
+      // Update starred repos
+      const reposContainer = document.getElementById("starredRepos");
+      reposContainer.innerHTML = "";
+
+      // Sort repositories by commit count
+      const sortedRepos = Object.entries(data.repoCommitCount)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5);
+
+      sortedRepos.forEach(([repo, commitCount]) => {
+        const stars = data.repoStarCount[repo] || 0;
+        const description =
+          data.repoCommitCountDescriptions[repo] || "No description available";
+        const repoItem = document.createElement("div");
+        repoItem.className = "repo-item";
+        repoItem.innerHTML = `
+          <div class="repo-content">
+            <a href="https://github.com/e-labInnovations/${repo}" target="_blank" class="repo-name">${repo}</a>
+            <div class="repo-description">${description}</div>
+            <div class="repo-stats">
+              <div class="repo-stat" title="${commitCount} Commits">
+                <i class="fas fa-code"></i>
+                <span>${commitCount}</span>
+              </div>
+              <div class="repo-stat" title="${stars} Stars">
+                <i class="fas fa-star"></i>
+                <span>${stars}</span>
+              </div>
+            </div>
+          </div>
+        `;
+        reposContainer.appendChild(repoItem);
+      });
+    } catch (error) {
+      console.error("Error fetching GitHub data:", error);
+      // Fallback values for stats
+      document.getElementById("repoCount").textContent = "75";
+      document.getElementById("followerCount").textContent = "27";
+      document.getElementById("starCount").textContent = "13";
+      document.getElementById("commitCount").textContent = "1000+";
+      document.getElementById("languageCount").textContent = "12";
+      document.getElementById("gistCount").textContent = "5";
+
+      // Error messages for details
+      document.getElementById("topLanguages").innerHTML =
+        '<div class="loading">Failed to load languages</div>';
+      document.getElementById("starredRepos").innerHTML =
+        '<div class="loading">Failed to load repositories</div>';
+    }
+  }
+
+  window.addEventListener("load", fetchGitHubData);
+</script>
+
+<!-- Meta Tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="description"
+  content="Mohammed Ashad MM - Electronics Engineer, Full-Stack Developer, and IoT Enthusiast"
+/>
+<meta
+  name="keywords"
+  content="Electronics Engineer, Full-Stack Developer, IoT, Embedded Systems, Web Development"
+/>
+<meta name="author" content="Mohammed Ashad MM" />

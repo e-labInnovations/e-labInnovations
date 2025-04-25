@@ -1,0 +1,1178 @@
+<!-- Tailwind CSS via CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          primary: "#185a9d",
+          secondary: "#43cea2",
+          dark: "#011627",
+          "dark-light": "#1a3754",
+        },
+        fontFamily: {
+          sans: ["Titillium Web", "sans-serif"],
+        },
+        backgroundImage: {
+          pattern:
+            "url(\"data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")",
+        },
+      },
+    },
+  };
+</script>
+
+<!-- Font Awesome -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+/>
+
+<!-- Titillium Web Font -->
+<link
+  href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap"
+  rel="stylesheet"
+/>
+
+<!-- AOS Animation -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<!-- Schema Data -->
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mohammed Ashad MM",
+    "image": "https://elabins.com/wp-content/uploads/2025/04/cropped.png",
+    "jobTitle": "Electronics Engineer",
+    "url": "https://elabins.com/about-me/",
+    "sameAs": [
+      "https://github.com/e-labinnovations",
+      "https://www.facebook.com/mohammedashadmm/",
+      "https://www.instagram.com/elab_innovations",
+      "https://twitter.com/elabinnovations",
+      "https://t.me/elab_innovations",
+      "https://www.linkedin.com/in/mohammed-ashad",
+      "https://www.youtube.com/c/elabinnovations"
+    ]
+  }
+</script>
+
+<!-- Main Container -->
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+  <!-- Hero Section -->
+  <div
+    class="relative rounded-2xl overflow-hidden mb-12 bg-gradient-to-br from-dark to-dark-light text-white"
+    data-aos="fade-up"
+  >
+    <div class="absolute inset-0 bg-pattern"></div>
+    <div
+      class="relative z-10 py-16 px-6 sm:px-8 flex flex-col items-center text-center"
+    >
+      <img
+        src="https://elabins.com/wp-content/uploads/2025/04/cropped.png"
+        alt="Mohammed Ashad MM"
+        class="w-40 h-40 rounded-full border-4 border-white/20 shadow-lg transition-transform duration-300 hover:scale-105 hover:shadow-xl"
+        data-aos="zoom-in"
+      />
+      <div class="mt-6" data-aos="fade-up" data-aos-delay="300">
+        <h1
+          class="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent"
+        >
+          Mohammed Ashad MM
+        </h1>
+        <p
+          class="mt-4 text-xl opacity-90 border-r-2 pr-2 animate-typing overflow-hidden whitespace-nowrap"
+        >
+          An Electronics Engineer With A Keyboard
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- About Section -->
+  <div class="flex flex-col lg:flex-row gap-8 mb-12">
+    <div class="flex-1" data-aos="fade-right" data-aos-delay="100">
+      <h2 class="text-3xl font-bold mb-6 relative inline-block">
+        About Me
+        <span
+          class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+        ></span>
+      </h2>
+      <p class="text-gray-700 leading-relaxed mb-4">
+        Hey there 👋 I'm Ashad — an engineer with a passion for building the
+        future one line of code and circuit at a time. I specialize in
+        electronics, embedded systems, and full-stack development, currently
+        working as a MTS 2 at
+        <a
+          href="https://www.thoughtspot.com/"
+          target="_blank"
+          class="text-primary font-semibold hover:underline"
+        >
+          ThoughtSpot </a
+        >. I've built everything from smart IoT devices to full-stack projects,
+        and I'm on a mission to blend the physical and digital worlds creatively
+        and efficiently.
+      </p>
+      <p class="text-gray-700 leading-relaxed">
+        I'm also the mind behind
+        <a
+          href="https://elabins.com"
+          target="_blank"
+          class="text-primary font-semibold hover:underline"
+        >
+          e-lab innovations </a
+        >, a platform where innovation meets practical electronics. Whether it's
+        a smart egg incubator or a Telegram-controlled ESP32 project, I love
+        making tech that just works — and works well.
+      </p>
+    </div>
+    <div
+      class="flex-1 bg-white rounded-2xl shadow-lg p-6 transition-transform duration-300 hover:-translate-y-2"
+      data-aos="fade-left"
+      data-aos-delay="300"
+    >
+      <h2 class="text-3xl font-bold mb-6 relative inline-block">
+        Quick Facts
+        <span
+          class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+        ></span>
+      </h2>
+      <ul class="space-y-4">
+        <li class="flex items-center gap-3">
+          <i class="fas fa-graduation-cap text-primary"></i>
+          <span>Electronics Engineer</span>
+        </li>
+        <li class="flex items-center gap-3">
+          <i class="fas fa-laptop-code text-primary"></i>
+          <span
+            >MTS 2 at&nbsp;
+            <a
+              href="https://www.thoughtspot.com/"
+              target="_blank"
+              class="text-primary font-semibold hover:underline"
+            >
+              ThoughtSpot
+            </a>
+          </span>
+        </li>
+        <li class="flex items-center gap-3">
+          <i class="fas fa-microchip text-primary"></i>
+          <span>Embedded Systems Developer</span>
+        </li>
+        <li class="flex items-center gap-3">
+          <i class="fas fa-wifi text-primary"></i>
+          <span>IoT Enthusiast</span>
+        </li>
+        <li class="flex items-center gap-3">
+          <i class="fas fa-code text-primary"></i>
+          <span>Full-Stack Developer</span>
+        </li>
+        <li class="flex items-center gap-3">
+          <i class="fas fa-tools text-primary"></i>
+          <span>Automation Specialist</span>
+        </li>
+        <li class="flex items-center gap-3">
+          <i class="fas fa-lightbulb text-primary"></i>
+          <span
+            >Founder of&nbsp;
+            <a
+              href="https://elabins.com"
+              target="_blank"
+              class="text-primary font-semibold hover:underline"
+            >
+              e-lab innovations
+            </a>
+          </span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Education Section -->
+  <div class="mb-12" data-aos="fade-up">
+    <h2 class="text-3xl font-bold mb-8 relative inline-block">
+      Education
+      <span
+        class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+      ></span>
+    </h2>
+    <div class="bg-white rounded-2xl shadow-lg p-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div
+          class="bg-gray-50 rounded-xl p-6 transition-transform duration-300 hover:-translate-y-2"
+          data-aos="zoom-in"
+          data-aos-delay="100"
+        >
+          <div
+            class="flex items-center gap-4 mb-4 pb-4 border-b border-gray-200"
+          >
+            <img
+              src="https://elabins.com/wp-content/uploads/education/university-logo.png"
+              alt="University Logo"
+              class="w-12 h-12 object-contain"
+            />
+            <div>
+              <h3 class="text-xl font-semibold text-gray-800">
+                Bachelor of Engineering
+              </h3>
+              <p class="text-gray-600">Electronics Engineering</p>
+            </div>
+          </div>
+          <div class="space-y-3">
+            <div class="flex items-center gap-2 text-gray-600">
+              <i class="fas fa-calendar"></i>
+              <span>2015 - 2019</span>
+            </div>
+            <p class="text-gray-700">
+              Comprehensive study of electronics, embedded systems, and computer
+              engineering principles. Focused on practical applications and
+              project-based learning.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Experience Section -->
+  <div class="mb-12" data-aos="fade-up">
+    <h2 class="text-3xl font-bold mb-8 relative inline-block">
+      Experience
+      <span
+        class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+      ></span>
+    </h2>
+    <div class="bg-white rounded-2xl shadow-lg p-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div
+          class="bg-gray-50 rounded-xl p-6 transition-transform duration-300 hover:-translate-y-2"
+          data-aos="zoom-in"
+          data-aos-delay="100"
+        >
+          <div
+            class="flex items-center gap-4 mb-4 pb-4 border-b border-gray-200"
+          >
+            <img
+              src="https://elabins.com/wp-content/uploads/experience/thoughtspot-logo.png"
+              alt="ThoughtSpot Logo"
+              class="w-12 h-12 object-contain"
+            />
+            <div>
+              <h3 class="text-xl font-semibold text-gray-800">MTS 2</h3>
+              <p class="text-gray-600">ThoughtSpot</p>
+            </div>
+          </div>
+          <div class="space-y-3">
+            <div class="flex flex-wrap gap-2">
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Full-time</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Bangalore, India</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Hybrid</span
+              >
+            </div>
+            <div class="flex items-center gap-2 text-gray-600">
+              <i class="fas fa-calendar"></i>
+              <span>2022 - Present</span>
+            </div>
+            <p class="text-gray-700">
+              Working on cutting-edge analytics and data visualization
+              solutions. Contributing to the development of enterprise-grade
+              software with a focus on performance and user experience.
+            </p>
+          </div>
+        </div>
+
+        <div
+          class="bg-gray-50 rounded-xl p-6 transition-transform duration-300 hover:-translate-y-2"
+          data-aos="zoom-in"
+          data-aos-delay="200"
+        >
+          <div
+            class="flex items-center gap-4 mb-4 pb-4 border-b border-gray-200"
+          >
+            <img
+              src="https://elabins.com/wp-content/uploads/2025/04/cropped.png"
+              alt="e-lab innovations Logo"
+              class="w-12 h-12 object-contain"
+            />
+            <div>
+              <h3 class="text-xl font-semibold text-gray-800">Founder</h3>
+              <p class="text-gray-600">e-lab innovations</p>
+            </div>
+          </div>
+          <div class="space-y-3">
+            <div class="flex flex-wrap gap-2">
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Full-time</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Remote</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Remote</span
+              >
+            </div>
+            <div class="flex items-center gap-2 text-gray-600">
+              <i class="fas fa-calendar"></i>
+              <span>2019 - Present</span>
+            </div>
+            <p class="text-gray-700">
+              Founded and lead e-lab innovations, focusing on IoT solutions and
+              educational content. Developed various projects including smart
+              egg incubators and home automation systems.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Projects Section -->
+  <div class="mb-12" data-aos="fade-up">
+    <h2 class="text-3xl font-bold mb-8 relative inline-block">
+      Projects
+      <span
+        class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+      ></span>
+    </h2>
+    <div class="bg-white rounded-2xl shadow-lg p-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div
+          class="bg-gray-50 rounded-xl p-6 transition-transform duration-300 hover:-translate-y-2"
+          data-aos="zoom-in"
+          data-aos-delay="100"
+        >
+          <div
+            class="flex justify-between items-start mb-4 pb-4 border-b border-gray-200"
+          >
+            <h3 class="text-xl font-semibold text-gray-800">
+              Smart Egg Incubator
+            </h3>
+            <div class="flex gap-3">
+              <a
+                href="https://github.com/e-labInnovations/smart-egg-incubator"
+                target="_blank"
+                class="text-primary hover:scale-110 transition-transform"
+              >
+                <i class="fab fa-github"></i>
+              </a>
+              <a
+                href="https://elabins.com/projects/smart-egg-incubator"
+                target="_blank"
+                class="text-primary hover:scale-110 transition-transform"
+              >
+                <i class="fas fa-external-link-alt"></i>
+              </a>
+            </div>
+          </div>
+          <div class="space-y-3">
+            <div class="flex flex-wrap gap-2">
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Arduino</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >IoT</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Node-RED</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >C++</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Electronics</span
+              >
+            </div>
+            <div class="text-gray-600 text-sm">
+              <i class="fas fa-calendar"></i>
+              <span class="ml-2">2022</span>
+            </div>
+            <p class="text-gray-700">
+              An IoT-based smart egg incubator with temperature and humidity
+              control, remote monitoring, and automated egg turning system.
+            </p>
+          </div>
+        </div>
+
+        <div
+          class="bg-gray-50 rounded-xl p-6 transition-transform duration-300 hover:-translate-y-2"
+          data-aos="zoom-in"
+          data-aos-delay="200"
+        >
+          <div
+            class="flex justify-between items-start mb-4 pb-4 border-b border-gray-200"
+          >
+            <h3 class="text-xl font-semibold text-gray-800">
+              Telegram-Controlled ESP32
+            </h3>
+            <div class="flex gap-3">
+              <a
+                href="https://github.com/e-labInnovations/telegram-esp32"
+                target="_blank"
+                class="text-primary hover:scale-110 transition-transform"
+              >
+                <i class="fab fa-github"></i>
+              </a>
+            </div>
+          </div>
+          <div class="space-y-3">
+            <div class="flex flex-wrap gap-2">
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >ESP32</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Telegram Bot API</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >IoT</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >C++</span
+              >
+              <span
+                class="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm"
+                >Node.js</span
+              >
+            </div>
+            <div class="text-gray-600 text-sm">
+              <i class="fas fa-calendar"></i>
+              <span class="ml-2">2021 - Present</span>
+            </div>
+            <p class="text-gray-700">
+              A home automation system using ESP32 microcontroller controlled
+              via Telegram bot with real-time monitoring and control
+              capabilities.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tech Stack Section -->
+  <div class="mb-12" data-aos="fade-up">
+    <h2 class="text-3xl font-bold mb-8 relative inline-block">
+      Tech Stack & Tools
+      <span
+        class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+      ></span>
+    </h2>
+    <div
+      class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6"
+    >
+      <div
+        class="flex flex-col items-center text-center"
+        data-aos="zoom-in"
+        data-aos-delay="100"
+      >
+        <div
+          class="w-16 h-16 flex items-center justify-center mb-2 transition-transform duration-300 hover:-translate-y-2"
+        >
+          <img
+            src="https://skillicons.dev/icons?i=c"
+            alt="C"
+            class="w-full h-full object-contain"
+          />
+        </div>
+        <span class="text-sm text-gray-600">C</span>
+      </div>
+      <div
+        class="flex flex-col items-center text-center"
+        data-aos="zoom-in"
+        data-aos-delay="120"
+      >
+        <div
+          class="w-16 h-16 flex items-center justify-center mb-2 transition-transform duration-300 hover:-translate-y-2"
+        >
+          <img
+            src="https://skillicons.dev/icons?i=js"
+            alt="JavaScript"
+            class="w-full h-full object-contain"
+          />
+        </div>
+        <span class="text-sm text-gray-600">JavaScript</span>
+      </div>
+      <div
+        class="flex flex-col items-center text-center"
+        data-aos="zoom-in"
+        data-aos-delay="140"
+      >
+        <div
+          class="w-16 h-16 flex items-center justify-center mb-2 transition-transform duration-300 hover:-translate-y-2"
+        >
+          <img
+            src="https://skillicons.dev/icons?i=php"
+            alt="PHP"
+            class="w-full h-full object-contain"
+          />
+        </div>
+        <span class="text-sm text-gray-600">PHP</span>
+      </div>
+      <div
+        class="flex flex-col items-center text-center"
+        data-aos="zoom-in"
+        data-aos-delay="160"
+      >
+        <div
+          class="w-16 h-16 flex items-center justify-center mb-2 transition-transform duration-300 hover:-translate-y-2"
+        >
+          <img
+            src="https://skillicons.dev/icons?i=react"
+            alt="React"
+            class="w-full h-full object-contain"
+          />
+        </div>
+        <span class="text-sm text-gray-600">React</span>
+      </div>
+      <div
+        class="flex flex-col items-center text-center"
+        data-aos="zoom-in"
+        data-aos-delay="180"
+      >
+        <div
+          class="w-16 h-16 flex items-center justify-center mb-2 transition-transform duration-300 hover:-translate-y-2"
+        >
+          <img
+            src="https://skillicons.dev/icons?i=nodejs"
+            alt="Node.js"
+            class="w-full h-full object-contain"
+          />
+        </div>
+        <span class="text-sm text-gray-600">Node.js</span>
+      </div>
+      <div
+        class="flex flex-col items-center text-center"
+        data-aos="zoom-in"
+        data-aos-delay="200"
+      >
+        <div
+          class="w-16 h-16 flex items-center justify-center mb-2 transition-transform duration-300 hover:-translate-y-2"
+        >
+          <img
+            src="https://skillicons.dev/icons?i=arduino"
+            alt="Arduino"
+            class="w-full h-full object-contain"
+          />
+        </div>
+        <span class="text-sm text-gray-600">Arduino</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- GitHub Details Section -->
+  <div class="mb-12" data-aos="fade-up">
+    <h2 class="text-3xl font-bold mb-8 relative inline-block">
+      GitHub Details
+      <span
+        class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+      ></span>
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-6">
+      <div
+        class="bg-white rounded-2xl shadow-lg p-6 text-center transition-transform duration-300 hover:-translate-y-2"
+        data-aos="flip-left"
+        data-aos-delay="100"
+      >
+        <div class="text-primary text-3xl mb-4">
+          <i class="fas fa-code-branch"></i>
+        </div>
+        <div
+          class="text-4xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent mb-2"
+          id="repoCount"
+        >
+          Loading...
+        </div>
+        <div class="text-gray-600">Public Repositories</div>
+      </div>
+      <div
+        class="bg-white rounded-2xl shadow-lg p-6 text-center transition-transform duration-300 hover:-translate-y-2"
+        data-aos="flip-left"
+        data-aos-delay="200"
+      >
+        <div class="text-primary text-3xl mb-4">
+          <i class="fas fa-users"></i>
+        </div>
+        <div
+          class="text-4xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent mb-2"
+          id="followerCount"
+        >
+          Loading...
+        </div>
+        <div class="text-gray-600">GitHub Followers</div>
+      </div>
+      <div
+        class="bg-white rounded-2xl shadow-lg p-6 text-center transition-transform duration-300 hover:-translate-y-2"
+        data-aos="flip-left"
+        data-aos-delay="300"
+      >
+        <div class="text-primary text-3xl mb-4">
+          <i class="fas fa-star"></i>
+        </div>
+        <div
+          class="text-4xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent mb-2"
+          id="starCount"
+        >
+          Loading...
+        </div>
+        <div class="text-gray-600">Total Stars</div>
+      </div>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div
+        class="bg-white rounded-2xl shadow-lg p-6 text-center transition-transform duration-300 hover:-translate-y-2"
+        data-aos="flip-left"
+        data-aos-delay="400"
+      >
+        <div class="text-primary text-3xl mb-4">
+          <i class="fas fa-code"></i>
+        </div>
+        <div
+          class="text-4xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent mb-2"
+          id="commitCount"
+        >
+          Loading...
+        </div>
+        <div class="text-gray-600">Total Commits</div>
+      </div>
+      <div
+        class="bg-white rounded-2xl shadow-lg p-6 text-center transition-transform duration-300 hover:-translate-y-2"
+        data-aos="flip-left"
+        data-aos-delay="500"
+      >
+        <div class="text-primary text-3xl mb-4">
+          <i class="fas fa-code"></i>
+        </div>
+        <div
+          class="text-4xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent mb-2"
+          id="languageCount"
+        >
+          Loading...
+        </div>
+        <div class="text-gray-600">Languages Used</div>
+      </div>
+      <div
+        class="bg-white rounded-2xl shadow-lg p-6 text-center transition-transform duration-300 hover:-translate-y-2"
+        data-aos="flip-left"
+        data-aos-delay="600"
+      >
+        <div class="text-primary text-3xl mb-4">
+          <i class="fas fa-gift"></i>
+        </div>
+        <div
+          class="text-4xl font-bold bg-gradient-to-r from-secondary to-primary bg-clip-text text-transparent mb-2"
+          id="gistCount"
+        >
+          Loading...
+        </div>
+        <div class="text-gray-600">Public Gists</div>
+      </div>
+    </div>
+
+    <!-- Commit Activity Graph -->
+    <div class="bg-white rounded-2xl shadow-lg p-6 mt-8" data-aos="fade-up">
+      <h3 class="text-2xl font-bold mb-6 relative inline-block">
+        Commit Activity
+        <span
+          class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+        ></span>
+      </h3>
+      <div class="h-80">
+        <canvas id="commitChart"></canvas>
+      </div>
+    </div>
+
+    <!-- Language Distribution -->
+    <div class="bg-white rounded-2xl shadow-lg p-6 mt-8" data-aos="fade-up">
+      <h3 class="text-2xl font-bold mb-6 relative inline-block">
+        Language Distribution
+        <span
+          class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+        ></span>
+      </h3>
+      <div class="h-80">
+        <canvas id="languageChart"></canvas>
+      </div>
+    </div>
+
+    <!-- Top Programming Languages -->
+    <div class="bg-white rounded-2xl shadow-lg p-6 mt-8" data-aos="fade-up">
+      <h3 class="text-2xl font-bold mb-6 relative inline-block">
+        Top Programming Languages
+        <span
+          class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+        ></span>
+      </h3>
+      <div
+        class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
+        id="topLanguages"
+      >
+        <div class="text-gray-600 italic">Loading languages...</div>
+      </div>
+    </div>
+
+    <!-- Most Starred Repositories -->
+    <div class="bg-white rounded-2xl shadow-lg p-6 mt-8" data-aos="fade-up">
+      <h3 class="text-2xl font-bold mb-6 relative inline-block">
+        Top Repositories by Commits
+        <span
+          class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+        ></span>
+      </h3>
+      <div class="space-y-4" id="starredRepos">
+        <div class="text-gray-600 italic">Loading repositories...</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Honors & Awards Section -->
+  <div class="mb-12" data-aos="fade-up">
+    <h2 class="text-3xl font-bold mb-8 relative inline-block">
+      Honors & Awards
+      <span
+        class="absolute bottom-0 left-0 w-12 h-1 bg-gradient-to-r from-secondary to-primary"
+      ></span>
+    </h2>
+    <div class="bg-white rounded-2xl shadow-lg p-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div
+          class="bg-gray-50 rounded-xl p-6 transition-transform duration-300 hover:-translate-y-2"
+          data-aos="zoom-in"
+          data-aos-delay="100"
+        >
+          <div
+            class="flex items-center gap-4 mb-4 pb-4 border-b border-gray-200"
+          >
+            <i class="fas fa-trophy text-primary text-2xl"></i>
+            <h3 class="text-xl font-semibold text-gray-800">
+              Latency Hackathon
+            </h3>
+          </div>
+          <div class="space-y-3">
+            <div class="flex items-center gap-2 text-gray-600">
+              <i class="fas fa-building"></i>
+              <span>TinkerHub TKMCE</span>
+            </div>
+            <div class="flex items-center gap-2 text-gray-600">
+              <i class="fas fa-calendar"></i>
+              <span>June 2022</span>
+            </div>
+            <p class="text-gray-700">
+              Won 2nd place in Latency Hackathon. Latency aims at providing a
+              platform for technical enthusiastic students to hone their
+              problem-solving abilities. The event tries to underline and
+              emphasize the importance of cultivating skills that would help
+              students come up with creative solutions to tackle real-world
+              problems.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contact Section -->
+  <div
+    class="relative rounded-2xl overflow-hidden bg-gradient-to-br from-dark to-dark-light text-white"
+    data-aos="fade-up"
+  >
+    <div class="absolute inset-0 bg-pattern"></div>
+    <div class="relative z-10 py-16 px-6 sm:px-8 text-center">
+      <h2 class="text-3xl font-bold mb-6">Let's Connect</h2>
+      <p class="mb-8 opacity-90">
+        Feel free to reach out for collaborations or just a friendly chat
+      </p>
+      <div class="flex justify-center flex-wrap gap-4">
+        <a
+          href="https://github.com/e-labinnovations"
+          target="_blank"
+          class="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center text-white transition-all duration-300 hover:bg-white hover:text-primary"
+          data-aos="zoom-in"
+          data-aos-delay="100"
+        >
+          <i class="fab fa-github"></i>
+        </a>
+        <a
+          href="https://www.facebook.com/mohammedashadmm/"
+          target="_blank"
+          class="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center text-white transition-all duration-300 hover:bg-white hover:text-primary"
+          data-aos="zoom-in"
+          data-aos-delay="150"
+        >
+          <i class="fab fa-facebook-f"></i>
+        </a>
+        <a
+          href="https://www.instagram.com/elab_innovations"
+          target="_blank"
+          class="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center text-white transition-all duration-300 hover:bg-white hover:text-primary"
+          data-aos="zoom-in"
+          data-aos-delay="200"
+        >
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a
+          href="https://twitter.com/elabinnovations"
+          target="_blank"
+          class="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center text-white transition-all duration-300 hover:bg-white hover:text-primary"
+          data-aos="zoom-in"
+          data-aos-delay="250"
+        >
+          <i class="fab fa-twitter"></i>
+        </a>
+        <a
+          href="https://t.me/elab_innovations"
+          target="_blank"
+          class="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center text-white transition-all duration-300 hover:bg-white hover:text-primary"
+          data-aos="zoom-in"
+          data-aos-delay="300"
+        >
+          <i class="fab fa-telegram-plane"></i>
+        </a>
+        <a
+          href="https://www.linkedin.com/in/mohammed-ashad"
+          target="_blank"
+          class="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center text-white transition-all duration-300 hover:bg-white hover:text-primary"
+          data-aos="zoom-in"
+          data-aos-delay="350"
+        >
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+        <a
+          href="https://www.youtube.com/c/elabinnovations"
+          target="_blank"
+          class="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center text-white transition-all duration-300 hover:bg-white hover:text-primary"
+          data-aos="zoom-in"
+          data-aos-delay="400"
+        >
+          <i class="fab fa-youtube"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- AOS Animation Script -->
+<script>
+  AOS.init({
+    duration: 800,
+    easing: "ease-in-out",
+    once: true,
+  });
+</script>
+
+<!-- GitHub Stats Script -->
+<script>
+  async function fetchGitHubData() {
+    try {
+      const response = await fetch(
+        "https://raw.githubusercontent.com/e-labInnovations/e-labInnovations/refs/heads/master/github-stats.json"
+      );
+      const data = await response.json();
+
+      // Update basic stats
+      document.getElementById("repoCount").textContent = data.user.publicRepos;
+      document.getElementById("followerCount").textContent =
+        data.user.followers;
+      document.getElementById("starCount").textContent = Object.values(
+        data.repoStarCount
+      ).reduce((sum, count) => sum + count, 0);
+      document.getElementById("commitCount").textContent = Object.values(
+        data.quarterCommitCount
+      ).reduce((sum, count) => sum + count, 0);
+      document.getElementById("languageCount").textContent = Object.keys(
+        data.langRepoCount
+      ).length;
+      document.getElementById("gistCount").textContent = data.user.publicGists;
+
+      // Create commit activity chart
+      const quarters = Object.entries(data.quarterCommitCount)
+        .sort((a, b) => a[0].localeCompare(b[0]))
+        .slice(-12);
+
+      new Chart(document.getElementById("commitChart"), {
+        type: "line",
+        data: {
+          labels: quarters.map(([quarter]) => quarter),
+          datasets: [
+            {
+              label: "Commits",
+              data: quarters.map(([_, count]) => count),
+              backgroundColor: "rgba(67, 206, 162, 0.1)",
+              borderColor: "rgba(67, 206, 162, 1)",
+              borderWidth: 2,
+              tension: 0.4,
+              pointBackgroundColor: "rgba(67, 206, 162, 1)",
+              pointBorderColor: "#fff",
+              pointBorderWidth: 2,
+              pointRadius: 4,
+              pointHoverRadius: 6,
+              fill: true,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          scales: {
+            y: {
+              beginAtZero: true,
+              grid: {
+                color: "rgba(0, 0, 0, 0.05)",
+                drawBorder: false,
+              },
+              ticks: {
+                color: "#666",
+                stepSize: 1,
+              },
+            },
+            x: {
+              grid: {
+                display: false,
+              },
+              ticks: {
+                color: "#666",
+              },
+            },
+          },
+          plugins: {
+            legend: {
+              display: false,
+            },
+            tooltip: {
+              backgroundColor: "rgba(255, 255, 255, 0.95)",
+              titleColor: "#185a9d",
+              bodyColor: "#666",
+              borderColor: "rgba(0, 0, 0, 0.1)",
+              borderWidth: 1,
+              padding: 10,
+              displayColors: false,
+              callbacks: {
+                title: (items) => `Quarter: ${items[0].label}`,
+                label: (item) => `Commits: ${item.raw}`,
+              },
+            },
+          },
+        },
+      });
+
+      // Create language distribution chart
+      const languageData = Object.entries(data.langCommitCount).sort(
+        (a, b) => b[1] - a[1]
+      );
+
+      new Chart(document.getElementById("languageChart"), {
+        type: "doughnut",
+        data: {
+          labels: languageData.map(([lang]) => lang),
+          datasets: [
+            {
+              data: languageData.map(([_, count]) => count),
+              backgroundColor: [
+                "rgba(67, 206, 162, 0.8)",
+                "rgba(24, 90, 157, 0.8)",
+                "rgba(255, 99, 132, 0.8)",
+                "rgba(54, 162, 235, 0.8)",
+                "rgba(255, 206, 86, 0.8)",
+                "rgba(75, 192, 192, 0.8)",
+                "rgba(153, 102, 255, 0.8)",
+                "rgba(255, 159, 64, 0.8)",
+              ],
+              borderColor: "rgba(255, 255, 255, 0.1)",
+              borderWidth: 2,
+              hoverOffset: 10,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          cutout: "60%",
+          plugins: {
+            legend: {
+              position: "right",
+              labels: {
+                color: "#666",
+                padding: 20,
+                font: {
+                  size: 12,
+                },
+                usePointStyle: true,
+                pointStyle: "circle",
+              },
+            },
+            tooltip: {
+              backgroundColor: "rgba(255, 255, 255, 0.95)",
+              titleColor: "#185a9d",
+              bodyColor: "#666",
+              borderColor: "rgba(0, 0, 0, 0.1)",
+              borderWidth: 1,
+              padding: 10,
+              callbacks: {
+                label: (context) => {
+                  const label = context.label || "";
+                  const value = context.raw || 0;
+                  const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                  const percentage = ((value / total) * 100).toFixed(1);
+                  return `${label}: ${value} commits (${percentage}%)`;
+                },
+              },
+            },
+          },
+        },
+      });
+
+      // Update top languages
+      const languagesContainer = document.getElementById("topLanguages");
+      languagesContainer.innerHTML = "";
+
+      const topLanguages = Object.entries(data.langRepoCount)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 6);
+
+      const totalCommits = Object.values(data.langCommitCount).reduce(
+        (a, b) => a + b,
+        0
+      );
+
+      topLanguages.forEach(([lang, repoCount]) => {
+        const commitCount = data.langCommitCount[lang] || 0;
+        const starCount = data.langStarCount[lang] || 0;
+        const percentage = ((commitCount / totalCommits) * 100).toFixed(1);
+
+        const languageItem = document.createElement("div");
+        languageItem.className =
+          "bg-white rounded-2xl shadow-lg p-6 transition-transform duration-300 hover:-translate-y-2";
+        languageItem.innerHTML = `
+          <div class="flex items-center gap-4 mb-4">
+            <div class="w-12 h-12 rounded-xl bg-gray-50 flex items-center justify-center">
+              <img 
+                src="https://skillicons.dev/icons?i=${lang
+                  .toLowerCase()
+                  .replace("c++", "cpp")
+                  .replace("unknown", "github")}" 
+                alt="${lang}" 
+                class="w-12 h-12"
+              />
+            </div>
+            <div>
+              <h4 class="text-lg font-semibold text-gray-800">${lang}</h4>
+              <p class="text-sm text-gray-600">${percentage}% of commits</p>
+            </div>
+          </div>
+          <div class="grid grid-cols-3 gap-4">
+            <div class="text-center">
+              <div class="text-primary text-lg font-semibold">${repoCount}</div>
+              <p class="text-xs text-gray-600">Repositories</p>
+            </div>
+            <div class="text-center">
+              <div class="text-primary text-lg font-semibold">${commitCount}</div>
+              <p class="text-xs text-gray-600">Commits</p>
+            </div>
+            <div class="text-center">
+              <div class="text-primary text-lg font-semibold">${starCount}</div>
+              <p class="text-xs text-gray-600">Stars</p>
+            </div>
+          </div>
+          <div class="mt-4">
+            <div class="h-2 bg-gray-100 rounded-full overflow-hidden">
+              <div 
+                class="h-full bg-gradient-to-r from-secondary to-primary rounded-full" 
+                style="width: ${percentage}%"
+              ></div>
+            </div>
+          </div>
+        `;
+        languagesContainer.appendChild(languageItem);
+      });
+
+      // Update starred repos
+      const reposContainer = document.getElementById("starredRepos");
+      reposContainer.innerHTML = "";
+
+      const sortedRepos = Object.entries(data.repoCommitCount)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5);
+
+      sortedRepos.forEach(([repo, commitCount]) => {
+        const stars = data.repoStarCount[repo] || 0;
+        const description =
+          data.repoCommitCountDescriptions[repo] || "No description available";
+        const repoItem = document.createElement("div");
+        repoItem.className =
+          "bg-gray-50 rounded-xl p-6 transition-transform duration-300 hover:-translate-y-2";
+        repoItem.innerHTML = `
+          <div class="flex justify-between items-start mb-4">
+            <a href="https://github.com/e-labInnovations/${repo}" target="_blank" class="text-xl font-semibold text-primary hover:underline">${repo}</a>
+            <div class="flex gap-4">
+              <div class="flex items-center gap-2 text-gray-600" title="${commitCount} Commits">
+                <i class="fas fa-code"></i>
+                <span>${commitCount}</span>
+              </div>
+              <div class="flex items-center gap-2 text-gray-600" title="${stars} Stars">
+                <i class="fas fa-star"></i>
+                <span>${stars}</span>
+              </div>
+            </div>
+          </div>
+          <p class="text-gray-700">${description}</p>
+        `;
+        reposContainer.appendChild(repoItem);
+      });
+    } catch (error) {
+      console.error("Error fetching GitHub data:", error);
+      // Fallback values for stats
+      document.getElementById("repoCount").textContent = "75";
+      document.getElementById("followerCount").textContent = "27";
+      document.getElementById("starCount").textContent = "13";
+      document.getElementById("commitCount").textContent = "1000+";
+      document.getElementById("languageCount").textContent = "12";
+      document.getElementById("gistCount").textContent = "5";
+
+      // Error messages for details
+      document.getElementById("topLanguages").innerHTML =
+        '<div class="text-gray-600 italic">Failed to load languages</div>';
+      document.getElementById("starredRepos").innerHTML =
+        '<div class="text-gray-600 italic">Failed to load repositories</div>';
+    }
+  }
+
+  window.addEventListener("load", fetchGitHubData);
+</script>
+
+<!-- Meta Tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta
+  name="description"
+  content="Mohammed Ashad MM - Electronics Engineer, Full-Stack Developer, and IoT Enthusiast"
+/>
+<meta
+  name="keywords"
+  content="Electronics Engineer, Full-Stack Developer, IoT, Embedded Systems, Web Development"
+/>
+<meta name="author" content="Mohammed Ashad MM" />

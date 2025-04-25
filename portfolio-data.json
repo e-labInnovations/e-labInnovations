@@ -1,0 +1,474 @@
+{
+  "profile": {
+    "name": "Mohammed Ashad MM",
+    "title": "An Electronics Engineer With A Keyboard",
+    "about": "Hey there 👋 I'm Ashad — an engineer with a passion for building the future one line of code and circuit at a time. I specialize in electronics, embedded systems, and full-stack development, currently working as a MTS 2 at <a href=\"https://www.thoughtspot.com/\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">ThoughtSpot</a>. I've built everything from smart IoT devices to full-stack projects, and I'm on a mission to blend the physical and digital worlds creatively and efficiently.\n\nI'm also the mind behind <a href=\"https://elabins.com\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">e-lab innovations</a>, a platform where innovation meets practical electronics. Whether it's a smart egg incubator or a Telegram-controlled ESP32 project, I love making tech that just works — and works well.",
+    "facts": [
+      {
+        "icon": "fa-graduation-cap",
+        "content": "Electronics Engineer"
+      },
+      {
+        "icon": "fa-laptop-code",
+        "content": "MTS 2 at <a href=\"https://www.thoughtspot.com/\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">ThoughtSpot</a>"
+      },
+      {
+        "icon": "fa-microchip",
+        "content": "Embedded Systems Developer"
+      },
+      {
+        "icon": "fa-wifi",
+        "content": "IoT Enthusiast"
+      },
+      {
+        "icon": "fa-code",
+        "content": "Full-Stack Developer"
+      },
+      {
+        "icon": "fa-tools",
+        "content": "Automation Specialist"
+      },
+      {
+        "icon": "fa-lightbulb",
+        "content": "Founder of <a href=\"https://elabins.com\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">e-lab innovations</a>"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Auto Billing Trolley",
+      "description": "I designed an IoT-based self-billing trolley project using RFID technology. The hardware includes an ESP8266 microcontroller, EM-18 RFID reader, and OLED display. A Node.js server communicates with the hardware through WebSocket protocol, streamlining the billing process. Customers can scan product RFID tags to add items to the trolley. The server stores product details and displays the product list and total amount on a WPA app. An OLED display on the trolley shows the total amount and product count. To remove items, users press a button, and the OLED prompts a \"remove\" action. The system updates the cart accordingly. This automated trolley enhances the shopping experience by simplifying billing, reducing manual effort, and providing real-time information.",
+      "links": {
+        "github": ""
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      "skills": ["ESP8266", "RFID", "Node.js", "WebSocket", "IoT"]
+    },
+    {
+      "name": "Day Counter",
+      "description": "I developed \"Day Counter,\" a Chrome extension to count days and show the count on the extension icon. It includes a \"Quit Addiction\" feature with different avatar images based on the level. This user-friendly tool helps track daily progress and stay motivated. The \"Quit Addiction\" feature serves as a visual reward system, encouraging consistency. \"Day Counter\" aims to enhance productivity, habit-building, and personal development.",
+      "links": {
+        "github": ""
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2022-10-01",
+      "endDate": "2022-12-01",
+      "skills": ["Chrome Extension", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "name": "Statera",
+      "description": "Statera is an IoT Based balance rehabilitation system for who facing balance issue due to age, stock and Parkinson.",
+      "links": {
+        "github": ""
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2023-10-01",
+      "endDate": "2024-06-01",
+      "skills": ["IoT", "Healthcare", "Embedded Systems"]
+    },
+    {
+      "name": "Elabins Days Counter (Rainmeter)",
+      "description": "\"Elabins Days Counter\" is a Rainmeter skin that allows you to count days up from a specified starting date. Inspired by the \"Days without incident\" concept from the Hulk 2008 movie, this day counter provides a fun and unique way to track time and important milestones.",
+      "links": {
+        "github": ""
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2023-07-01",
+      "endDate": "2023-07-01",
+      "skills": ["Rainmeter", "Lua", "Windows"]
+    },
+    {
+      "name": "CampusCast",
+      "description": "CampusCast is an IoT-based announcement system designed to improve communication in academic institutions. Teachers can send voice announcements with customizable routes to specific classrooms or branches, ensuring messages are received and acknowledged. Smart Notifications and Exam Time Alerts provide targeted communication without disrupting classes. CampusCast aims to modernize communication in colleges, enhancing the campus experience and fostering student engagement. It aims to improve academic success by facilitating efficient and connected learning through improved communication between faculty and students.",
+      "links": {
+        "github": ""
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2023-03-01",
+      "endDate": "2023-06-01",
+      "skills": ["IoT", "Node.js", "WebSocket", "Voice Processing"]
+    },
+    {
+      "name": "DriveSnap",
+      "description": "Introducing \"DriveSnap - ESP32-Cam Timelapse Project,\" a dynamic solution that captures captivating timelapse sequences with precision. DriveSnap, powered by ESP32-Cam, expertly takes one photo every minute, seamlessly uploading each snapshot to your designated Google Drive folder. Immerse yourself in the beauty of your projects, workbench activities, or cherished moments, all immortalized in stunning timelapse footage.",
+      "links": {
+        "github": ""
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2022-12-01",
+      "endDate": "2022-12-01",
+      "skills": ["ESP32", "Google Drive API", "Timelapse", "IoT"]
+    },
+    {
+      "name": "tkmcebot",
+      "description": "Study materials bot for Telegram",
+      "links": {
+        "github": "https://github.com/e-labInnovations/tkmcebot"
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2022-02-01",
+      "endDate": "2022-02-01",
+      "skills": ["Telegram Bot", "Node.js", "MongoDB"]
+    },
+    {
+      "name": "Ashad",
+      "description": "Ashad is an elegant and versatile WordPress theme crafted exclusively for the creative minds at e-lab Innovations. This theme embodies the essence of electronics and programming, providing a captivating platform to showcase cutting-edge project ideas, experiment results, and insightful insights.",
+      "links": {
+        "github": "https://github.com/e-labInnovations/ashad"
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2022-01-01",
+      "endDate": "2022-09-01",
+      "skills": ["WordPress", "PHP", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Walleto",
+      "description": "Walloto is a versatile Progressive Web App (PWA) and a native Android app available on the Play Store. Seamlessly manage your wallet with this intuitive and feature-rich application. Walloto empowers you to effortlessly record and categorize your daily income and expenses, providing you with valuable insights into your financial habits. As a PWA, Walloto ensures a responsive and immersive user experience on any device, while the TWA version enhances the convenience of accessing the app directly from the Play Store.",
+      "links": {
+        "github": "https://github.com/e-labInnovations/Walleto"
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2021-10-01",
+      "endDate": "2021-10-01",
+      "skills": ["PWA", "Android", "React", "Firebase"]
+    },
+    {
+      "name": "Poly-Drive",
+      "description": "Nodejs based website to provide study materials from google drive.",
+      "links": {
+        "github": "https://github.com/e-labInnovations/Poly-Drive"
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2021-05-01",
+      "endDate": "2021-05-01",
+      "skills": ["Node.js", "Google Drive API", "Express"]
+    },
+    {
+      "name": "SCNotifier",
+      "description": "Smart classroom notifier aka SCNotfier is my main project in the 3rd year of my diploma education. It is basically an IoT device that helps students to notify several messages and notifications from different sources and alert them using a VGA projector or Monitor present in the classroom.",
+      "links": {
+        "github": "https://github.com/e-labInnovations/SCNotifier"
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2021-01-01",
+      "endDate": "2021-07-01",
+      "skills": ["IoT", "ESP8266", "Node.js", "WebSocket"]
+    },
+    {
+      "name": "ESP12 Based Home Automation",
+      "description": "This is an ESP12 based home automation project. The project uses a web interface to control the loads. With help of WiFi, we can control the relays to turn on or off.",
+      "links": {
+        "github": "https://github.com/e-labInnovations/ESP12-Home-Automation"
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2020-07-01",
+      "endDate": "2020-07-01",
+      "skills": ["ESP8266", "Home Automation", "IoT", "Web Interface"]
+    }
+  ],
+  "techStack": [
+    {
+      "name": "C",
+      "link": "https://www.cprogramming.com/",
+      "image": "https://skillicons.dev/icons?i=c"
+    },
+    {
+      "name": "Arduino",
+      "link": "https://www.arduino.cc/",
+      "image": "https://skillicons.dev/icons?i=arduino"
+    },
+    {
+      "name": "Visual Studio Code",
+      "link": "https://code.visualstudio.com/",
+      "image": "https://skillicons.dev/icons?i=vscode"
+    },
+    {
+      "name": "HTML5",
+      "link": "",
+      "image": "https://skillicons.dev/icons?i=html"
+    },
+    {
+      "name": "CSS3",
+      "link": "https://www.w3.org/TR/CSS/#css",
+      "image": "https://skillicons.dev/icons?i=css"
+    },
+    {
+      "name": "JavaScript",
+      "link": "https://www.javascript.com/",
+      "image": "https://skillicons.dev/icons?i=js"
+    },
+    {
+      "name": "PHP",
+      "link": "https://www.php.net/",
+      "image": "https://skillicons.dev/icons?i=php"
+    },
+    {
+      "name": "Node.js",
+      "link": "https://nodejs.org/en/",
+      "image": "https://skillicons.dev/icons?i=nodejs"
+    },
+    {
+      "name": "NPM",
+      "link": "https://www.npmjs.com/",
+      "image": "https://raw.githubusercontent.com/tandpfun/skill-icons/75fca9268d3f686637469ec810d20ebca5925db9/icons/Npm.svg"
+    },
+    {
+      "name": "React",
+      "link": "https://reactjs.org/",
+      "image": "https://skillicons.dev/icons?i=react"
+    },
+    {
+      "name": "Vite",
+      "link": "https://vite.dev/",
+      "image": "https://skillicons.dev/icons?i=vite"
+    },
+    {
+      "name": "Ionic",
+      "link": "https://ionicframework.com/",
+      "image": "https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Ionic-Dark.svg"
+    },
+    {
+      "name": "Express",
+      "link": "https://expressjs.com/",
+      "image": "https://skillicons.dev/icons?i=express"
+    },
+    {
+      "name": "Nest.js",
+      "link": "https://nestjs.com/",
+      "image": "https://skillicons.dev/icons?i=nestjs"
+    },
+    {
+      "name": "WordPress",
+      "link": "https://wordpress.org/",
+      "image": "https://skillicons.dev/icons?i=wordpress"
+    },
+    {
+      "name": "Git",
+      "link": "https://git-scm.com/",
+      "image": "https://skillicons.dev/icons?i=git"
+    },
+    {
+      "name": "GitHub",
+      "link": "https://github.com/",
+      "image": "https://skillicons.dev/icons?i=github"
+    },
+    {
+      "name": "Firebase",
+      "link": "https://firebase.google.com/",
+      "image": "https://skillicons.dev/icons?i=firebase"
+    },
+    {
+      "name": "Jekyll",
+      "link": "https://jekyllrb.com/",
+      "image": "https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Jekyll-Dark.svg"
+    },
+    {
+      "name": "JSON",
+      "link": "https://www.json.org/json-en.html",
+      "image": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
+    },
+    {
+      "name": "Markdown",
+      "link": "https://www.markdownguide.org/",
+      "image": "https://skillicons.dev/icons?i=md"
+    },
+    {
+      "name": "PWA",
+      "link": "https://web.dev/progressive-web-apps/",
+      "image": "https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/PWA-Dark.svg"
+    },
+    {
+      "name": "Tailwind",
+      "link": "https://tailwindcss.com/docs/responsive-design",
+      "image": "https://skillicons.dev/icons?i=tailwind"
+    },
+    {
+      "name": "Bootstrap",
+      "link": "https://getbootstrap.com/",
+      "image": "https://skillicons.dev/icons?i=bootstrap"
+    },
+    {
+      "name": "Bulma",
+      "link": "",
+      "image": "https://raw.githubusercontent.com/tandpfun/skill-icons/e780ea3a7980289805e8afe2d027b124d96d48bd/icons/Bulma-Dark.svg"
+    },
+    {
+      "name": "Materialize",
+      "link": "https://materializecss.com/",
+      "image": "https://raw.githubusercontent.com/tandpfun/skill-icons/e780ea3a7980289805e8afe2d027b124d96d48bd/icons/Materialize-Dark.svg"
+    },
+    {
+      "name": "Heroku",
+      "link": "https://heroku.com/",
+      "image": "https://skillicons.dev/icons?i=heroku"
+    },
+    {
+      "name": "Netlify",
+      "link": "https://www.netlify.com/",
+      "image": "https://skillicons.dev/icons?i=netlify"
+    },
+    {
+      "name": "Putty",
+      "link": "https://www.putty.org/",
+      "image": "https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/Putty-Dark.svg"
+    },
+    {
+      "name": "Socket.io",
+      "link": "https://socket.io/",
+      "image": "https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/SocketIO-Dark.svg"
+    },
+    {
+      "name": "Pug",
+      "link": "https://pugjs.org/api/getting-started.html",
+      "image": "https://skillicons.dev/icons?i=pug"
+    },
+    {
+      "name": "Google Apps Script",
+      "link": "https://www.google.com/script/start/",
+      "image": "https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/GoogleAppsScript-Dark.svg"
+    },
+    {
+      "name": "Postman",
+      "link": "https://www.postman.com/",
+      "image": "https://skillicons.dev/icons?i=postman"
+    },
+    {
+      "name": "Adobe Illustrator",
+      "link": "https://www.adobe.com/in/products/illustrator.html",
+      "image": "https://skillicons.dev/icons?i=ai"
+    },
+    {
+      "name": "Node-RED",
+      "link": "https://nodered.org/",
+      "image": "https://raw.githubusercontent.com/e-labInnovations/skill-icons/main/icons/NodeRED.svg"
+    },
+    {
+      "name": "Playwright",
+      "link": "https://playwright.dev/",
+      "image": "https://raw.githubusercontent.com/osohyun0224/skill-icons/refs/heads/main/icons/PlayWright-Dark.svg"
+    }
+  ],
+  "education": [
+    {
+      "college": "TKM College of Engineering, Kollam",
+      "degree": "Bachelor of Technology",
+      "fieldOfStudy": "Electronics Engineering",
+      "startDate": "2021-12-01",
+      "endDate": "2024-06-01",
+      "logo": "https://elabins.com/wp-content/uploads/education/tkmce-logo.png"
+    },
+    {
+      "college": "AKNM GPTC Thirurangadi, Chelari",
+      "degree": "Diploma of Education",
+      "fieldOfStudy": "Electronics Engineering",
+      "startDate": "2018-08-01",
+      "endDate": "2021-09-01",
+      "logo": "https://elabins.com/wp-content/uploads/education/aknm-logo.png"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Member of Technical Staff 2",
+      "employmentType": "Full-time",
+      "company": {
+        "name": "ThoughtSpot",
+        "link": "https://www.thoughtspot.com/",
+        "logo": "https://elabins.com/wp-content/uploads/experience/thoughtspot-logo.png"
+      },
+      "startDate": "2024-08-01",
+      "endDate": null,
+      "location": "Bangalore, India",
+      "locationType": "hybrid",
+      "description": ""
+    },
+    {
+      "title": "Engineering Intern",
+      "employmentType": "Internship",
+      "company": {
+        "name": "ThoughtSpot",
+        "link": "https://www.thoughtspot.com/",
+        "logo": "https://elabins.com/wp-content/uploads/experience/thoughtspot-logo.png"
+      },
+      "startDate": "2024-01-01",
+      "endDate": "2024-07-01",
+      "location": "Bangalore, India",
+      "locationType": "hybrid",
+      "description": ""
+    },
+    {
+      "title": "Founder",
+      "employmentType": "Full-time",
+      "company": {
+        "name": "e-lab innovations",
+        "link": "https://elabins.com/",
+        "logo": "https://elabins.com/wp-content/uploads/2025/04/cropped.png"
+      },
+      "startDate": "2019-06-01",
+      "endDate": null,
+      "location": "Remote",
+      "locationType": "remote",
+      "description": "Founded and lead e-lab innovations, focusing on IoT solutions and educational content. Developed various projects including smart egg incubators and home automation systems."
+    }
+  ],
+  "honorsAndAwards": [
+    {
+      "title": "Latency Hackathon",
+      "issuer": "TinkerHub TKMCE",
+      "issueDate": "2022-06-01",
+      "description": "Won 2nd place in Latency Hackathon. Latency aims at providing a platform for technical enthusiastic students to hone their problem-solving abilities. The event tries to underline and emphasize the importance of cultivating skills that would help students come up with creative solutions to tackle real-world problems.",
+      "link": "https://tinkerhub.org/latency",
+      "image": "https://elabins.com/wp-content/uploads/awards/latency-hackathon.jpg"
+    }
+  ],
+  "socialLinks": [
+    {
+      "title": "GitHub",
+      "link": "https://github.com/e-labinnovations",
+      "username": "e-labinnovations"
+    },
+    {
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/mohammed-ashad",
+      "username": "mohammed-ashad"
+    },
+    {
+      "title": "Twitter",
+      "link": "https://twitter.com/elabinnovations",
+      "username": "elabinnovations"
+    },
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/mohammedashadmm/",
+      "username": "mohammedashadmm"
+    },
+    {
+      "title": "Instagram",
+      "link": "https://www.instagram.com/elab_innovations",
+      "username": "elab_innovations"
+    },
+    {
+      "title": "Telegram",
+      "link": "https://t.me/elab_innovations",
+      "username": "elab_innovations"
+    },
+    {
+      "title": "YouTube",
+      "link": "https://www.youtube.com/c/elabinnovations",
+      "username": "elabinnovations"
+    }
+  ]
+}

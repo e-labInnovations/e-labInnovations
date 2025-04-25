@@ -1,0 +1,178 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Portfolio Data Schema",
+  "type": "object",
+  "properties": {
+    "profile": {
+      "type": "object",
+      "required": ["name", "title", "about", "facts"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Full name of the person"
+        },
+        "title": {
+          "type": "string",
+          "description": "Professional title or tagline"
+        },
+        "about": {
+          "type": "string",
+          "description": "Detailed description about the person"
+        },
+        "facts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["icon", "content"],
+            "properties": {
+              "icon": {
+                "type": "string",
+                "description": "Font Awesome icon class name"
+              },
+              "content": {
+                "type": "string",
+                "description": "HTML content for the fact"
+              }
+            }
+          }
+        }
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "links": {
+            "type": "object",
+            "properties": {
+              "github": { "type": "string" },
+              "website": { "type": "string" }
+            }
+          },
+          "media": {
+            "type": "object",
+            "properties": {
+              "screenshots": { "type": "array", "items": { "type": "string" } },
+              "videos": { "type": "array", "items": { "type": "string" } }
+            }
+          },
+          "collaborators": { "type": "array", "items": { "type": "string" } },
+          "startDate": { "type": "string", "format": "date" },
+          "endDate": { "type": ["string", "null"], "format": "date" },
+          "skills": { "type": "array", "items": { "type": "string" } }
+        },
+        "required": ["name", "description", "startDate"]
+      }
+    },
+    "techStack": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "link": { "type": "string" },
+          "image": { "type": "string" }
+        },
+        "required": ["name", "link", "image"]
+      }
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "college": { "type": "string" },
+          "degree": { "type": "string" },
+          "fieldOfStudy": { "type": "string" },
+          "startDate": { "type": "string", "format": "date" },
+          "endDate": { "type": ["string", "null"], "format": "date" },
+          "logo": { "type": "string" }
+        },
+        "required": ["college", "degree", "fieldOfStudy", "startDate"]
+      }
+    },
+    "experience": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "employmentType": {
+            "type": "string",
+            "enum": [
+              "full-time",
+              "part-time",
+              "internship",
+              "freelance",
+              "contract"
+            ]
+          },
+          "company": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "link": { "type": "string" },
+              "logo": { "type": "string" }
+            },
+            "required": ["name"]
+          },
+          "startDate": { "type": "string", "format": "date" },
+          "endDate": { "type": ["string", "null"], "format": "date" },
+          "location": { "type": "string" },
+          "locationType": {
+            "type": "string",
+            "enum": ["hybrid", "remote", "onsite"]
+          },
+          "description": { "type": "string" }
+        },
+        "required": [
+          "title",
+          "employmentType",
+          "company",
+          "startDate",
+          "location",
+          "locationType"
+        ]
+      }
+    },
+    "honorsAndAwards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "issuer": { "type": "string" },
+          "issueDate": { "type": "string", "format": "date" },
+          "description": { "type": "string" },
+          "link": { "type": "string" },
+          "image": { "type": "string" }
+        },
+        "required": ["title", "issuer", "issueDate", "description"]
+      }
+    },
+    "socialLinks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "link": { "type": "string" },
+          "username": { "type": "string" }
+        },
+        "required": ["title", "link", "username"]
+      }
+    }
+  },
+  "required": [
+    "profile",
+    "projects",
+    "techStack",
+    "education",
+    "experience",
+    "honorsAndAwards",
+    "socialLinks"
+  ]
+}
