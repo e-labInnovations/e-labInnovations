@@ -55,11 +55,22 @@
       "links": {
         "github": "https://github.com/e-labInnovations/elabins-portfolio-blocks"
       },
-      "media": {},
+      "media": {
+        "images": [
+          "https://raw.githubusercontent.com/e-labInnovations/elabins-portfolio-blocks/refs/heads/main/assets/screenshot.png"
+        ]
+      },
       "collaborators": [],
       "startDate": "2025-04-01",
       "endDate": "2025-04-27",
-      "skills": ["WordPress", "PHP", "JavaScript", "CSS", "HTML"]
+      "skills": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "SCSS",
+        "HTML",
+        "GitHub Actions"
+      ]
     },
     {
       "name": "Statera",
