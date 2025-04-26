@@ -9,68 +9,76 @@
     ],
     "facts": [
       {
-        "icon": "fa-graduation-cap",
+        "icon": "fas fa-graduation-cap",
         "content": "Electronics Engineer"
       },
       {
-        "icon": "fa-laptop-code",
+        "icon": "fas fa-laptop-code",
         "content": "MTS 2 at <a href=\"https://www.thoughtspot.com/\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">ThoughtSpot</a>"
       },
       {
-        "icon": "fa-microchip",
+        "icon": "fas fa-microchip",
         "content": "Embedded Systems Developer"
       },
       {
-        "icon": "fa-wifi",
+        "icon": "fas fa-wifi",
         "content": "IoT Enthusiast"
       },
       {
-        "icon": "fa-code",
+        "icon": "fas fa-code",
         "content": "Full-Stack Developer"
       },
       {
-        "icon": "fa-tools",
+        "icon": "fas fa-tools",
         "content": "Automation Specialist"
       },
       {
-        "icon": "fa-lightbulb",
+        "icon": "fas fa-lightbulb",
         "content": "Founder of <a href=\"https://elabins.com\" target=\"_blank\" class=\"text-primary font-semibold hover:underline\">e-lab innovations</a>"
       }
     ]
   },
   "projects": [
     {
-      "name": "Auto Billing Trolley",
-      "description": "I designed an IoT-based self-billing trolley project using RFID technology. The hardware includes an ESP8266 microcontroller, EM-18 RFID reader, and OLED display. A Node.js server communicates with the hardware through WebSocket protocol, streamlining the billing process. Customers can scan product RFID tags to add items to the trolley. The server stores product details and displays the product list and total amount on a WPA app. An OLED display on the trolley shows the total amount and product count. To remove items, users press a button, and the OLED prompts a \"remove\" action. The system updates the cart accordingly. This automated trolley enhances the shopping experience by simplifying billing, reducing manual effort, and providing real-time information.",
-      "links": {
-        "github": ""
-      },
+      "name": "Embronics Hub",
+      "description": "Embronics Hub is a comprehensive IoT device management platform developed for controlling and managing IoT devices from Embronics (embronics.com). The platform provides real-time monitoring, remote device control, firmware updates, and detailed analytics. Key features include performance metrics tracking, usage pattern analysis, custom reporting, role-based access control, secure authentication, and activity logging - giving users complete control and insights into their IoT ecosystem.",
+      "links": {},
       "media": {},
       "collaborators": [],
-      "startDate": "2023-01-01",
-      "endDate": "2023-05-01",
-      "skills": ["ESP8266", "RFID", "Node.js", "WebSocket", "IoT"]
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "skills": ["Next.js", "React", "Shadcn UI", "WebSocket"]
     },
     {
-      "name": "Day Counter",
-      "description": "I developed \"Day Counter,\" a Chrome extension to count days and show the count on the extension icon. It includes a \"Quit Addiction\" feature with different avatar images based on the level. This user-friendly tool helps track daily progress and stay motivated. The \"Quit Addiction\" feature serves as a visual reward system, encouraging consistency. \"Day Counter\" aims to enhance productivity, habit-building, and personal development.",
+      "name": "Elabins Portfolio Blocks",
+      "description": "Gutenberg blocks for displaying a professional portfolio with GitHub stats, projects, and more. The plugin provides a collection of blocks that can be used to create a modern, interactive portfolio website with features like project showcases, tech stacks, education history, work experience, and social links.",
       "links": {
-        "github": ""
+        "github": "https://github.com/e-labInnovations/elabins-portfolio-blocks"
       },
       "media": {},
       "collaborators": [],
-      "startDate": "2022-10-01",
-      "endDate": "2022-12-01",
-      "skills": ["Chrome Extension", "JavaScript", "HTML", "CSS"]
+      "startDate": "2025-04-01",
+      "endDate": "2025-04-27",
+      "skills": ["WordPress", "PHP", "JavaScript", "CSS", "HTML"]
     },
     {
       "name": "Statera",
       "description": "Statera is an IoT Based balance rehabilitation system for who facing balance issue due to age, stock and Parkinson.",
-      "links": {
-        "github": ""
-      },
+      "links": {},
       "media": {},
-      "collaborators": [],
+      "collaborators": [
+        {
+          "name": "Mohammed Ruvais",
+          "link": "https://www.linkedin.com/in/mohammed-ruvais-82391a202"
+        },
+        {
+          "name": "Joseph George",
+          "link": "https://www.linkedin.com/in/joseph-george-5428141b8"
+        },
+        {
+          "name": "Anupam Krishna"
+        }
+      ],
       "startDate": "2023-10-01",
       "endDate": "2024-06-01",
       "skills": ["IoT", "Healthcare", "Embedded Systems"]
@@ -79,31 +87,72 @@
       "name": "Elabins Days Counter (Rainmeter)",
       "description": "\"Elabins Days Counter\" is a Rainmeter skin that allows you to count days up from a specified starting date. Inspired by the \"Days without incident\" concept from the Hulk 2008 movie, this day counter provides a fun and unique way to track time and important milestones.",
       "links": {
-        "github": ""
+        "github": "https://github.com/e-labInnovations/RainMeter-ElabinsDaysCounter"
       },
-      "media": {},
+      "media": {
+        "images": [
+          "https://raw.githubusercontent.com/e-labInnovations/RainMeter-ElabinsDaysCounter/main/images/preview.png",
+          "https://raw.githubusercontent.com/e-labInnovations/RainMeter-ElabinsDaysCounter/main/images/01.png"
+        ]
+      },
       "collaborators": [],
       "startDate": "2023-07-01",
       "endDate": "2023-07-01",
       "skills": ["Rainmeter", "Lua", "Windows"]
     },
     {
-      "name": "CampusCast",
-      "description": "CampusCast is an IoT-based announcement system designed to improve communication in academic institutions. Teachers can send voice announcements with customizable routes to specific classrooms or branches, ensuring messages are received and acknowledged. Smart Notifications and Exam Time Alerts provide targeted communication without disrupting classes. CampusCast aims to modernize communication in colleges, enhancing the campus experience and fostering student engagement. It aims to improve academic success by facilitating efficient and connected learning through improved communication between faculty and students.",
+      "name": "Auto Billing Trolley",
+      "description": "I designed an IoT-based self-billing trolley project using RFID technology. The hardware includes an ESP8266 microcontroller, EM-18 RFID reader, and OLED display. A Node.js server communicates with the hardware through WebSocket protocol, streamlining the billing process. Customers can scan product RFID tags to add items to the trolley. The server stores product details and displays the product list and total amount on a WPA app. An OLED display on the trolley shows the total amount and product count. To remove items, users press a button, and the OLED prompts a \"remove\" action. The system updates the cart accordingly. This automated trolley enhances the shopping experience by simplifying billing, reducing manual effort, and providing real-time information.",
       "links": {
-        "github": ""
+        "github": "https://github.com/e-labInnovations/Auto-Billing-Trolley"
       },
       "media": {},
       "collaborators": [],
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      "skills": ["ESP8266", "RFID", "Node.js", "WebSocket", "IoT"]
+    },
+    {
+      "name": "CampusCast",
+      "description": "CampusCast is an IoT-based announcement system designed to improve communication in academic institutions. Teachers can send voice announcements with customizable routes to specific classrooms or branches, ensuring messages are received and acknowledged. Smart Notifications and Exam Time Alerts provide targeted communication without disrupting classes. CampusCast aims to modernize communication in colleges, enhancing the campus experience and fostering student engagement. It aims to improve academic success by facilitating efficient and connected learning through improved communication between faculty and students.",
+      "links": {
+        "github": "https://github.com/e-labInnovations/CampusCast"
+      },
+      "media": {},
+      "collaborators": [
+        {
+          "name": "Mohammed Ruvais",
+          "link": "https://www.linkedin.com/in/mohammed-ruvais-82391a202"
+        },
+        {
+          "name": "Joseph George",
+          "link": "https://www.linkedin.com/in/joseph-george-5428141b8"
+        },
+        {
+          "name": "Anupam Krishna"
+        }
+      ],
       "startDate": "2023-03-01",
       "endDate": "2023-06-01",
       "skills": ["IoT", "Node.js", "WebSocket", "Voice Processing"]
     },
     {
+      "name": "Day Counter",
+      "description": "I developed \"Day Counter,\" a Chrome extension to count days and show the count on the extension icon. It includes a \"Quit Addiction\" feature with different avatar images based on the level. This user-friendly tool helps track daily progress and stay motivated. The \"Quit Addiction\" feature serves as a visual reward system, encouraging consistency. \"Day Counter\" aims to enhance productivity, habit-building, and personal development.",
+      "links": {
+        "github": "https://github.com/e-labInnovations/day-counter"
+      },
+      "media": {},
+      "collaborators": [],
+      "startDate": "2022-10-01",
+      "endDate": "2022-12-01",
+      "skills": ["Chrome Extension", "JavaScript", "HTML", "CSS"]
+    },
+    {
       "name": "DriveSnap",
       "description": "Introducing \"DriveSnap - ESP32-Cam Timelapse Project,\" a dynamic solution that captures captivating timelapse sequences with precision. DriveSnap, powered by ESP32-Cam, expertly takes one photo every minute, seamlessly uploading each snapshot to your designated Google Drive folder. Immerse yourself in the beauty of your projects, workbench activities, or cherished moments, all immortalized in stunning timelapse footage.",
       "links": {
-        "github": ""
+        "github": "https://github.com/e-labInnovations/DriveSnap"
       },
       "media": {},
       "collaborators": [],
@@ -112,40 +161,79 @@
       "skills": ["ESP32", "Google Drive API", "Timelapse", "IoT"]
     },
     {
-      "name": "tkmcebot",
-      "description": "Study materials bot for Telegram",
-      "links": {
-        "github": "https://github.com/e-labInnovations/tkmcebot"
-      },
-      "media": {},
-      "collaborators": [],
-      "startDate": "2022-02-01",
-      "endDate": "2022-02-01",
-      "skills": ["Telegram Bot", "Node.js", "MongoDB"]
-    },
-    {
       "name": "Ashad",
       "description": "Ashad is an elegant and versatile WordPress theme crafted exclusively for the creative minds at e-lab Innovations. This theme embodies the essence of electronics and programming, providing a captivating platform to showcase cutting-edge project ideas, experiment results, and insightful insights.",
       "links": {
         "github": "https://github.com/e-labInnovations/ashad"
       },
-      "media": {},
+      "media": {
+        "images": [
+          "https://raw.githubusercontent.com/e-labInnovations/ashad/refs/heads/main/screenshot.svg",
+          "https://raw.githubusercontent.com/e-labInnovations/ashad/refs/heads/main/screenshot.png"
+        ]
+      },
       "collaborators": [],
       "startDate": "2022-01-01",
       "endDate": "2022-09-01",
       "skills": ["WordPress", "PHP", "HTML", "CSS", "JavaScript"]
     },
     {
+      "name": "tkmcebot",
+      "description": "Study materials bot for Telegram",
+      "links": {
+        "github": "https://github.com/e-labInnovations/tkmcebott"
+      },
+      "media": {
+        "images": [
+          "https://raw.githubusercontent.com/e-labInnovations/tkmcebot/refs/heads/main/img/ss.gif"
+        ]
+      },
+      "collaborators": [
+        {
+          "name": "Karthik Sunil K",
+          "link": "https://github.com/Karthik-Sunil-K"
+        }
+      ],
+      "startDate": "2022-02-01",
+      "endDate": "2022-02-01",
+      "skills": ["Telegram Bot", "Node.js", "MongoDB"]
+    },
+    {
       "name": "Walleto",
       "description": "Walloto is a versatile Progressive Web App (PWA) and a native Android app available on the Play Store. Seamlessly manage your wallet with this intuitive and feature-rich application. Walloto empowers you to effortlessly record and categorize your daily income and expenses, providing you with valuable insights into your financial habits. As a PWA, Walloto ensures a responsive and immersive user experience on any device, while the TWA version enhances the convenience of accessing the app directly from the Play Store.",
       "links": {
-        "github": "https://github.com/e-labInnovations/Walleto"
+        "github": "https://github.com/e-labInnovations/Walleto",
+        "website": "https://walleto.netlify.app/"
       },
-      "media": {},
+      "media": {
+        "images": [
+          "https://raw.githubusercontent.com/e-labInnovations/Walleto/refs/heads/master/images/screenshots/ss1.jpg",
+          "https://raw.githubusercontent.com/e-labInnovations/Walleto/refs/heads/master/images/screenshots/ss2.jpg",
+          "https://raw.githubusercontent.com/e-labInnovations/Walleto/refs/heads/master/images/screenshots/ss3.jpg",
+          "https://raw.githubusercontent.com/e-labInnovations/Walleto/refs/heads/master/images/screenshots/ss4.jpg",
+          "https://raw.githubusercontent.com/e-labInnovations/Walleto/refs/heads/master/images/screenshots/ss5.jpg"
+        ]
+      },
       "collaborators": [],
       "startDate": "2021-10-01",
       "endDate": "2021-10-01",
       "skills": ["PWA", "Android", "React", "Firebase"]
+    },
+    {
+      "name": "SCNotifier",
+      "description": "Smart classroom notifier aka SCNotfier is my main project in the 3rd year of my diploma education. It is basically an IoT device that helps students to notify several messages and notifications from different sources and alert them using a VGA projector or Monitor present in the classroom.",
+      "links": {
+        "github": "https://github.com/e-labInnovations/SCNotifier"
+      },
+      "media": {
+        "images": [
+          "https://raw.githubusercontent.com/e-labInnovations/SCNotifier/refs/heads/main/Hardware/Hardware/3D_1.PNG"
+        ]
+      },
+      "collaborators": [],
+      "startDate": "2021-01-01",
+      "endDate": "2021-07-01",
+      "skills": ["IoT", "ESP8266", "Node.js", "WebSocket"]
     },
     {
       "name": "Poly-Drive",
@@ -160,29 +248,17 @@
       "skills": ["Node.js", "Google Drive API", "Express"]
     },
     {
-      "name": "SCNotifier",
-      "description": "Smart classroom notifier aka SCNotfier is my main project in the 3rd year of my diploma education. It is basically an IoT device that helps students to notify several messages and notifications from different sources and alert them using a VGA projector or Monitor present in the classroom.",
-      "links": {
-        "github": "https://github.com/e-labInnovations/SCNotifier"
-      },
-      "media": {},
-      "collaborators": [],
-      "startDate": "2021-01-01",
-      "endDate": "2021-07-01",
-      "skills": ["IoT", "ESP8266", "Node.js", "WebSocket"]
-    },
-    {
       "name": "ESP12 Based Home Automation",
       "description": "This is an ESP12 based home automation project. The project uses a web interface to control the loads. With help of WiFi, we can control the relays to turn on or off.",
       "links": {
-        "github": "https://github.com/e-labInnovations/ESP12-Home-Automation"
+        "github": "https://github.com/e-labInnovations/ESP12-Home-Automation",
+        "website": "https://elabins.com/2022/02/05/esp12-based-home-automation/"
       },
       "media": {
-        "screenshots": [
+        "images": [
           "https://elabins.com/wp-content/uploads/2022/02/PCB_06-scaled.jpeg",
           "https://elabins.com/wp-content/uploads/2022/02/PCB_05-scaled.jpeg"
-        ],
-        "videos": ["https://youtu.be/MXmbIR_0Whk?si=egxDjpSiYAzqXu6S"]
+        ]
       },
       "collaborators": [],
       "startDate": "2020-07-01",

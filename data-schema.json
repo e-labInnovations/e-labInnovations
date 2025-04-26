@@ -63,11 +63,21 @@
           "media": {
             "type": "object",
             "properties": {
-              "screenshots": { "type": "array", "items": { "type": "string" } },
+              "images": { "type": "array", "items": { "type": "string" } },
               "videos": { "type": "array", "items": { "type": "string" } }
             }
           },
-          "collaborators": { "type": "array", "items": { "type": "string" } },
+          "collaborators": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": { "type": "string" },
+                "link": { "type": "string" }
+              },
+              "required": ["name"]
+            }
+          },
           "startDate": { "type": "string", "format": "date" },
           "endDate": { "type": ["string", "null"], "format": "date" },
           "skills": { "type": "array", "items": { "type": "string" } }
