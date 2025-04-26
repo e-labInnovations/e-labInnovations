@@ -55,7 +55,7 @@
     "2024-Q3": 6,
     "2024-Q4": 0,
     "2025-Q1": 3,
-    "2025-Q2": 33
+    "2025-Q2": 37
   },
   "langRepoCount": {
     "JavaScript": 27,
@@ -79,13 +79,13 @@
     "JavaScript": 2
   },
   "langCommitCount": {
-    "HTML": 477,
+    "HTML": 478,
     "JavaScript": 400,
     "C++": 70,
     "C": 51,
     "PHP": 44,
     "Makefile": 41,
-    "SCSS": 14,
+    "SCSS": 17,
     "CSS": 12,
     "Unknown": 12,
     "MATLAB": 12,
@@ -97,7 +97,7 @@
     "e-labInnovations.github.io": 207,
     "ieeesbtkmce": 174,
     "ashad": 63,
-    "e-labInnovations": 59,
+    "e-labInnovations": 60,
     "anzarianz-app": 51,
     "CampusCast-app": 44,
     "DSP-LAB": 41,
