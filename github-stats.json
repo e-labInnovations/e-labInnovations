@@ -55,10 +55,10 @@
     "2024-Q3": 6,
     "2024-Q4": 0,
     "2025-Q1": 3,
-    "2025-Q2": 18
+    "2025-Q2": 27
   },
   "langRepoCount": {
-    "JavaScript": 28,
+    "JavaScript": 27,
     "HTML": 11,
     "C++": 8,
     "PHP": 5,
@@ -66,6 +66,7 @@
     "CSS": 2,
     "Unknown": 2,
     "Makefile": 1,
+    "SCSS": 1,
     "TypeScript": 1,
     "EJS": 1,
     "Lua": 1,
@@ -78,8 +79,8 @@
     "JavaScript": 2
   },
   "langCommitCount": {
-    "HTML": 474,
-    "JavaScript": 402,
+    "HTML": 475,
+    "JavaScript": 400,
     "C++": 70,
     "C": 51,
     "PHP": 44,
@@ -87,6 +88,7 @@
     "CSS": 12,
     "Unknown": 12,
     "MATLAB": 12,
+    "SCSS": 10,
     "Lua": 9,
     "EJS": 6,
     "TypeScript": 1
@@ -95,7 +97,7 @@
     "e-labInnovations.github.io": 207,
     "ieeesbtkmce": 174,
     "ashad": 63,
-    "e-labInnovations": 56,
+    "e-labInnovations": 57,
     "anzarianz-app": 51,
     "CampusCast-app": 44,
     "DSP-LAB": 41,
