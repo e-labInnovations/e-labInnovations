@@ -55,7 +55,7 @@
     "2024-Q3": 6,
     "2024-Q4": 0,
     "2025-Q1": 3,
-    "2025-Q2": 98
+    "2025-Q2": 100
   },
   "langRepoCount": {
     "JavaScript": 27,
@@ -82,7 +82,7 @@
     "HTML": 478,
     "JavaScript": 403,
     "C++": 70,
-    "TypeScript": 54,
+    "TypeScript": 56,
     "C": 51,
     "PHP": 48,
     "Makefile": 41,
@@ -103,7 +103,7 @@
     "DSP-LAB": 41,
     "Walleto": 36,
     "anzarianz-plugin": 31,
-    "CampusCast": 28
+    "pika": 30
   },
   "repoStarCount": {
     "SketchwareLibrary": 4,
@@ -124,7 +124,7 @@
     "DSP-LAB": "Digital Signal Processing Lab Codes",
     "Walleto": "Vannilla Js Ionic Project",
     "anzarianz-plugin": "WordPress plugin for Anzarianz project",
-    "CampusCast": "An IoT-Based Announcement System"
+    "pika": null
   },
   "repoStarCountDescriptions": {
     "SketchwareLibrary": null,
