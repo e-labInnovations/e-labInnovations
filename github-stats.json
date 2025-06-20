@@ -55,7 +55,7 @@
     "2024-Q3": 6,
     "2024-Q4": 0,
     "2025-Q1": 3,
-    "2025-Q2": 105
+    "2025-Q2": 106
   },
   "langRepoCount": {
     "JavaScript": 27,
@@ -82,7 +82,7 @@
     "HTML": 478,
     "JavaScript": 403,
     "C++": 70,
-    "TypeScript": 61,
+    "TypeScript": 62,
     "C": 51,
     "PHP": 48,
     "Makefile": 41,
@@ -101,8 +101,8 @@
     "anzarianz-app": 51,
     "CampusCast-app": 44,
     "DSP-LAB": 41,
+    "pika": 36,
     "Walleto": 36,
-    "pika": 35,
     "anzarianz-plugin": 31
   },
   "repoStarCount": {
@@ -122,8 +122,8 @@
     "anzarianz-app": "Anzarianz App",
     "CampusCast-app": "An IoT-Based Announcement System App",
     "DSP-LAB": "Digital Signal Processing Lab Codes",
-    "Walleto": "Vannilla Js Ionic Project",
     "pika": null,
+    "Walleto": "Vannilla Js Ionic Project",
     "anzarianz-plugin": "WordPress plugin for Anzarianz project"
   },
   "repoStarCountDescriptions": {
