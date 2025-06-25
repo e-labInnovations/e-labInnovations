@@ -55,7 +55,7 @@
     "2024-Q3": 6,
     "2024-Q4": 0,
     "2025-Q1": 3,
-    "2025-Q2": 113
+    "2025-Q2": 114
   },
   "langRepoCount": {
     "JavaScript": 27,
@@ -82,7 +82,7 @@
     "HTML": 478,
     "JavaScript": 403,
     "C++": 70,
-    "TypeScript": 69,
+    "TypeScript": 70,
     "C": 51,
     "PHP": 48,
     "Makefile": 41,
@@ -100,7 +100,7 @@
     "e-labInnovations": 60,
     "anzarianz-app": 51,
     "CampusCast-app": 44,
-    "pika": 43,
+    "pika": 44,
     "DSP-LAB": 41,
     "Walleto": 36,
     "anzarianz-plugin": 31
