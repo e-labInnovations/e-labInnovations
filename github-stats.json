@@ -55,7 +55,7 @@
     "2024-Q3": 6,
     "2024-Q4": 0,
     "2025-Q1": 3,
-    "2025-Q2": 119
+    "2025-Q2": 124
   },
   "langRepoCount": {
     "JavaScript": 27,
@@ -81,7 +81,7 @@
   "langCommitCount": {
     "HTML": 478,
     "JavaScript": 403,
-    "TypeScript": 75,
+    "TypeScript": 80,
     "C++": 70,
     "C": 51,
     "PHP": 48,
@@ -98,8 +98,8 @@
     "ieeesbtkmce": 174,
     "ashad": 63,
     "e-labInnovations": 60,
+    "pika": 54,
     "anzarianz-app": 51,
-    "pika": 49,
     "CampusCast-app": 44,
     "DSP-LAB": 41,
     "Walleto": 36,
@@ -119,8 +119,8 @@
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "ashad": "Ashad  - A WordPress theme",
     "e-labInnovations": "My Profile",
-    "anzarianz-app": "Anzarianz App",
     "pika": null,
+    "anzarianz-app": "Anzarianz App",
     "CampusCast-app": "An IoT-Based Announcement System App",
     "DSP-LAB": "Digital Signal Processing Lab Codes",
     "Walleto": "Vannilla Js Ionic Project",
