@@ -55,7 +55,7 @@
     "2024-Q3": 6,
     "2024-Q4": 0,
     "2025-Q1": 3,
-    "2025-Q2": 127
+    "2025-Q2": 138
   },
   "langRepoCount": {
     "JavaScript": 27,
@@ -81,7 +81,7 @@
   "langCommitCount": {
     "HTML": 478,
     "JavaScript": 403,
-    "TypeScript": 83,
+    "TypeScript": 94,
     "C++": 70,
     "C": 51,
     "PHP": 48,
@@ -96,9 +96,9 @@
   "repoCommitCount": {
     "e-labInnovations.github.io": 207,
     "ieeesbtkmce": 174,
+    "pika": 68,
     "ashad": 63,
     "e-labInnovations": 60,
-    "pika": 57,
     "anzarianz-app": 51,
     "CampusCast-app": 44,
     "DSP-LAB": 41,
@@ -117,9 +117,9 @@
   "repoCommitCountDescriptions": {
     "e-labInnovations.github.io": "Blog",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
+    "pika": null,
     "ashad": "Ashad  - A WordPress theme",
     "e-labInnovations": "My Profile",
-    "pika": null,
     "anzarianz-app": "Anzarianz App",
     "CampusCast-app": "An IoT-Based Announcement System App",
     "DSP-LAB": "Digital Signal Processing Lab Codes",
