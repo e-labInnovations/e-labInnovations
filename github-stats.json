@@ -56,15 +56,15 @@
     "2024-Q4": 0,
     "2025-Q1": 3,
     "2025-Q2": 139,
-    "2025-Q3": 51
+    "2025-Q3": 53
   },
   "langRepoCount": {
-    "JavaScript": 27,
+    "JavaScript": 28,
     "HTML": 11,
     "C++": 8,
     "PHP": 6,
     "C": 4,
-    "TypeScript": 4,
+    "TypeScript": 3,
     "CSS": 2,
     "Unknown": 2,
     "Makefile": 1,
@@ -81,8 +81,8 @@
   },
   "langCommitCount": {
     "HTML": 478,
-    "JavaScript": 403,
-    "TypeScript": 146,
+    "JavaScript": 406,
+    "TypeScript": 145,
     "C++": 70,
     "C": 51,
     "PHP": 48,
