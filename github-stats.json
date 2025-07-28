@@ -34,23 +34,23 @@
     "2019-Q2": 1,
     "2019-Q3": 0,
     "2019-Q4": 23,
-    "2020-Q1": 70,
+    "2020-Q1": 68,
     "2020-Q2": 0,
     "2020-Q3": 82,
     "2020-Q4": 130,
-    "2021-Q1": 64,
-    "2021-Q2": 23,
+    "2021-Q1": 60,
+    "2021-Q2": 22,
     "2021-Q3": 33,
     "2021-Q4": 6,
     "2022-Q1": 52,
-    "2022-Q2": 59,
+    "2022-Q2": 55,
     "2022-Q3": 75,
     "2022-Q4": 67,
-    "2023-Q1": 50,
+    "2023-Q1": 47,
     "2023-Q2": 102,
     "2023-Q3": 53,
-    "2023-Q4": 94,
-    "2024-Q1": 116,
+    "2023-Q4": 34,
+    "2024-Q1": 2,
     "2024-Q2": 7,
     "2024-Q3": 6,
     "2024-Q4": 0,
@@ -80,23 +80,22 @@
     "JavaScript": 2
   },
   "langCommitCount": {
-    "HTML": 478,
     "JavaScript": 406,
+    "HTML": 304,
     "TypeScript": 151,
-    "C++": 70,
+    "C++": 68,
     "C": 51,
-    "PHP": 48,
+    "PHP": 44,
     "Makefile": 41,
     "SCSS": 18,
     "CSS": 12,
-    "Unknown": 12,
     "MATLAB": 12,
     "Lua": 9,
-    "EJS": 6
+    "EJS": 6,
+    "Unknown": 4
   },
   "repoCommitCount": {
     "e-labInnovations.github.io": 207,
-    "ieeesbtkmce": 174,
     "pika": 125,
     "ashad": 63,
     "e-labInnovations": 60,
@@ -104,7 +103,8 @@
     "CampusCast-app": 44,
     "DSP-LAB": 41,
     "Walleto": 36,
-    "anzarianz-plugin": 31
+    "anzarianz-plugin": 31,
+    "CampusCast": 28
   },
   "repoStarCount": {
     "SketchwareLibrary": 4,
@@ -117,7 +117,6 @@
   },
   "repoCommitCountDescriptions": {
     "e-labInnovations.github.io": "Blog",
-    "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "pika": null,
     "ashad": "Ashad  - A WordPress theme",
     "e-labInnovations": "My Profile",
@@ -125,7 +124,8 @@
     "CampusCast-app": "An IoT-Based Announcement System App",
     "DSP-LAB": "Digital Signal Processing Lab Codes",
     "Walleto": "Vannilla Js Ionic Project",
-    "anzarianz-plugin": "WordPress plugin for Anzarianz project"
+    "anzarianz-plugin": "WordPress plugin for Anzarianz project",
+    "CampusCast": "An IoT-Based Announcement System"
   },
   "repoStarCountDescriptions": {
     "SketchwareLibrary": null,
