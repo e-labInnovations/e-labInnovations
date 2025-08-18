@@ -56,7 +56,7 @@
     "2024-Q4": 0,
     "2025-Q1": 3,
     "2025-Q2": 139,
-    "2025-Q3": 106
+    "2025-Q3": 110
   },
   "langRepoCount": {
     "JavaScript": 28,
@@ -82,7 +82,7 @@
   "langCommitCount": {
     "HTML": 478,
     "JavaScript": 406,
-    "TypeScript": 198,
+    "TypeScript": 202,
     "C++": 70,
     "C": 51,
     "PHP": 48,
@@ -96,8 +96,8 @@
   },
   "repoCommitCount": {
     "e-labInnovations.github.io": 207,
+    "pika": 176,
     "ieeesbtkmce": 174,
-    "pika": 172,
     "ashad": 63,
     "e-labInnovations": 60,
     "anzarianz-app": 51,
@@ -117,8 +117,8 @@
   },
   "repoCommitCountDescriptions": {
     "e-labInnovations.github.io": "Blog",
-    "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "pika": null,
+    "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "ashad": "Ashad  - A WordPress theme",
     "e-labInnovations": "My Profile",
     "anzarianz-app": "Anzarianz App",
