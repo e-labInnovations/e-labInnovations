@@ -56,7 +56,7 @@
     "2024-Q4": 0,
     "2025-Q1": 3,
     "2025-Q2": 139,
-    "2025-Q3": 116
+    "2025-Q3": 121
   },
   "langRepoCount": {
     "JavaScript": 28,
@@ -82,7 +82,7 @@
   "langCommitCount": {
     "HTML": 478,
     "JavaScript": 406,
-    "TypeScript": 208,
+    "TypeScript": 213,
     "C++": 70,
     "C": 51,
     "PHP": 48,
@@ -96,7 +96,7 @@
   },
   "repoCommitCount": {
     "e-labInnovations.github.io": 207,
-    "pika": 182,
+    "pika": 187,
     "ieeesbtkmce": 174,
     "ashad": 63,
     "e-labInnovations": 60,
