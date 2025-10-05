@@ -78,7 +78,8 @@
     "HTML": 4,
     "CSS": 3,
     "C++": 3,
-    "JavaScript": 2
+    "JavaScript": 2,
+    "Unknown": 1
   },
   "langCommitCount": {
     "JavaScript": 610,
@@ -113,6 +114,7 @@
     "ieeesbtkmce": 2,
     "IoT-based-water-quality-monitoring-system": 2,
     "ESP12-Home-Automation": 1,
+    "Fritzing-Arduino-Basic-Circuits": 1,
     "TelegramBot": 1,
     "U8g2-Fonter": 1
   },
@@ -134,6 +136,7 @@
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "IoT-based-water-quality-monitoring-system": "IoT Based Water Quality Monitoring System",
     "ESP12-Home-Automation": "ESP12 based home automation project.",
+    "Fritzing-Arduino-Basic-Circuits": "For Jemshihas Sir",
     "TelegramBot": "Google Apps Script  library for Telegram Bot development.",
     "U8g2-Fonter": "Trying to develop a software for converting bdf font to U8g2 c file font"
   }
