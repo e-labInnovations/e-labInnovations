@@ -34,21 +34,21 @@
     "2019-Q2": 1,
     "2019-Q3": 0,
     "2019-Q4": 23,
-    "2020-Q1": 70,
+    "2020-Q1": 33,
     "2020-Q2": 0,
-    "2020-Q3": 82,
-    "2020-Q4": 130,
-    "2021-Q1": 64,
-    "2021-Q2": 23,
+    "2020-Q3": 37,
+    "2020-Q4": 43,
+    "2021-Q1": 49,
+    "2021-Q2": 15,
     "2021-Q3": 33,
-    "2021-Q4": 6,
-    "2022-Q1": 52,
+    "2021-Q4": 0,
+    "2022-Q1": 51,
     "2022-Q2": 59,
     "2022-Q3": 75,
     "2022-Q4": 67,
     "2023-Q1": 50,
     "2023-Q2": 102,
-    "2023-Q3": 53,
+    "2023-Q3": 45,
     "2023-Q4": 94,
     "2024-Q1": 116,
     "2024-Q2": 7,
@@ -83,7 +83,7 @@
   },
   "langCommitCount": {
     "JavaScript": 610,
-    "HTML": 478,
+    "HTML": 271,
     "C++": 71,
     "C": 51,
     "PHP": 48,
@@ -97,7 +97,6 @@
     "EJS": 6
   },
   "repoCommitCount": {
-    "e-labInnovations.github.io": 207,
     "pika": 204,
     "ieeesbtkmce": 174,
     "ashad": 63,
@@ -106,7 +105,8 @@
     "CampusCast-app": 44,
     "DSP-LAB": 41,
     "Walleto": 36,
-    "anzarianz-plugin": 31
+    "anzarianz-plugin": 31,
+    "CampusCast": 28
   },
   "repoStarCount": {
     "SketchwareLibrary": 3,
@@ -120,7 +120,6 @@
     "U8g2-Fonter": 1
   },
   "repoCommitCountDescriptions": {
-    "e-labInnovations.github.io": "Blog",
     "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "ashad": "Ashad  - A WordPress theme",
@@ -129,7 +128,8 @@
     "CampusCast-app": "An IoT-Based Announcement System App",
     "DSP-LAB": "Digital Signal Processing Lab Codes",
     "Walleto": "Vannilla Js Ionic Project",
-    "anzarianz-plugin": "WordPress plugin for Anzarianz project"
+    "anzarianz-plugin": "WordPress plugin for Anzarianz project",
+    "CampusCast": "An IoT-Based Announcement System"
   },
   "repoStarCountDescriptions": {
     "SketchwareLibrary": null,
