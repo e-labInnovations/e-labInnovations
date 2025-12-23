@@ -57,7 +57,7 @@
     "2025-Q1": 3,
     "2025-Q2": 139,
     "2025-Q3": 138,
-    "2025-Q4": 6
+    "2025-Q4": 8
   },
   "langRepoCount": {
     "JavaScript": 29,
@@ -65,7 +65,7 @@
     "C++": 9,
     "PHP": 6,
     "C": 4,
-    "TypeScript": 3,
+    "TypeScript": 4,
     "CSS": 2,
     "Unknown": 2,
     "Makefile": 1,
@@ -88,7 +88,7 @@
     "C": 51,
     "PHP": 48,
     "Makefile": 41,
-    "TypeScript": 31,
+    "TypeScript": 33,
     "SCSS": 18,
     "CSS": 12,
     "Unknown": 12,
