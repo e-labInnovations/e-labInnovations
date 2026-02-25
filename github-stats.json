@@ -42,9 +42,9 @@
     "2021-Q2": 23,
     "2021-Q3": 33,
     "2021-Q4": 6,
-    "2022-Q1": 29,
-    "2022-Q2": 39,
-    "2022-Q3": 56,
+    "2022-Q1": 52,
+    "2022-Q2": 59,
+    "2022-Q3": 75,
     "2022-Q4": 67,
     "2023-Q1": 50,
     "2023-Q2": 102,
@@ -55,7 +55,7 @@
     "2024-Q3": 6,
     "2024-Q4": 0,
     "2025-Q1": 3,
-    "2025-Q2": 138,
+    "2025-Q2": 139,
     "2025-Q3": 138,
     "2025-Q4": 15,
     "2026-Q1": 0
@@ -83,7 +83,7 @@
     "Unknown": 1
   },
   "langCommitCount": {
-    "JavaScript": 547,
+    "JavaScript": 610,
     "HTML": 478,
     "C++": 71,
     "C": 51,
@@ -101,13 +101,13 @@
     "e-labInnovations.github.io": 207,
     "pika": 204,
     "ieeesbtkmce": 174,
+    "ashad": 63,
     "e-labInnovations": 60,
     "anzarianz-app": 51,
     "CampusCast-app": 44,
     "DSP-LAB": 41,
     "Walleto": 36,
-    "anzarianz-plugin": 31,
-    "CampusCast": 28
+    "anzarianz-plugin": 31
   },
   "repoStarCount": {
     "SketchwareLibrary": 4,
@@ -124,13 +124,13 @@
     "e-labInnovations.github.io": "Blog",
     "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
+    "ashad": "Ashad  - A WordPress theme",
     "e-labInnovations": "My Profile",
     "anzarianz-app": "Anzarianz App",
     "CampusCast-app": "An IoT-Based Announcement System App",
     "DSP-LAB": "Digital Signal Processing Lab Codes",
     "Walleto": "Vannilla Js Ionic Project",
-    "anzarianz-plugin": "WordPress plugin for Anzarianz project",
-    "CampusCast": "An IoT-Based Announcement System"
+    "anzarianz-plugin": "WordPress plugin for Anzarianz project"
   },
   "repoStarCountDescriptions": {
     "SketchwareLibrary": null,
