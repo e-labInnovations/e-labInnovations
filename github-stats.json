@@ -59,7 +59,7 @@
     "2025-Q3": 138,
     "2025-Q4": 15,
     "2026-Q1": 22,
-    "2026-Q2": 7
+    "2026-Q2": 10
   },
   "langRepoCount": {
     "JavaScript": 29,
@@ -86,8 +86,8 @@
   "langCommitCount": {
     "JavaScript": 610,
     "HTML": 478,
+    "TypeScript": 72,
     "C++": 71,
-    "TypeScript": 69,
     "C": 51,
     "PHP": 48,
     "Makefile": 41,
