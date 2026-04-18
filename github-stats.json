@@ -59,7 +59,7 @@
     "2025-Q3": 138,
     "2025-Q4": 15,
     "2026-Q1": 22,
-    "2026-Q2": 58
+    "2026-Q2": 66
   },
   "langRepoCount": {
     "JavaScript": 29,
@@ -86,7 +86,7 @@
   "langCommitCount": {
     "JavaScript": 610,
     "HTML": 478,
-    "TypeScript": 120,
+    "TypeScript": 128,
     "C++": 71,
     "C": 51,
     "PHP": 48,
@@ -105,10 +105,10 @@
     "ashad": 63,
     "e-labInnovations": 60,
     "anzarianz-app": 51,
+    "pika-app": 45,
     "CampusCast-app": 44,
-    "pika-v2": 42,
-    "DSP-LAB": 41,
-    "pika-app": 38
+    "pika-v2": 43,
+    "DSP-LAB": 41
   },
   "repoStarCount": {
     "SketchwareLibrary": 4,
@@ -128,10 +128,10 @@
     "ashad": "Ashad  - A WordPress theme",
     "e-labInnovations": "My Profile",
     "anzarianz-app": "Anzarianz App",
+    "pika-app": null,
     "CampusCast-app": "An IoT-Based Announcement System App",
     "pika-v2": null,
-    "DSP-LAB": "Digital Signal Processing Lab Codes",
-    "pika-app": null
+    "DSP-LAB": "Digital Signal Processing Lab Codes"
   },
   "repoStarCountDescriptions": {
     "SketchwareLibrary": null,
