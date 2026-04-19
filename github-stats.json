@@ -59,7 +59,7 @@
     "2025-Q3": 138,
     "2025-Q4": 15,
     "2026-Q1": 22,
-    "2026-Q2": 70
+    "2026-Q2": 71
   },
   "langRepoCount": {
     "JavaScript": 29,
@@ -86,7 +86,7 @@
   "langCommitCount": {
     "JavaScript": 610,
     "HTML": 478,
-    "TypeScript": 132,
+    "TypeScript": 133,
     "C++": 71,
     "C": 51,
     "PHP": 48,
@@ -106,7 +106,7 @@
     "e-labInnovations": 60,
     "anzarianz-app": 51,
     "pika-app": 47,
-    "pika-v2": 45,
+    "pika-v2": 46,
     "CampusCast-app": 44,
     "DSP-LAB": 41
   },
