@@ -10,7 +10,7 @@
     "ownedPrivateRepos": 0,
     "privateGists": 0,
     "publicGists": 5,
-    "publicRepos": 87,
+    "publicRepos": 88,
     "totalPrivateRepos": 0,
     "avatarUrl": "https://avatars.githubusercontent.com/u/33958126?v=4",
     "blog": "www.elabins.com",
@@ -59,7 +59,7 @@
     "2025-Q3": 138,
     "2025-Q4": 15,
     "2026-Q1": 22,
-    "2026-Q2": 114
+    "2026-Q2": 115
   },
   "langRepoCount": {
     "JavaScript": 29,
@@ -67,7 +67,7 @@
     "C++": 9,
     "TypeScript": 7,
     "PHP": 6,
-    "C": 4,
+    "C": 5,
     "CSS": 2,
     "Unknown": 2,
     "Makefile": 1,
@@ -88,7 +88,7 @@
     "HTML": 478,
     "TypeScript": 176,
     "C++": 71,
-    "C": 51,
+    "C": 52,
     "PHP": 48,
     "Makefile": 41,
     "SCSS": 18,
