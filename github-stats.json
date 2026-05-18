@@ -81,6 +81,7 @@
     "HTML": 4,
     "JavaScript": 3,
     "C++": 3,
+    "C": 1,
     "Unknown": 1
   },
   "langCommitCount": {
@@ -116,6 +117,7 @@
     "ieeesbtkmce": 2,
     "IoT-based-water-quality-monitoring-system": 2,
     "ESP12-Home-Automation": 1,
+    "FitPro-LT715": 1,
     "Fritzing-Arduino-Basic-Circuits": 1,
     "pika": 1,
     "TelegramBot": 1,
@@ -139,6 +141,7 @@
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "IoT-based-water-quality-monitoring-system": "IoT Based Water Quality Monitoring System",
     "ESP12-Home-Automation": "ESP12 based home automation project.",
+    "FitPro-LT715": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
     "Fritzing-Arduino-Basic-Circuits": "For Jemshihas Sir",
     "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress",
     "TelegramBot": "Google Apps Script  library for Telegram Bot development.",
