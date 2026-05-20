@@ -10,7 +10,7 @@
     "ownedPrivateRepos": 0,
     "privateGists": 0,
     "publicGists": 5,
-    "publicRepos": 88,
+    "publicRepos": 89,
     "totalPrivateRepos": 0,
     "avatarUrl": "https://avatars.githubusercontent.com/u/33958126?v=4",
     "blog": "www.elabins.com",
@@ -59,10 +59,10 @@
     "2025-Q3": 138,
     "2025-Q4": 15,
     "2026-Q1": 22,
-    "2026-Q2": 118
+    "2026-Q2": 119
   },
   "langRepoCount": {
-    "JavaScript": 29,
+    "JavaScript": 30,
     "HTML": 11,
     "C++": 9,
     "TypeScript": 7,
@@ -85,7 +85,7 @@
     "Unknown": 1
   },
   "langCommitCount": {
-    "JavaScript": 610,
+    "JavaScript": 611,
     "HTML": 478,
     "TypeScript": 176,
     "C++": 71,
@@ -117,7 +117,7 @@
     "ieeesbtkmce": 2,
     "IoT-based-water-quality-monitoring-system": 2,
     "ESP12-Home-Automation": 1,
-    "FitPro-LT715": 1,
+    "FitPro-LT715-TLSR8232": 1,
     "Fritzing-Arduino-Basic-Circuits": 1,
     "pika": 1,
     "TelegramBot": 1,
@@ -141,7 +141,7 @@
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "IoT-based-water-quality-monitoring-system": "IoT Based Water Quality Monitoring System",
     "ESP12-Home-Automation": "ESP12 based home automation project.",
-    "FitPro-LT715": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
+    "FitPro-LT715-TLSR8232": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
     "Fritzing-Arduino-Basic-Circuits": "For Jemshihas Sir",
     "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress",
     "TelegramBot": "Google Apps Script  library for Telegram Bot development.",
