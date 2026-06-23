@@ -170,10 +170,10 @@
 
 ## :writing_hand: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Elabins Portfolio Blocks: A Modern WordPress Portfolio Plugin with GitHub Integration](https://elabins.com/2025/04/26/introducing-elabins-portfolio-blocks-a-modern-wordpress-portfolio-plugin-with-github-integration/)
-- [The Evolution of CakeMail: From Google Sheets to People API](https://elabins.com/2025/04/07/the-evolution-of-cakemail-from-google-sheets-to-people-api/)
-- [Non-Blocking Delays](https://elabins.com/code_snippets/non-blocking-delays/)
-- [How To Propose Your Crush Using an Oscilloscope](https://elabins.com/2022/10/17/how-to-propose-your-crush-using-an-oscilloscope/)
+- [Introducing Elabins Portfolio Blocks: A Modern WordPress Portfolio Plugin with GitHub Integration](https://elabins.com/blog/introducing-elabins-portfolio-blocks-a-modern-wordpress-portfolio-plugin-with-github-integration)
+- [The Evolution of CakeMail: From Google Sheets to People API](https://elabins.com/blog/the-evolution-of-cakemail-from-google-sheets-to-people-api)
+- [How To Propose Your Crush Using an Oscilloscope](https://elabins.com/blog/how-to-propose-your-crush-using-an-oscilloscope)
+- [OPEN-SMART ILI9327 3.2 Inch TFT LCD Shield With Arduino UNO](https://elabins.com/blog/open-smart-ili9327-3-2-inch-tft-lcd-shield-with-arduino-uno)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
