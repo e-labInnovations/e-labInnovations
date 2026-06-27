@@ -198,7 +198,7 @@
 
 ## 🔔 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
 <p align="center">
- <img height="137px" src="https://streak-stats.demolab.com?user=e-labinnovation&theme=nightowl&hide_border=true" />
+ <img height="137px" src="https://streak-stats.demolab.com/?user=e-labInnovations&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
