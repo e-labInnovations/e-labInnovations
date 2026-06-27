@@ -3,7 +3,7 @@
 <p align="center">
  <img width="100px" src="https://github.com/e-labInnovations/e-labInnovations/blob/master/profile_circle.png" align="center" alt="e-lab innovations" />
  <h2 align="center">Mohammed Ashad MM</h2>
- <p align="center">An Electronics Student With A Keyboard</p>
+ <p align="center">An Electronics Engineer With A Keyboard</p>
 </p>
   <p align="center">
   </p>
@@ -15,10 +15,11 @@
 <img align="right" alt="Coding" width="200" src="/coding.gif">
 
 ## :book: 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-- 🎓 𝘌𝘭𝘦𝘤𝘵𝘳𝘰𝘯𝘪𝘤𝘴 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘴𝘵𝘶𝘥𝘦𝘯𝘵
-- 💼 𝘚𝘩𝘢𝘳𝘪𝘯𝘨 𝘮𝘺 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 [<img src="https://github.com/e-labInnovations/logo/raw/main/logo-wide-site-animation.svg" height="30em" align="center" alt="e-lab innovations" title="e-lab innovations"/>](https://elabins.com)
-- 👨‍💻 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘙𝘦𝘢𝘤𝘵 𝘕𝘢𝘵𝘪𝘷𝘦 𝘱𝘢𝘳𝘢𝘭𝘭𝘦𝘭 𝘸𝘪𝘵𝘩 𝘞𝘰𝘳𝘥𝘗𝘳𝘦𝘴𝘴
-- 🤝 𝘐'𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘩𝘦𝘭𝘱 𝘸𝘪𝘵𝘩 𝘴𝘤𝘴𝘴
+- 💼 Member of Technical Staff at [ThoughtSpot](https://github.com/thoughtspot)
+- 🔌 Electronics Engineer with a passion for embedded systems and software development
+- 🚀 Building open source tools, automation utilities, and web applications
+- 📝 Documenting projects and sharing engineering knowledge through [<img src="https://elabins.com/logo-wide.svg" height="30em" align="center" alt="e-lab innovations" title="e-lab innovations"/>](https://elabins.com)
+- 💡 I enjoy turning ideas into practical solutions, from firmware to full-stack applications
 
 <br />
 
