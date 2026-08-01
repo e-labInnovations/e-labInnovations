@@ -171,10 +171,10 @@
 
 ## :writing_hand: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
+- [Turning a ₹249 Smartwatch Into a DIY AirTag Tracker](https://elabins.com/blog/turning-a-249-smartwatch-into-a-diy-airtag-tracker)
 - [Hacking a ₹249 Smartwatch: Custom Firmware on TLSR8232](https://elabins.com/blog/hacking-a-249-smartwatch-custom-firmware-on-tlsr8232)
 - [Reverse Engineering MoYoung Watch Faces in the Browser](https://elabins.com/blog/reverse-engineering-moyoung-watch-faces-in-the-browser)
 - [How I Built an HLS Streaming Stack on Shared Hosting](https://elabins.com/blog/how-i-built-an-hls-streaming-stack-on-shared-hosting)
-- [Introducing Elabins Portfolio Blocks: A Modern WordPress Portfolio Plugin with GitHub Integration](https://elabins.com/blog/introducing-elabins-portfolio-blocks-a-modern-wordpress-portfolio-plugin-with-github-integration)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
