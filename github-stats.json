@@ -60,7 +60,7 @@
     "2025-Q4": 15,
     "2026-Q1": 22,
     "2026-Q2": 166,
-    "2026-Q3": 7
+    "2026-Q3": 9
   },
   "langRepoCount": {
     "JavaScript": 30,
@@ -73,6 +73,7 @@
     "Unknown": 2,
     "Makefile": 1,
     "SCSS": 1,
+    "Shell": 1,
     "Python": 1,
     "EJS": 1,
     "Lua": 1,
@@ -101,7 +102,8 @@
     "Unknown": 12,
     "MATLAB": 12,
     "Lua": 9,
-    "EJS": 6
+    "EJS": 6,
+    "Shell": 2
   },
   "repoCommitCount": {
     "e-labInnovations.github.io": 207,
