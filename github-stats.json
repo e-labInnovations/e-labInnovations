@@ -60,7 +60,7 @@
     "2025-Q4": 15,
     "2026-Q1": 22,
     "2026-Q2": 166,
-    "2026-Q3": 9
+    "2026-Q3": 11
   },
   "langRepoCount": {
     "JavaScript": 30,
@@ -68,13 +68,14 @@
     "C++": 9,
     "TypeScript": 8,
     "PHP": 7,
-    "C": 6,
+    "C": 5,
     "CSS": 2,
     "Unknown": 2,
     "Makefile": 1,
     "SCSS": 1,
     "Shell": 1,
     "Python": 1,
+    "Java": 1,
     "EJS": 1,
     "Lua": 1,
     "MATLAB": 1
@@ -84,7 +85,7 @@
     "HTML": 4,
     "JavaScript": 3,
     "C++": 3,
-    "C": 2,
+    "Java": 2,
     "TypeScript": 1,
     "Unknown": 1
   },
@@ -93,7 +94,7 @@
     "HTML": 480,
     "TypeScript": 207,
     "C++": 71,
-    "C": 63,
+    "C": 56,
     "PHP": 49,
     "Makefile": 41,
     "SCSS": 18,
@@ -101,6 +102,7 @@
     "Python": 12,
     "Unknown": 12,
     "MATLAB": 12,
+    "Java": 9,
     "Lua": 9,
     "EJS": 6,
     "Shell": 2
