@@ -85,7 +85,7 @@
     "JavaScript": 3,
     "C++": 3,
     "C": 2,
-    "TypeScript": 1,
+    "TypeScript": 2,
     "Unknown": 1
   },
   "langCommitCount": {
@@ -119,11 +119,11 @@
   },
   "repoStarCount": {
     "SketchwareLibrary": 4,
+    "dafit-canvas": 2,
     "e-labInnovations": 2,
     "FitPro-LT715-TLSR8232": 2,
     "ieeesbtkmce": 2,
     "IoT-based-water-quality-monitoring-system": 2,
-    "dafit-canvas": 1,
     "ESP12-Home-Automation": 1,
     "Fritzing-Arduino-Basic-Circuits": 1,
     "pika": 1,
@@ -143,11 +143,11 @@
   },
   "repoStarCountDescriptions": {
     "SketchwareLibrary": null,
+    "dafit-canvas": "DaFit Canvas is a browser-based visual editor for designing smartwatch faces compatible with the Da Fit / MoYoung ecosystem. Import an existing Type C .bin, swap assets, retouch positions, regenerate digits from a font, and export a watch-ready binary — without ever touching a hex editor.",
     "e-labInnovations": "My Profile",
     "FitPro-LT715-TLSR8232": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "IoT-based-water-quality-monitoring-system": "IoT Based Water Quality Monitoring System",
-    "dafit-canvas": "DaFit Canvas is a browser-based visual editor for designing smartwatch faces compatible with the Da Fit / MoYoung ecosystem. Import an existing Type C .bin, swap assets, retouch positions, regenerate digits from a font, and export a watch-ready binary — without ever touching a hex editor.",
     "ESP12-Home-Automation": "ESP12 based home automation project.",
     "Fritzing-Arduino-Basic-Circuits": "For Jemshihas Sir",
     "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress",
