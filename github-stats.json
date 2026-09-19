@@ -84,8 +84,8 @@
     "HTML": 4,
     "JavaScript": 3,
     "C++": 3,
+    "TypeScript": 3,
     "C": 2,
-    "TypeScript": 2,
     "Unknown": 1
   },
   "langCommitCount": {
@@ -119,7 +119,7 @@
   },
   "repoStarCount": {
     "SketchwareLibrary": 4,
-    "dafit-canvas": 2,
+    "dafit-canvas": 3,
     "e-labInnovations": 2,
     "FitPro-LT715-TLSR8232": 2,
     "ieeesbtkmce": 2,
