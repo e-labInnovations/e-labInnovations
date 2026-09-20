@@ -171,10 +171,10 @@
 
 ## :writing_hand: 𝐋𝐚𝐭𝐞𝐬𝐭 𝐁𝐥𝐨𝐠 𝐏𝐨𝐬𝐭𝐬
 <!-- BLOG-POST-LIST:START -->
+- [Making a WCH-Link clone program the unsupported CH32V003](https://elabins.com/blog/making-a-wch-link-clone-program-the-unsupported-ch32v003)
 - [Building Clipix, a Clipy-style clipboard manager for GNOME](https://elabins.com/blog/building-clipix-a-clipy-style-clipboard-manager-for-gnome)
 - [Building a USB display from a salvaged smartwatch LCD](https://elabins.com/blog/building-a-usb-display-from-a-salvaged-smartwatch-lcd)
 - [Turning a ₹249 Smartwatch Into a DIY AirTag Tracker](https://elabins.com/blog/turning-a-249-smartwatch-into-a-diy-airtag-tracker)
-- [Hacking a ₹249 Smartwatch: Custom Firmware on TLSR8232](https://elabins.com/blog/hacking-a-249-smartwatch-custom-firmware-on-tlsr8232)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
