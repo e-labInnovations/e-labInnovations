@@ -86,6 +86,7 @@
     "JavaScript": 3,
     "C++": 3,
     "TypeScript": 3,
+    "Python": 1,
     "Unknown": 1
   },
   "langCommitCount": {
@@ -126,8 +127,8 @@
     "IoT-based-water-quality-monitoring-system": 2,
     "ch549-link": 1,
     "ESP12-Home-Automation": 1,
-    "Fritzing-Arduino-Basic-Circuits": 1,
-    "pika": 1
+    "FindMy-TLSR8232": 1,
+    "Fritzing-Arduino-Basic-Circuits": 1
   },
   "repoCommitCountDescriptions": {
     "e-labInnovations.github.io": "Blog",
@@ -150,7 +151,7 @@
     "IoT-based-water-quality-monitoring-system": "IoT Based Water Quality Monitoring System",
     "ch549-link": "Browser-based firmware flasher that turns a WCH-Link debug probe into a single-wire CH32V003 programmer.",
     "ESP12-Home-Automation": "ESP12 based home automation project.",
-    "Fritzing-Arduino-Basic-Circuits": "For Jemshihas Sir",
-    "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress"
+    "FindMy-TLSR8232": null,
+    "Fritzing-Arduino-Basic-Circuits": "For Jemshihas Sir"
   }
 }
