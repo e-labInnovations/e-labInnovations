@@ -10,8 +10,8 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           max_post_count: "4"
           feed_list: "https://elabins.com/feed/"

@@ -2,7 +2,7 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 * * * *" # Run every hour
+    - cron: "0 3 * * *" # Daily, 03:00 UTC
   workflow_dispatch: # Allow manual triggering
 
 jobs:
@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
 

@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node .github/scripts/github-profile-generator.js e-labInnovations"
+    "start": "node .github/scripts/github-profile-generator.js e-labInnovations",
+    "icons": "node .github/scripts/build-icons.js"
   },
   "dependencies": {
     "@octokit/rest": "^20.0.2",
     "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "simple-icons": "^16.32.0"
   }
 }
