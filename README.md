@@ -35,7 +35,7 @@
 
 <br />
 
-<img align="left" alt="Skills" width="200" src="/stack.gif">
+<img align="right" alt="Skills" width="200" src="/stack.gif">
 
 ## :hammer_and_wrench: Skills & tools
 
