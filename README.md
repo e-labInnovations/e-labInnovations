@@ -82,6 +82,16 @@
 
 <br />
 
+## :toolbox: Apps I've built
+<a href="https://elabins.com/apps">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://elabins.com/widgets/apps.svg?theme=dark">
+  <img alt="Apps by e-lab innovations" src="https://elabins.com/widgets/apps.svg?theme=light">
+ </picture>
+</a>
+
+<br />
+
 ## :writing_hand: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Making a WCH-Link clone program the unsupported CH32V003](https://elabins.com/blog/making-a-wch-link-clone-program-the-unsupported-ch32v003)
