@@ -60,7 +60,7 @@
     "2025-Q4": 15,
     "2026-Q1": 22,
     "2026-Q2": 166,
-    "2026-Q3": 93
+    "2026-Q3": 98
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -80,11 +80,11 @@
     "MATLAB": 1
   },
   "langStarCount": {
+    "C": 4,
     "CSS": 4,
-    "C": 3,
+    "TypeScript": 4,
+    "C++": 4,
     "JavaScript": 3,
-    "TypeScript": 3,
-    "C++": 3,
     "Unknown": 3,
     "HTML": 2,
     "Python": 1
@@ -92,10 +92,10 @@
   "langCommitCount": {
     "JavaScript": 636,
     "HTML": 419,
-    "TypeScript": 223,
-    "C": 104,
+    "TypeScript": 224,
+    "C": 105,
     "C++": 71,
-    "Unknown": 68,
+    "Unknown": 71,
     "PHP": 49,
     "Makefile": 47,
     "SCSS": 18,
@@ -110,7 +110,7 @@
     "e-labInnovations.github.io": 208,
     "pika": 204,
     "ieeesbtkmce": 174,
-    "e-labInnovations": 64,
+    "e-labInnovations": 67,
     "ashad": 63,
     "pika-app": 56,
     "pika-v2": 54,
@@ -125,10 +125,10 @@
     "FitPro-LT715-TLSR8232": 2,
     "ieeesbtkmce": 2,
     "IoT-based-water-quality-monitoring-system": 2,
+    "30-Days-of-Code": 1,
+    "bit-dojo": 1,
     "ch549-link": 1,
-    "ESP12-Home-Automation": 1,
-    "FindMy-TLSR8232": 1,
-    "Fritzing-Arduino-Basic-Circuits": 1
+    "ESP12-Home-Automation": 1
   },
   "repoCommitCountDescriptions": {
     "e-labInnovations.github.io": "Blog",
@@ -149,9 +149,9 @@
     "FitPro-LT715-TLSR8232": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "IoT-based-water-quality-monitoring-system": "IoT Based Water Quality Monitoring System",
+    "30-Days-of-Code": "IMPROVING CODING SKILLS BY CODING FOR 30 DAYS IN A ROW",
+    "bit-dojo": "Learn embedded bitwise register tricks by poking a simulated CH32V003.",
     "ch549-link": "Browser-based firmware flasher that turns a WCH-Link debug probe into a single-wire CH32V003 programmer.",
-    "ESP12-Home-Automation": "ESP12 based home automation project.",
-    "FindMy-TLSR8232": null,
-    "Fritzing-Arduino-Basic-Circuits": "For Jemshihas Sir"
+    "ESP12-Home-Automation": "ESP12 based home automation project."
   }
 }
