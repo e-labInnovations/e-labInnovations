@@ -60,19 +60,19 @@
     "2025-Q4": 15,
     "2026-Q1": 22,
     "2026-Q2": 166,
-    "2026-Q3": 98
+    "2026-Q3": 100
   },
   "langRepoCount": {
     "JavaScript": 32,
     "HTML": 10,
     "TypeScript": 9,
     "C++": 9,
-    "C": 7,
+    "C": 8,
     "PHP": 7,
     "CSS": 2,
-    "Makefile": 2,
     "Unknown": 2,
     "Python": 2,
+    "Makefile": 1,
     "SCSS": 1,
     "Shell": 1,
     "EJS": 1,
@@ -80,9 +80,9 @@
     "MATLAB": 1
   },
   "langStarCount": {
+    "TypeScript": 5,
     "C": 4,
     "CSS": 4,
-    "TypeScript": 4,
     "C++": 4,
     "JavaScript": 3,
     "Unknown": 3,
@@ -93,11 +93,11 @@
     "JavaScript": 636,
     "HTML": 419,
     "TypeScript": 224,
-    "C": 105,
+    "C": 113,
     "C++": 71,
     "Unknown": 71,
     "PHP": 49,
-    "Makefile": 47,
+    "Makefile": 41,
     "SCSS": 18,
     "Python": 13,
     "CSS": 12,
@@ -119,8 +119,8 @@
     "DSP-LAB": 41
   },
   "repoStarCount": {
+    "dafit-canvas": 4,
     "SketchwareLibrary": 4,
-    "dafit-canvas": 3,
     "e-labInnovations": 2,
     "FitPro-LT715-TLSR8232": 2,
     "ieeesbtkmce": 2,
@@ -143,8 +143,8 @@
     "DSP-LAB": "Digital Signal Processing Lab Codes"
   },
   "repoStarCountDescriptions": {
-    "SketchwareLibrary": null,
     "dafit-canvas": "DaFit Canvas is a browser-based visual editor for designing smartwatch faces compatible with the Da Fit / MoYoung ecosystem. Import an existing Type C .bin, swap assets, retouch positions, regenerate digits from a font, and export a watch-ready binary — without ever touching a hex editor.",
+    "SketchwareLibrary": null,
     "e-labInnovations": "My Profile",
     "FitPro-LT715-TLSR8232": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
