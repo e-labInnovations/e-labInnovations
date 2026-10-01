@@ -60,7 +60,8 @@
     "2025-Q4": 15,
     "2026-Q1": 22,
     "2026-Q2": 166,
-    "2026-Q3": 100
+    "2026-Q3": 107,
+    "2026-Q4": 0
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -92,7 +93,7 @@
   "langCommitCount": {
     "JavaScript": 636,
     "HTML": 419,
-    "TypeScript": 224,
+    "TypeScript": 231,
     "C": 113,
     "C++": 71,
     "Unknown": 71,
@@ -112,8 +113,8 @@
     "ieeesbtkmce": 174,
     "e-labInnovations": 67,
     "ashad": 63,
+    "pika-v2": 61,
     "pika-app": 56,
-    "pika-v2": 54,
     "anzarianz-app": 51,
     "CampusCast-app": 44,
     "DSP-LAB": 41
@@ -136,8 +137,8 @@
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "e-labInnovations": "My Profile",
     "ashad": "Ashad  - A WordPress theme",
-    "pika-app": null,
     "pika-v2": null,
+    "pika-app": null,
     "anzarianz-app": "Anzarianz App",
     "CampusCast-app": "An IoT-Based Announcement System App",
     "DSP-LAB": "Digital Signal Processing Lab Codes"
