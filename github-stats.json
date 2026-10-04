@@ -4,7 +4,7 @@
     "createdAt": 1511527022000,
     "collaborators": 0,
     "diskUsage": 0,
-    "followers": 29,
+    "followers": 30,
     "following": 33,
     "id": 33958126,
     "ownedPrivateRepos": 0,
@@ -61,7 +61,7 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 107,
-    "2026-Q4": 2
+    "2026-Q4": 8
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -81,7 +81,7 @@
     "MATLAB": 1
   },
   "langStarCount": {
-    "TypeScript": 5,
+    "TypeScript": 6,
     "C": 4,
     "CSS": 4,
     "C++": 4,
@@ -91,9 +91,9 @@
     "Python": 1
   },
   "langCommitCount": {
-    "JavaScript": 636,
+    "JavaScript": 637,
     "HTML": 419,
-    "TypeScript": 233,
+    "TypeScript": 238,
     "C": 113,
     "C++": 71,
     "Unknown": 71,
@@ -109,18 +109,18 @@
   },
   "repoCommitCount": {
     "e-labInnovations.github.io": 208,
-    "pika": 204,
+    "pika": 205,
     "ieeesbtkmce": 174,
+    "pika-v2": 68,
     "e-labInnovations": 67,
     "ashad": 63,
-    "pika-v2": 63,
     "pika-app": 56,
     "anzarianz-app": 51,
     "CampusCast-app": 44,
     "DSP-LAB": 41
   },
   "repoStarCount": {
-    "dafit-canvas": 4,
+    "dafit-canvas": 5,
     "SketchwareLibrary": 4,
     "e-labInnovations": 2,
     "FitPro-LT715-TLSR8232": 2,
@@ -135,9 +135,9 @@
     "e-labInnovations.github.io": "Blog",
     "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
+    "pika-v2": null,
     "e-labInnovations": "My Profile",
     "ashad": "Ashad  - A WordPress theme",
-    "pika-v2": null,
     "pika-app": null,
     "anzarianz-app": "Anzarianz App",
     "CampusCast-app": "An IoT-Based Announcement System App",
