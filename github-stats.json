@@ -60,8 +60,8 @@
     "2025-Q4": 15,
     "2026-Q1": 22,
     "2026-Q2": 166,
-    "2026-Q3": 107,
-    "2026-Q4": 8
+    "2026-Q3": 112,
+    "2026-Q4": 42
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -93,7 +93,7 @@
   "langCommitCount": {
     "JavaScript": 637,
     "HTML": 419,
-    "TypeScript": 238,
+    "TypeScript": 277,
     "C": 113,
     "C++": 71,
     "Unknown": 71,
@@ -111,10 +111,10 @@
     "e-labInnovations.github.io": 208,
     "pika": 205,
     "ieeesbtkmce": 174,
-    "pika-v2": 68,
+    "pika-v2": 83,
+    "pika-app": 80,
     "e-labInnovations": 67,
     "ashad": 63,
-    "pika-app": 56,
     "anzarianz-app": 51,
     "CampusCast-app": 44,
     "DSP-LAB": 41
@@ -136,9 +136,9 @@
     "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "pika-v2": null,
+    "pika-app": null,
     "e-labInnovations": "My Profile",
     "ashad": "Ashad  - A WordPress theme",
-    "pika-app": null,
     "anzarianz-app": "Anzarianz App",
     "CampusCast-app": "An IoT-Based Announcement System App",
     "DSP-LAB": "Digital Signal Processing Lab Codes"
