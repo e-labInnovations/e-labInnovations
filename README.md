@@ -94,10 +94,10 @@
 
 ## :writing_hand: Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Node-RED 24/7 for Free on Render with Turso or Neon](https://elabins.com/blog/run-node-red-247-for-free-on-render-with-turso-or-neon)
 - [Making a WCH-Link clone program the unsupported CH32V003](https://elabins.com/blog/making-a-wch-link-clone-program-the-unsupported-ch32v003)
 - [Building Clipix, a Clipy-style clipboard manager for GNOME](https://elabins.com/blog/building-clipix-a-clipy-style-clipboard-manager-for-gnome)
 - [Building a USB display from a salvaged smartwatch LCD](https://elabins.com/blog/building-a-usb-display-from-a-salvaged-smartwatch-lcd)
-- [Turning a ₹249 Smartwatch Into a DIY AirTag Tracker](https://elabins.com/blog/turning-a-249-smartwatch-into-a-diy-airtag-tracker)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
