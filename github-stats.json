@@ -10,7 +10,7 @@
     "ownedPrivateRepos": 0,
     "privateGists": 0,
     "publicGists": 5,
-    "publicRepos": 99,
+    "publicRepos": 100,
     "totalPrivateRepos": 0,
     "avatarUrl": "https://avatars.githubusercontent.com/u/33958126?v=4",
     "blog": "www.elabins.com",
@@ -61,7 +61,7 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 112,
-    "2026-Q4": 45
+    "2026-Q4": 55
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -70,9 +70,9 @@
     "C++": 9,
     "C": 8,
     "PHP": 7,
+    "Python": 3,
     "CSS": 2,
     "Unknown": 2,
-    "Python": 2,
     "Makefile": 1,
     "SCSS": 1,
     "Shell": 1,
@@ -91,7 +91,7 @@
     "Python": 1
   },
   "langCommitCount": {
-    "JavaScript": 642,
+    "JavaScript": 651,
     "HTML": 419,
     "TypeScript": 277,
     "C": 113,
@@ -100,7 +100,7 @@
     "PHP": 49,
     "Makefile": 41,
     "SCSS": 18,
-    "Python": 13,
+    "Python": 14,
     "CSS": 12,
     "MATLAB": 12,
     "Lua": 9,
