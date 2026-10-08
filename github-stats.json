@@ -61,7 +61,7 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 112,
-    "2026-Q4": 55
+    "2026-Q4": 64
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -81,7 +81,7 @@
     "MATLAB": 1
   },
   "langStarCount": {
-    "TypeScript": 6,
+    "TypeScript": 7,
     "C": 4,
     "CSS": 4,
     "C++": 4,
@@ -99,8 +99,8 @@
     "Unknown": 71,
     "PHP": 49,
     "Makefile": 41,
+    "Python": 23,
     "SCSS": 18,
-    "Python": 14,
     "CSS": 12,
     "MATLAB": 12,
     "Lua": 9,
@@ -120,7 +120,7 @@
     "DSP-LAB": 41
   },
   "repoStarCount": {
-    "dafit-canvas": 5,
+    "dafit-canvas": 6,
     "SketchwareLibrary": 4,
     "e-labInnovations": 2,
     "FitPro-LT715-TLSR8232": 2,
