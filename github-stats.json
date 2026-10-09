@@ -61,18 +61,18 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 112,
-    "2026-Q4": 64
+    "2026-Q4": 73
   },
   "langRepoCount": {
     "JavaScript": 32,
     "HTML": 10,
+    "C": 9,
     "TypeScript": 9,
     "C++": 9,
-    "C": 8,
     "PHP": 7,
-    "Python": 3,
     "CSS": 2,
     "Unknown": 2,
+    "Python": 2,
     "Makefile": 1,
     "SCSS": 1,
     "Shell": 1,
@@ -82,7 +82,7 @@
   },
   "langStarCount": {
     "TypeScript": 7,
-    "C": 4,
+    "C": 5,
     "CSS": 4,
     "C++": 4,
     "JavaScript": 3,
@@ -94,13 +94,13 @@
     "JavaScript": 651,
     "HTML": 419,
     "TypeScript": 277,
-    "C": 113,
+    "C": 132,
     "C++": 71,
     "Unknown": 71,
     "PHP": 49,
     "Makefile": 41,
-    "Python": 23,
     "SCSS": 18,
+    "Python": 13,
     "CSS": 12,
     "MATLAB": 12,
     "Lua": 9,
@@ -122,13 +122,13 @@
   "repoStarCount": {
     "dafit-canvas": 6,
     "SketchwareLibrary": 4,
+    "ch549-link": 2,
     "e-labInnovations": 2,
     "FitPro-LT715-TLSR8232": 2,
     "ieeesbtkmce": 2,
     "IoT-based-water-quality-monitoring-system": 2,
     "30-Days-of-Code": 1,
     "bit-dojo": 1,
-    "ch549-link": 1,
     "ESP12-Home-Automation": 1
   },
   "repoCommitCountDescriptions": {
@@ -146,13 +146,13 @@
   "repoStarCountDescriptions": {
     "dafit-canvas": "DaFit Canvas is a browser-based visual editor for designing smartwatch faces compatible with the Da Fit / MoYoung ecosystem. Import an existing Type C .bin, swap assets, retouch positions, regenerate digits from a font, and export a watch-ready binary — without ever touching a hex editor.",
     "SketchwareLibrary": null,
+    "ch549-link": "Browser-based firmware flasher that turns a WCH-Link debug probe into a single-wire CH32V003 programmer.",
     "e-labInnovations": "My Profile",
     "FitPro-LT715-TLSR8232": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "IoT-based-water-quality-monitoring-system": "IoT Based Water Quality Monitoring System",
     "30-Days-of-Code": "IMPROVING CODING SKILLS BY CODING FOR 30 DAYS IN A ROW",
     "bit-dojo": "Learn embedded bitwise register tricks by poking a simulated CH32V003.",
-    "ch549-link": "Browser-based firmware flasher that turns a WCH-Link debug probe into a single-wire CH32V003 programmer.",
     "ESP12-Home-Automation": "ESP12 based home automation project."
   }
 }
