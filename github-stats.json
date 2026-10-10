@@ -61,7 +61,7 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 112,
-    "2026-Q4": 73
+    "2026-Q4": 81
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -82,7 +82,7 @@
   },
   "langStarCount": {
     "TypeScript": 7,
-    "C": 5,
+    "C": 6,
     "CSS": 4,
     "C++": 4,
     "JavaScript": 3,
@@ -94,7 +94,7 @@
     "JavaScript": 651,
     "HTML": 419,
     "TypeScript": 277,
-    "C": 132,
+    "C": 140,
     "C++": 71,
     "Unknown": 71,
     "PHP": 49,
@@ -122,9 +122,9 @@
   "repoStarCount": {
     "dafit-canvas": 6,
     "SketchwareLibrary": 4,
+    "FitPro-LT715-TLSR8232": 3,
     "ch549-link": 2,
     "e-labInnovations": 2,
-    "FitPro-LT715-TLSR8232": 2,
     "ieeesbtkmce": 2,
     "IoT-based-water-quality-monitoring-system": 2,
     "30-Days-of-Code": 1,
@@ -146,9 +146,9 @@
   "repoStarCountDescriptions": {
     "dafit-canvas": "DaFit Canvas is a browser-based visual editor for designing smartwatch faces compatible with the Da Fit / MoYoung ecosystem. Import an existing Type C .bin, swap assets, retouch positions, regenerate digits from a font, and export a watch-ready binary — without ever touching a hex editor.",
     "SketchwareLibrary": null,
+    "FitPro-LT715-TLSR8232": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
     "ch549-link": "Browser-based firmware flasher that turns a WCH-Link debug probe into a single-wire CH32V003 programmer.",
     "e-labInnovations": "My Profile",
-    "FitPro-LT715-TLSR8232": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
     "IoT-based-water-quality-monitoring-system": "IoT Based Water Quality Monitoring System",
     "30-Days-of-Code": "IMPROVING CODING SKILLS BY CODING FOR 30 DAYS IN A ROW",
