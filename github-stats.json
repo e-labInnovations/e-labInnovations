@@ -10,7 +10,7 @@
     "ownedPrivateRepos": 0,
     "privateGists": 0,
     "publicGists": 5,
-    "publicRepos": 100,
+    "publicRepos": 101,
     "totalPrivateRepos": 0,
     "avatarUrl": "https://avatars.githubusercontent.com/u/33958126?v=4",
     "blog": "www.elabins.com",
@@ -61,13 +61,13 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 112,
-    "2026-Q4": 94
+    "2026-Q4": 112
   },
   "langRepoCount": {
     "JavaScript": 32,
     "HTML": 10,
+    "TypeScript": 10,
     "C": 9,
-    "TypeScript": 9,
     "C++": 9,
     "PHP": 7,
     "CSS": 2,
@@ -81,7 +81,7 @@
     "MATLAB": 1
   },
   "langStarCount": {
-    "TypeScript": 7,
+    "TypeScript": 8,
     "C": 6,
     "CSS": 4,
     "C++": 4,
@@ -93,7 +93,7 @@
   "langCommitCount": {
     "JavaScript": 660,
     "HTML": 419,
-    "TypeScript": 277,
+    "TypeScript": 295,
     "C": 144,
     "C++": 71,
     "Unknown": 71,
@@ -120,7 +120,7 @@
     "DSP-LAB": 41
   },
   "repoStarCount": {
-    "dafit-canvas": 6,
+    "dafit-canvas": 7,
     "SketchwareLibrary": 4,
     "FitPro-LT715-TLSR8232": 3,
     "ch549-link": 2,
