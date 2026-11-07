@@ -61,7 +61,7 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 112,
-    "2026-Q4": 145
+    "2026-Q4": 148
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -93,7 +93,7 @@
   "langCommitCount": {
     "JavaScript": 660,
     "HTML": 419,
-    "TypeScript": 328,
+    "TypeScript": 331,
     "C": 144,
     "C++": 71,
     "Unknown": 71,
@@ -111,8 +111,8 @@
     "e-labInnovations.github.io": 208,
     "pika": 205,
     "ieeesbtkmce": 174,
+    "pika-app": 91,
     "pika-v2": 89,
-    "pika-app": 88,
     "e-labInnovations": 67,
     "ashad": 63,
     "anzarianz-app": 51,
@@ -135,8 +135,8 @@
     "e-labInnovations.github.io": "Blog",
     "pika": "AI-Powered Personal Finance & Expense Tracking for WordPress",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
-    "pika-v2": null,
     "pika-app": null,
+    "pika-v2": null,
     "e-labInnovations": "My Profile",
     "ashad": "Ashad  - A WordPress theme",
     "anzarianz-app": "Anzarianz App",
