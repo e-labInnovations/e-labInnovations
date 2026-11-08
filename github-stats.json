@@ -61,7 +61,7 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 112,
-    "2026-Q4": 148
+    "2026-Q4": 174
   },
   "langRepoCount": {
     "JavaScript": 32,
@@ -81,7 +81,7 @@
     "MATLAB": 1
   },
   "langStarCount": {
-    "TypeScript": 8,
+    "TypeScript": 9,
     "C": 7,
     "CSS": 4,
     "C++": 4,
@@ -93,7 +93,7 @@
   "langCommitCount": {
     "JavaScript": 660,
     "HTML": 419,
-    "TypeScript": 331,
+    "TypeScript": 357,
     "C": 144,
     "C++": 71,
     "Unknown": 71,
@@ -111,8 +111,8 @@
     "e-labInnovations.github.io": 208,
     "pika": 205,
     "ieeesbtkmce": 174,
-    "pika-app": 91,
-    "pika-v2": 89,
+    "pika-app": 106,
+    "pika-v2": 100,
     "e-labInnovations": 67,
     "ashad": 63,
     "anzarianz-app": 51,
@@ -120,7 +120,7 @@
     "DSP-LAB": 41
   },
   "repoStarCount": {
-    "dafit-canvas": 7,
+    "dafit-canvas": 8,
     "SketchwareLibrary": 4,
     "FitPro-LT715-TLSR8232": 3,
     "ch549-link": 2,
