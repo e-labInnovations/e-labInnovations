@@ -10,7 +10,7 @@
     "ownedPrivateRepos": 0,
     "privateGists": 0,
     "publicGists": 5,
-    "publicRepos": 101,
+    "publicRepos": 102,
     "totalPrivateRepos": 0,
     "avatarUrl": "https://avatars.githubusercontent.com/u/33958126?v=4",
     "blog": "www.elabins.com",
@@ -61,12 +61,12 @@
     "2026-Q1": 22,
     "2026-Q2": 166,
     "2026-Q3": 112,
-    "2026-Q4": 209
+    "2026-Q4": 215
   },
   "langRepoCount": {
     "JavaScript": 32,
+    "TypeScript": 11,
     "HTML": 10,
-    "TypeScript": 10,
     "C": 9,
     "C++": 9,
     "PHP": 7,
@@ -82,7 +82,7 @@
   },
   "langStarCount": {
     "TypeScript": 9,
-    "C": 7,
+    "C": 8,
     "CSS": 4,
     "C++": 4,
     "JavaScript": 3,
@@ -93,7 +93,7 @@
   "langCommitCount": {
     "JavaScript": 660,
     "HTML": 419,
-    "TypeScript": 392,
+    "TypeScript": 398,
     "C": 144,
     "C++": 71,
     "Unknown": 71,
@@ -121,8 +121,8 @@
   },
   "repoStarCount": {
     "dafit-canvas": 8,
+    "FitPro-LT715-TLSR8232": 4,
     "SketchwareLibrary": 4,
-    "FitPro-LT715-TLSR8232": 3,
     "ch549-link": 2,
     "e-labInnovations": 2,
     "ieeesbtkmce": 2,
@@ -145,8 +145,8 @@
   },
   "repoStarCountDescriptions": {
     "dafit-canvas": "DaFit Canvas is a browser-based visual editor for designing smartwatch faces compatible with the Da Fit / MoYoung ecosystem. Import an existing Type C .bin, swap assets, retouch positions, regenerate digits from a font, and export a watch-ready binary — without ever touching a hex editor.",
-    "SketchwareLibrary": null,
     "FitPro-LT715-TLSR8232": "Reverse engineering and custom firmware development for the FitPro LT715 Smartwatch, which uses the Telink TLSR8232 SoC.",
+    "SketchwareLibrary": null,
     "ch549-link": "Browser-based firmware flasher that turns a WCH-Link debug probe into a single-wire CH32V003 programmer.",
     "e-labInnovations": "My Profile",
     "ieeesbtkmce": "WordPress theme for IEEE SB TKMCE",
